@@ -1,0 +1,422 @@
+#EXTM3U
+#EXTINF:0 tvg-id="13Ulica.pl" group-title="Channels",13 Ulica
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13901&extension=ts
+#EXTINF:0 tvg-id="4FunDance.pl" group-title="Channels",4Fun Dance
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13902&extension=ts
+#EXTINF:0 tvg-id="4FunGoldHits.pl" group-title="Channels",4Fun Gold Hits
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13903&extension=ts
+#EXTINF:0 tvg-id="4fun.pl" group-title="Channels",4Fun.TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13904&extension=ts
+#EXTINF:0 tvg-id="FamilySport.pl" group-title="Channels",Active Family
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13905&extension=ts
+#EXTINF:0 tvg-id="Adventure.pl" group-title="Channels",ADVENTURE
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13906&extension=ts
+#EXTINF:0 tvg-id="AleKino.pl" group-title="Channels",Ale Kino+
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13907&extension=ts
+#EXTINF:0 tvg-id="AMC.pl" group-title="Channels",AMC
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13908&extension=ts
+#EXTINF:0 tvg-id="AnimalPlanetHD.pl" group-title="Channels",Animal Planet
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13909&extension=ts
+#EXTINF:0 tvg-id="AXN.pl" group-title="Channels",AXN
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13910&extension=ts
+#EXTINF:0 tvg-id="AXNBlack.pl" group-title="Channels",AXN Black
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13911&extension=ts
+#EXTINF:0 tvg-id="AXN.pl" group-title="Channels",AXN
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13912&extension=ts
+#EXTINF:0 tvg-id="AXNSpinHD.pl" group-title="Channels",AXN SPIN
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13913&extension=ts
+#EXTINF:0 tvg-id="AXNWhite.pl" group-title="Channels",AXN White
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13914&extension=ts
+#EXTINF:0 tvg-id="BabyTV.pl" group-title="Channels",Baby Tv
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13915&extension=ts
+#EXTINF:0 tvg-id="BBCBrit.pl" group-title="Channels",BBC BRIT
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13916&extension=ts
+#EXTINF:0 tvg-id="CBeebies.pl" group-title="Channels",BBC CBeebies
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13917&extension=ts
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Channels",BBC Earth
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13918&extension=ts
+#EXTINF:0 tvg-id="BBCFirst.uk" group-title="Channels",BBC FIRST
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13919&extension=ts
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Channels",BBC LIFESTYLE
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13920&extension=ts
+#EXTINF:0 tvg-id="Boomerang.pl" group-title="Channels",Boomerang
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13921&extension=ts
+#EXTINF:0 tvg-id="CanalplusFamily2.pl" group-title="Channels",CANAL+ 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13922&extension=ts
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="Channels",CANAL+ FAMILY
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13924&extension=ts
+#EXTINF:0 tvg-id="CanalplusFilm.pl" group-title="Channels",CANAL+ FILM
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13925&extension=ts
+#EXTINF:0 tvg-id="CanalPlusPremium.pl" group-title="Channels",Canal+ Premium
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13926&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL+ DOKUMENT
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13853&extension=ts
+#EXTINF:0 tvg-id="CrimeInvestigation.pl" group-title="Channels",CI Polsat
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13854&extension=ts
+#EXTINF:0 tvg-id="CanalplusFilm.pl" group-title="Channels",Canal+ Film
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13856&extension=ts
+#EXTINF:0 tvg-id="CanalPlusPremium.pl" group-title="Channels",Canal+ Premium
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13857&extension=ts
+#EXTINF:0 tvg-id="CanalplusFilm2.pl" group-title="Channels",Canal+ Seriale
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13858&extension=ts
+#EXTINF:0 tvg-id="ComedyCentral.pl" group-title="Channels",Comedy Central
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13859&extension=ts
+#EXTINF:0 tvg-id="CanalplusFilm2.pl" group-title="Channels",CANAL+ SERIALE
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13927&extension=ts
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Channels",CANAL+ SPORT 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13928&extension=ts
+#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="Channels",CANAL+ SPORT 3
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13929&extension=ts
+#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="Channels",CANAL+ SPORT 4
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13930&extension=ts
+#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Channels",CANAL+ SPORT
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13931&extension=ts
+#EXTINF:0 tvg-id="CBSEuropa.pl" group-title="Channels",CBS Europa
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13933&extension=ts
+#EXTINF:0 tvg-id="CBSReality.pl" group-title="Channels",CBS Reality
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13934&extension=ts
+#EXTINF:0 tvg-id="Cinemax2.pl" group-title="Channels",Cinemax 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13935&extension=ts
+#EXTINF:0 tvg-id="CinemaxHD.pl" group-title="Channels",Cinemax
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13936&extension=ts
+#EXTINF:0 tvg-id="ComedyCentral.pl" group-title="Channels",Comedy Central
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13937&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Central Poland
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13938&extension=ts
+#EXTINF:0 tvg-id="CrimeInvestigation.pl" group-title="Channels",Crime and Investigation
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13939&extension=ts
+#EXTINF:0 tvg-id="DaVinciLearning.pl" group-title="Channels",Da Vinci Learning
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13940&extension=ts
+#EXTINF:0 tvg-id="DiscoPoloMusic.pl" group-title="Channels",Disco Polo Music
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13941&extension=ts
+#EXTINF:0 tvg-id="Discovery.pl" group-title="Channels",Discovery
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13942&extension=ts
+#EXTINF:0 tvg-id="DiscoveryHistoria.pl" group-title="Channels",Discovery Historia
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13943&extension=ts
+#EXTINF:0 tvg-id="DiscoveryLife.pl" group-title="Channels",Discovery Life
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13944&extension=ts
+#EXTINF:0 tvg-id="DiscoveryScience.pl" group-title="Channels",Discovery Science
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13945&extension=ts
+#EXTINF:0 tvg-id="DisneyChannel.pl" group-title="Channels",Disney Channel
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13946&extension=ts
+#EXTINF:0 tvg-id="DisneyJr.pl" group-title="Channels",Disney Junior
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13947&extension=ts
+#EXTINF:0 tvg-id="DisneyXD.pl" group-title="Channels",Disney XD
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13948&extension=ts
+#EXTINF:0 tvg-id="DomoTV.pl" group-title="Channels",DOMO+
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13949&extension=ts
+#EXTINF:0 tvg-id="DiscoveryTurboXtra.pl" group-title="Channels",DTX
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13950&extension=ts
+#EXTINF:0 tvg-id="E!.pl" group-title="Channels",E! Entertainment
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13951&extension=ts
+#EXTINF:0 tvg-id="EPICDramaHD.pl" group-title="Channels",Epic Drama
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13956&extension=ts
+#EXTINF:0 tvg-id="EskaROCK.pl" group-title="Channels",ESKA ROCK TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13957&extension=ts
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="Channels",Eska TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13958&extension=ts
+#EXTINF:0 tvg-id="EskaTVExtra.pl" group-title="Channels",ESKA TV Extra
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13959&extension=ts
+#EXTINF:0 tvg-id="Eurosport.pl" group-title="Channels",Eurosport 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13960&extension=ts
+#EXTINF:0 tvg-id="Eurosport.pl" group-title="Channels",Eurosport 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13961&extension=ts
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="Channels",Eurosport 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13962&extension=ts
+#EXTINF:0 tvg-id="ExtremeSports.pl" group-title="Channels",Extreme Sports
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13963&extension=ts
+#EXTINF:0 tvg-id="FightBox.pl" group-title="Channels",Fightbox
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13964&extension=ts
+#EXTINF:0 tvg-id="FightKlub.pl" group-title="Channels",Fightklub
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13965&extension=ts
+#EXTINF:0 tvg-id="FilmboxAction.pl" group-title="Channels",Filmbox Action
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13966&extension=ts
+#EXTINF:0 tvg-id="FilmboxArthouse.pl" group-title="Channels",Filmbox Arthouse
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13967&extension=ts
+#EXTINF:0 tvg-id="FilmboxExtra.pl" group-title="Channels",FILMBOX EXTRA
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13968&extension=ts
+#EXTINF:0 tvg-id="FilmboxFamily.pl" group-title="Channels",Filmbox Family
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13969&extension=ts
+#EXTINF:0 tvg-id="FilmboxPremium.pl" group-title="Channels",Filmbox Premium
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13970&extension=ts
+#EXTINF:0 tvg-id="FokusTV.pl" group-title="Channels",FOKUS TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13971&extension=ts
+#EXTINF:0 tvg-id="FoodNetwork.pl" group-title="Channels",Food Network
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13972&extension=ts
+#EXTINF:0 tvg-id="FoxComedy.pl" group-title="Channels",Fox Comedy
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13973&extension=ts
+#EXTINF:0 tvg-id="FoxComedy.pl" group-title="Channels",Fox Comedy
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13974&extension=ts
+#EXTINF:0 tvg-id="Fox.pl" group-title="Channels",FOX
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13975&extension=ts
+#EXTINF:0 tvg-id="GolfChannel.pl" group-title="Channels",Golf Channel
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13976&extension=ts
+#EXTINF:0 tvg-id="H2.pl" group-title="Channels",H2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13977&extension=ts
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13978&extension=ts
+#EXTINF:0 tvg-id="HBO3.pl" group-title="Channels",HBO 3
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13979&extension=ts
+#EXTINF:0 tvg-id="HBO.pl" group-title="Channels",HBO
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13980&extension=ts
+#EXTINF:0 tvg-id="HGTV.pl" group-title="Channels",HGTV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13981&extension=ts
+#EXTINF:0 tvg-id="History.pl" group-title="Channels",History
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13982&extension=ts
+#EXTINF:0 tvg-id="History.pl" group-title="Channels",History
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13983&extension=ts
+#EXTINF:0 tvg-id="InvestigationDiscovery.pl" group-title="Channels",ID
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13984&extension=ts
+#EXTINF:0 tvg-id="KinoPolska.pl" group-title="Channels",KINO POLSKA
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13985&extension=ts
+#EXTINF:0 tvg-id="KinoPolskaMuzyka.pl" group-title="Channels",Kino Polska Muzyka
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13986&extension=ts
+#EXTINF:0 tvg-id="KinoTV.pl" group-title="Channels",Kino Tv
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13987&extension=ts
+#EXTINF:0 tvg-id="KUCHNIA.TV.pl" group-title="Channels",Kuchnia+
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13988&extension=ts
+#EXTINF:0 tvg-id="Lifetime.pl" group-title="Channels",Lifetime
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13989&extension=ts
+#EXTINF:0 tvg-id="Metro.pl" group-title="Channels",Metro
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13990&extension=ts
+#EXTINF:0 tvg-id="MINIMINI.pl" group-title="Channels",MiniMini
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13991&extension=ts
+#EXTINF:0 tvg-id="Motowizja.pl" group-title="Channels",MOTOWIZJA
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13992&extension=ts
+#EXTINF:0 tvg-id="MTVNHD.pl" group-title="Channels",MTV Live
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13993&extension=ts
+#EXTINF:0 tvg-id="MTV.pl" group-title="Channels",MTV POLSKA
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13994&extension=ts
+#EXTINF:0 tvg-id="MTV.pl" group-title="Channels",MTV Polska
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13995&extension=ts
+#EXTINF:0 tvg-id="MTVRocks.eu" group-title="Channels",MTV ROCKS
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13996&extension=ts
+#EXTINF:0 tvg-id="NatGeoPeople.pl" group-title="Channels",Nat Geo People
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13997&extension=ts
+#EXTINF:0 tvg-id="NatGeoWildHD.pl" group-title="Channels",Nat Geo Wild
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13998&extension=ts
+#EXTINF:0 tvg-id="NationalGeographic.pl" group-title="Channels",NATIONAL GEOGRAPHIC
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13999&extension=ts
+#EXTINF:0 tvg-id="NickJr.pl" group-title="Channels",Nick Jr Polska
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14000&extension=ts
+#EXTINF:0 tvg-id="NickPolska.pl" group-title="Channels",Nickelodeon
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14001&extension=ts
+#EXTINF:0 tvg-id="TeenNick.pl" group-title="Channels",Nicktoons
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14002&extension=ts
+#EXTINF:0 tvg-id="NovelaTV.pl" group-title="Channels",Novela Tv
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14003&extension=ts
+#EXTINF:0 tvg-id="NowaTV.pl" group-title="Channels",NOWA TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14004&extension=ts
+#EXTINF:0 tvg-id="nsport.pl" group-title="Channels",nsport+
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14005&extension=ts
+#EXTINF:0 tvg-id="NutaTV.pl" group-title="Channels",Nuta TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14006&extension=ts
+#EXTINF:0 tvg-id="Novelas+.pl" group-title="Channels",Novelas+
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13862&extension=ts
+#EXTINF:0 tvg-id="Paramount.pl" group-title="Channels",Paramount Channel
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14007&extension=ts
+#EXTINF:0 tvg-id="PLANETE.pl" group-title="Channels",Planete+
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14008&extension=ts
+#EXTINF:0 tvg-id="PoloTV.pl" group-title="Channels",Polo TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14009&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Polonia
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14010&extension=ts
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="Channels",Polsat 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14011&extension=ts
+#EXTINF:0 tvg-id="PolsatCafe.pl" group-title="Channels",Polsat Cafe
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14012&extension=ts
+#EXTINF:0 tvg-id="PolsatDoku.pl" group-title="Channels",Polsat Doku
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14013&extension=ts
+#EXTINF:0 tvg-id="Polsat.pl" group-title="Channels",Polsat
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14014&extension=ts
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="Channels",Polsat Film
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14015&extension=ts
+#EXTINF:0 tvg-id="PolsatGames.pl" group-title="Channels",Polsat Games
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14016&extension=ts
+#EXTINF:0 tvg-id="JimJam.pl" group-title="Channels",Polsat Jim Jam
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14017&extension=ts
+#EXTINF:0 tvg-id="PolsatMusic.pl" group-title="Channels",Polsat Music
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14018&extension=ts
+#EXTINF:0 tvg-id="PolsatNews2.pl" group-title="Channels",Polsat News 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14019&extension=ts
+#EXTINF:0 tvg-id="PolsatNews.pl" group-title="Channels",Polsat News
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14020&extension=ts
+#EXTINF:0 tvg-id="PolsatPlay.pl" group-title="Channels",Polsat Play
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14021&extension=ts
+#EXTINF:0 tvg-id="PolsatRodzina.pl" group-title="Channels",Polsat Rodzina
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14022&extension=ts
+#EXTINF:0 tvg-id="PolsatsportExtra.pl" group-title="Channels",Polsat Sport Extra
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14023&extension=ts
+#EXTINF:0 tvg-id="Polsatsport.pl" group-title="Channels",Polsat Sport
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14024&extension=ts
+#EXTINF:0 tvg-id="PolsatsportFight.pl" group-title="Channels",Polsat Sport Fight
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14025&extension=ts
+#EXTINF:0 tvg-id="PolsatsportPremium1.pl" group-title="Channels",Polsat Sport Premium 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14027&extension=ts
+#EXTINF:0 tvg-id="PolsatsportPremium2.pl" group-title="Channels",Polsat Sport Premium 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14028&extension=ts
+#EXTINF:0 tvg-id="PolsatsportPpv3.pl" group-title="Channels",Polsat Sport Premium 3
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14029&extension=ts
+#EXTINF:0 tvg-id="PolsatsportPpv4.pl" group-title="Channels",Polsat Sport Premium 4
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14030&extension=ts
+#EXTINF:0 tvg-id="PolsatsportPpv5.pl" group-title="Channels",Polsat Sport Premium 5
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14031&extension=ts
+#EXTINF:0 tvg-id="PolsatsportPpv6.pl" group-title="Channels",Polsat Sport Premium 6
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14032&extension=ts
+#EXTINF:0 tvg-id="ViasatExplorer.pl" group-title="Channels",Polsat Viasat Explore
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14033&extension=ts
+#EXTINF:0 tvg-id="ViasatHistory.pl" group-title="Channels",Polsat Viasat History
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14034&extension=ts
+#EXTINF:0 tvg-id="ViasatNature.pl" group-title="Channels",Polsat Viasat Nature
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14035&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",POLONIA-IN
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13863&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Polsat Comedy Central Extra
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13864&extension=ts
+#EXTINF:0 tvg-id="Polsatseriale.pl" group-title="Channels",Polsat Seriale
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13865&extension=ts
+#EXTINF:0 tvg-id="PowerTV.pl" group-title="Channels",Power TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14036&extension=ts
+#EXTINF:0 tvg-id="TVPuls2.pl" group-title="Channels",Puls 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14038&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PULS
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14039&extension=ts
+#EXTINF:0 tvg-id="RomanceTV.pl" group-title="Channels",Romance TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14040&extension=ts
+#EXTINF:0 tvg-id="RedCarpetTV.pl" group-title="Channels",Red Carpet TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13870&extension=ts
+#EXTINF:0 tvg-id="SciFi.pl" group-title="Channels",SciFi Universal
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14041&extension=ts
+#EXTINF:0 tvg-id="SportKlub.pl" group-title="Channels",Sportklub
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14042&extension=ts
+#EXTINF:0 tvg-id="StarsTV.pl" group-title="Channels",STARS.TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14043&extension=ts
+#EXTINF:0 tvg-id="StopklatkaTV.pl" group-title="Channels",Stopklatka TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14044&extension=ts
+#EXTINF:0 tvg-id="StudioMedTV.pl" group-title="Channels",StudioMed TV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14045&extension=ts
+#EXTINF:0 tvg-id="Sundancechannel.hu" group-title="Channels",Sundance Tv
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14046&extension=ts
+#EXTINF:0 tvg-id="SuperPolsat.pl" group-title="Channels",Super Polsat
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14047&extension=ts
+#EXTINF:0 tvg-id="Superstacja.pl" group-title="Channels",Superstacja
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13874&extension=ts
+#EXTINF:0 tvg-id="Tele5.pl" group-title="Channels",Tele 5
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14048&extension=ts
+#EXTINF:0 tvg-id="Teletoon.pl" group-title="Channels",TeleToon+
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14049&extension=ts
+#EXTINF:0 tvg-id="TLC.pl" group-title="Channels",TLC
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14050&extension=ts
+#EXTINF:0 tvg-id="TLC.pl" group-title="Channels",TLC
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14051&extension=ts
+#EXTINF:0 tvg-id="TNTPolska.pl" group-title="Channels",TNT
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14052&extension=ts
+#EXTINF:0 tvg-id="Travel.pl" group-title="Channels",Travel Channel
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14053&extension=ts
+#EXTINF:0 tvg-id="TTV.PL" group-title="Channels",TTV
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14054&extension=ts
+#EXTINF:0 tvg-id="TVrepublika.pl" group-title="Channels",TV Republika
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14055&extension=ts
+#EXTINF:0 tvg-id="TV4.pl" group-title="Channels",TV4
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14056&extension=ts
+#EXTINF:0 tvg-id="TV6.pl" group-title="Channels",TV6
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14057&extension=ts
+#EXTINF:0 tvg-id="TVN7.pl" group-title="Channels",TVN 7
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14058&extension=ts
+#EXTINF:0 tvg-id="TVNFabula.pl" group-title="Channels",TVN Fabula
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14059&extension=ts
+#EXTINF:0 tvg-id="TVN.pl" group-title="Channels",TVN
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14060&extension=ts
+#EXTINF:0 tvg-id="TVNStyle.pl" group-title="Channels",TVN Style
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14061&extension=ts
+#EXTINF:0 tvg-id="TVNTurbo.pl" group-title="Channels",TVN Turbo
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14062&extension=ts
+#EXTINF:0 tvg-id="TVNCNBCBiznes.pl" group-title="Channels",TVN24 BiS
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14063&extension=ts
+#EXTINF:0 tvg-id="TVN24.pl" group-title="Channels",TVN24
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14064&extension=ts
+#EXTINF:0 tvg-id="TVP1.pl" group-title="Channels",TVP 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14065&extension=ts
+#EXTINF:0 tvg-id="TVP1.pl" group-title="Channels",TVP 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14066&extension=ts
+#EXTINF:0 tvg-id="TVP2.pl" group-title="Channels",TVP 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14067&extension=ts
+#EXTINF:0 tvg-id="TVP2.pl" group-title="Channels",TVP 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14068&extension=ts
+#EXTINF:0 tvg-id="TVP3.pl" group-title="Channels",TVP 3
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14069&extension=ts
+#EXTINF:0 tvg-id="TVPABC.pl" group-title="Channels",TVP ABC
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14070&extension=ts
+#EXTINF:0 tvg-id="TVPHD.pl" group-title="Channels",TVP
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14071&extension=ts
+#EXTINF:0 tvg-id="TVPHistoria.pl" group-title="Channels",TVP Historia
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14072&extension=ts
+#EXTINF:0 tvg-id="TVPInfo.pl" group-title="Channels",TVP INFO
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14073&extension=ts
+#EXTINF:0 tvg-id="TVPKultura.pl" group-title="Channels",TVP Kultura
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14074&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVP POLONIA 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14075&extension=ts
+#EXTINF:0 tvg-id="TVPRozrywka.pl" group-title="Channels",TVP Rozrywka
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14076&extension=ts
+#EXTINF:0 tvg-id="TVPSeriale.pl" group-title="Channels",TVP Seriale
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14077&extension=ts
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="Channels",TVP Sport
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14078&extension=ts
+#EXTINF:0 tvg-id="TVS.pl" group-title="Channels",TVS
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14079&extension=ts
+#EXTINF:0 tvg-id="TVPDokument.pl" group-title="Channels",TVP Dokument
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13877&extension=ts
+#EXTINF:0 tvg-id="TVR.pl" group-title="Channels",TVR
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13878&extension=ts
+#EXTINF:0 tvg-id="VH1European.pl" group-title="Channels",VH1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14080&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 205
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14081&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VOD 206
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14082&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIAPLAY
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=14037&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay 1  ( Bundesliga Matches )
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13879&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viaplay 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13880&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viaplay 3
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13881&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viaplay 4
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13882&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viaplay 5
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13883&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 1
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13884&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 10
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13885&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 11
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13886&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 12
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13887&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 13
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13888&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 14
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13889&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 15
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13890&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 2
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13891&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 3
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13892&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 4
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13893&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 5
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13894&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 6
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13895&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 7
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13896&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 8
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13897&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ViaPlay Xtra 9
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13898&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",wPolsce
+http://mag.scottishcctv.com/play/live.php?mac=00:1A:79:19:87:97&stream=13899&extension=ts
+
