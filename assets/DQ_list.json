@@ -92340,7 +92340,32 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/film/pozostale/cook-up-a-storm/",
+      "title": "Cook Up a Storm",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2021/12/cookupastorm_kat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2021/12/cookupastorm_kat.jpg",
+      "type": "movie",
+      "title_ID": "99518",
+      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2021/12/cookupastorm_dolna.jpg",
+      "plot": "Chi\u0144ski kucharz uliczny i jego g\u0142\u00f3wny przeciwnik, wyszkolony we Francji szef kuchni nagrodzony gwiazdkami  Michelin, orientuj\u0105 si\u0119, \u017ce maj\u0105 ze sob\u0105 wiele wsp\u00f3lnego, gdy przygotowuj\u0105 si\u0119 do \u015bwiatowej s\u0142awy konkursu kulinarnego. Wydarzenie to staje si\u0119 polem bitwy mi\u0119dzy rywalizuj\u0105cymi kucharzami. Ich rywalizacja przybiera nieoczekiwany obr\u00f3t, gdy dowiaduj\u0105 si\u0119, i\u017c dziel\u0105 ze sob\u0105 tego samego wroga, i \u0142\u0105cz\u0105 swoje umiej\u0119tno\u015bci w fuzj\u0119 smaku Wschodu i Zachodu.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2021/12/cookupastorm_header.jpg",
+      "genre": "<em>kulinarny</em><strong>,</strong>, komedia, dramat",
+      "year": "2017",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f11f106b-8d05-4ca8-83da-d812db9211c6"
+          ],
+          "episode": "1",
+          "episode_ID": "995181"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/film/pozostale/dearest/",
       "title": "Dearest",
