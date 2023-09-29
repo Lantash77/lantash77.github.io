@@ -54764,6 +54764,9 @@
           "episode_ID": "1113933"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -56291,7 +56294,7 @@
           "episode_ID": "1110887"
         },
         {
-          "ep_title": "Odcinek 8<strong>Premiera w Korei: 28.09.2023</strong>",
+          "ep_title": "Odcinek 8<strong>Premiera w Korei: 05.10.2023</strong>",
           "players": [],
           "links": [],
           "episode": "8",
@@ -76182,14 +76185,21 @@
           "episode_ID": "1107069"
         },
         {
-          "ep_title": "Odcinek 10<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/934f7420-ec5a-43f5-a6e4-da8e5be2a84b"
+          ],
           "episode": "10",
           "episode_ID": "11070610"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -76599,6 +76609,17 @@
           ],
           "episode": "10",
           "episode_ID": "11041310"
+        },
+        {
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/45f4a41a-b31b-444f-8df6-d188b28114d4"
+          ],
+          "episode": "11",
+          "episode_ID": "11041311"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
