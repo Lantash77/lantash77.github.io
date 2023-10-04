@@ -7477,7 +7477,11 @@
           "episode_ID": "10809213"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "14",
+          "episode_ID": "10809214"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -12625,6 +12629,9 @@
           ],
           "episode": "4",
           "episode_ID": "972314"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -53182,7 +53189,7 @@
           "episode_ID": "1111926"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -72518,6 +72525,47 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/japonska/koi-wa-tsuzuku-yo-dokomade-mo/",
+      "title": "Koi Wa Tsuzuku yo Dokomade mo",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2023/07/Koi-Wa-Tsuzuku-yo-Dokomade-mo_kat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2023/07/Koi-Wa-Tsuzuku-yo-Dokomade-mo_kat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Koi Wa Tsuzuku yo Dokomade mo",
+      "title_ID": "110763",
+      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2023/07/KoiWaDol.jpg",
+      "plot": "Nanase Sakura jest 23-letni\u0105 piel\u0119gniark\u0105 - sta\u017cystk\u0105. Kilka lat temu pozna\u0142a doktora Kairi Tendo i zakocha\u0142a si\u0119 w nim. Aby spotka\u0107 go ponownie, ci\u0119\u017cko si\u0119 uczy\u0142a i zosta\u0142a piel\u0119gniark\u0105. Po 5 latach w ko\u0144cu ponownie spotyka Kairi Tendo, ale ma on zupe\u0142nie inn\u0105 osobowo\u015b\u0107 ni\u017c sobie wyobra\u017ca\u0142a. Kairi Tendo, kt\u00f3ry ma 31 lat, jest powszechnie nazywany \u201ediab\u0142em\u201d. Jest zr\u00f3wnowa\u017conym perfekcjonist\u0105 i cz\u0119sto robi dokuczliwe uwagi lekarzom i piel\u0119gniarkom. Nanase Sakura ci\u0119\u017cko pracuje, aby uzyska\u0107 uznanie doktora Tendo, a tak\u017ce szczerze wyznaje mu swoje uczucia. Ze wzgl\u0119du na jej wytrwa\u0142o\u015b\u0107 Nanase Sakura staje si\u0119 dobrze znana w szpitalu i otrzymuje od personelu pseudonim \u201eXena\u201d. Czy uda jej si\u0119 przekona\u0107 do siebie doktora Tendo?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/07/Koi-Wa-Tsuzuku-yo-Dokomade-mo-1.jpg",
+      "genre": "akcja, romans, dramat",
+      "year": "2020",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/aff17cbc-ad7b-4400-87db-ada358e8cb5f"
+          ],
+          "episode": "1",
+          "episode_ID": "1107631"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/765de97b-12e5-435a-bc30-c68d4e728e89"
+          ],
+          "episode": "2",
+          "episode_ID": "1107632"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/japonska/koizora/",
       "title": "Koizora",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/02/Koizoragl.jpg",
@@ -74815,9 +74863,13 @@
           "episode_ID": "1090255"
         },
         {
-          "ep_title": "Odcinek 6<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b3b58904-b60d-4646-8b01-41509ec118bb"
+          ],
           "episode": "6",
           "episode_ID": "1090256"
         },
@@ -76280,9 +76332,13 @@
           "episode_ID": "11070610"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9a705ca8-c090-4877-a3e9-bc2f130868f8"
+          ],
           "episode": "11",
           "episode_ID": "11070611"
         },
@@ -76960,7 +77016,11 @@
           "episode_ID": "2893921"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 22<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "22",
+          "episode_ID": "2893922"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -84498,7 +84558,15 @@
           "episode_ID": "9947911"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8b801715-5690-4a9a-bd0f-57e3de3fbb2d"
+          ],
+          "episode": "12",
+          "episode_ID": "9947912"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
