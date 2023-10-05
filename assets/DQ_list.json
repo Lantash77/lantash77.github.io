@@ -7477,9 +7477,13 @@
           "episode_ID": "10809213"
         },
         {
-          "ep_title": "Odcinek 14<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/818ba5a4-543a-4856-b9f6-39e320fd691a"
+          ],
           "episode": "14",
           "episode_ID": "10809214"
         },
@@ -84792,7 +84796,15 @@
           "episode_ID": "10782618"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 19",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/750a5ce2-1838-436d-8951-b455d23207d5"
+          ],
+          "episode": "19",
+          "episode_ID": "10782619"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
