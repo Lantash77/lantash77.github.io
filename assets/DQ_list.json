@@ -4354,6 +4354,9 @@
       "year": "2023",
       "episodes": [
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -7488,14 +7491,18 @@
           "episode_ID": "10809214"
         },
         {
-          "ep_title": "Odcinek 15<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d60a185a-b641-4568-a69f-20d4b9727748"
+          ],
           "episode": "15",
           "episode_ID": "10809215"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -12642,7 +12649,15 @@
           "episode_ID": "972314"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0d26feda-0881-4bb7-bce9-89cb8bf826b6"
+          ],
+          "episode": "5",
+          "episode_ID": "972315"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -21897,7 +21912,26 @@
           "episode_ID": "11057710"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/70183de0-d5b2-4f7b-bfd7-4807bbbf166b"
+          ],
+          "episode": "11",
+          "episode_ID": "11057711"
+        },
+        {
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b2a2fc2d-a16e-49ae-9b4e-528c66becf24"
+          ],
+          "episode": "12",
+          "episode_ID": "11057712"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -25977,6 +26011,9 @@
           ],
           "episode": "13",
           "episode_ID": "10358813"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -31261,7 +31298,7 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -42226,69 +42263,6 @@
           ],
           "episode": "16",
           "episode_ID": "7488016"
-        }
-      ]
-    },
-    {
-      "link": "https://www.dramaqueen.pl/drama/koreanska/now-we-are-breaking-up/",
-      "title": "Now, We Are Breaking Up",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2021/11/NowWeAreBreakingUpKat2.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2021/11/NowWeAreBreakingUpKat2.jpg",
-      "type": "drama",
-      "tvshowtitle": "Now, We Are Breaking Up",
-      "title_ID": "98634",
-      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2021/11/NowWeAreBreakingUpDol.jpg",
-      "plot": "Ha Young Eun jest liderk\u0105 zespo\u0142u w dziale projektowym w jednej z najwi\u0119kszych firm modowych w kraju. Jest pi\u0119kn\u0105, modn\u0105 oraz inteligentn\u0105 kobiet\u0105, kt\u00f3ra jest bardzo s\u0142awna w swoim fachu, poniewa\u017c praca liczy si\u0119 dla niej najbardziej. Przez to jej \u017cycie i sprawy osobiste na tym cierpi\u0105. Gdy pewnego dnia poznaje przystojnego fotografa mody, Yoon Jae Kooka, sprawy przybieraj\u0105 nieoczekiwany obr\u00f3t. Mimo i\u017c m\u0119\u017cczyzna jest bogaty oraz inteligentny, to co\u015b innego sprawia, \u017ce Young Eun jest nim zainteresowana. Wbrew wszystkiemu para zakochuje si\u0119 w sobie. Czy ich historia zako\u0144czy si\u0119 szcz\u0119\u015bliwie?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2021/11/NowWeAreBreakingUpHeader2.jpg",
-      "genre": "romans, dramat,, melodramat",
-      "year": "2021",
-      "episodes": [
-        {
-          "ep_title": "Odcinek 1",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0408022d-964e-4e03-975f-85226a32555f"
-          ],
-          "episode": "1",
-          "episode_ID": "986341"
-        },
-        {
-          "ep_title": "Odcinek 2",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5f4f4b42-9994-455b-aa07-324970b25c99"
-          ],
-          "episode": "2",
-          "episode_ID": "986342"
-        },
-        {
-          "ep_title": "Odcinek 3",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a614c7f0-aade-4f98-9785-8801d0cbe458"
-          ],
-          "episode": "3",
-          "episode_ID": "986343"
-        },
-        {
-          "ep_title": "Odcinek 4",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/11381887-17ac-4250-8d2d-f3b7acb4b9e1"
-          ],
-          "episode": "4",
-          "episode_ID": "986344"
-        },
-        {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -54882,9 +54856,13 @@
           "episode_ID": "1113934"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/929734a9-5196-47cc-9439-66fc49b8361a"
+          ],
           "episode": "5",
           "episode_ID": "1113935"
         },
@@ -64206,58 +64184,6 @@
       ]
     },
     {
-      "link": "https://www.dramaqueen.pl/drama/koreanska/was-it-love/",
-      "title": "Was It Love?",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/wasitlovekat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/wasitlovekat.jpg",
-      "type": "drama",
-      "tvshowtitle": "Was It Love?",
-      "title_ID": "82583",
-      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/WasItLovedol1.jpg",
-      "plot": "No Ae Jung jest samotn\u0105 matk\u0105 i pracuje jako producentka dla wytw\u00f3rni filmowej. W ci\u0105gu ostatnich 14 lat nie mia\u0142a ch\u0142opaka, ale pewnego dnia w jej \u017cyciu zjawia si\u0119 czterech m\u0119\u017cczyzn. Oh Dae O to tajemniczy pisarz, kt\u00f3rego wszystkie ksi\u0105\u017cki s\u0105 bestsellerem. Ryu Jin to popularny aktor. Koo Pa Do to by\u0142y gangster, kt\u00f3ry teraz jest dyrektorem generalnym firmy finansowej. Z kolei Oh Yeon Woo to nauczyciel WF-u w szkole. Jak Ae Jung odnajdzie si\u0119 w nowej rzeczywisto\u015bci i kt\u00f3rego z pan\u00f3w wybierze na dalsz\u0105 drog\u0119 \u017cycia?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/WasItLoveheader.jpg",
-      "genre": "romans, komedia, dramat",
-      "year": "2020",
-      "episodes": [
-        {
-          "ep_title": "Odcinek 1",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c27c06bb-2835-4cad-b312-32c74cae164f"
-          ],
-          "episode": "1",
-          "episode_ID": "825831"
-        },
-        {
-          "ep_title": "Odcinek 2",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4a121238-0fd5-48da-ae3f-d9c2159c5173"
-          ],
-          "episode": "2",
-          "episode_ID": "825832"
-        },
-        {
-          "ep_title": "Odcinek 3",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2d15b681-308c-4513-8d49-fe76c8b53a49"
-          ],
-          "episode": "3",
-          "episode_ID": "825833"
-        },
-        {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
-        }
-      ]
-    },
-    {
       "link": "https://www.dramaqueen.pl/drama/koreanska/we-are-peaceful-brothers/",
       "title": "We Are Peaceful Brothers",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/11/wearepeacefulkat.jpg",
@@ -72599,6 +72525,28 @@
           "episode_ID": "1107632"
         },
         {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6b3fa162-6a77-4a1b-967f-555b5c98a7ce"
+          ],
+          "episode": "3",
+          "episode_ID": "1107633"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2caf1107-b962-4a49-926e-de13ae343def"
+          ],
+          "episode": "4",
+          "episode_ID": "1107634"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -75432,7 +75380,15 @@
           "episode_ID": "1078049"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/862871c0-9895-4da3-916d-d3bd92fc6eb6"
+          ],
+          "episode": "10",
+          "episode_ID": "10780410"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -83622,6 +83578,17 @@
           ],
           "episode": "5",
           "episode_ID": "1088535"
+        },
+        {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2c3f8b90-a0e9-4e80-9f7e-853ae5179315"
+          ],
+          "episode": "6",
+          "episode_ID": "1088536"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -93638,7 +93605,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "386"
+      "gen_count": "384"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -93662,7 +93629,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "302"
+      "gen_count": "301"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -93674,7 +93641,7 @@
     },
     "Krymina\u0142": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kryminal/",
-      "gen_count": "90"
+      "gen_count": "91"
     },
     "Kulinarny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kulinarny/",
@@ -93690,7 +93657,7 @@
     },
     "Melodramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/melodramat/",
-      "gen_count": "109"
+      "gen_count": "108"
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
@@ -93706,7 +93673,7 @@
     },
     "Okruchy \u017bycia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/okruchy-zycia/",
-      "gen_count": "50"
+      "gen_count": "49"
     },
     "Podr\u00f3\u017cniczy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/podrozniczy/",
@@ -93738,7 +93705,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "509"
+      "gen_count": "507"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -93766,7 +93733,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "191"
+      "gen_count": "192"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
@@ -93774,7 +93741,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "158"
+      "gen_count": "159"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
