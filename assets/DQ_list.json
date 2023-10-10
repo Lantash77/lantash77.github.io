@@ -7502,7 +7502,11 @@
           "episode_ID": "10809215"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - Fina\u0142<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "16",
+          "episode_ID": "10809216"
         }
       ]
     },
@@ -53191,6 +53195,17 @@
           "episode_ID": "1111927"
         },
         {
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5ab2fbff-4109-4e44-a5c1-276dc89377bd"
+          ],
+          "episode": "8",
+          "episode_ID": "1111928"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
@@ -54865,6 +54880,9 @@
           ],
           "episode": "5",
           "episode_ID": "1113935"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -77013,9 +77031,13 @@
           "episode_ID": "2893921"
         },
         {
-          "ep_title": "Odcinek 22<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 22",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fdb1cdf0-662f-493d-a10f-60d106b88f81"
+          ],
           "episode": "22",
           "episode_ID": "2893922"
         },
