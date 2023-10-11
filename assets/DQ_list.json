@@ -7502,9 +7502,13 @@
           "episode_ID": "10809215"
         },
         {
-          "ep_title": "Odcinek 16 - Fina\u0142<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 16 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f1e0e84c-015c-4f40-adfe-6737a0774438"
+          ],
           "episode": "16",
           "episode_ID": "10809216"
         }
@@ -13728,6 +13732,9 @@
           ],
           "episode": "14",
           "episode_ID": "11092314"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -84610,7 +84617,26 @@
           "episode_ID": "9947913"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1bc6c059-cf56-4ffa-ba3f-33289e509f66"
+          ],
+          "episode": "14",
+          "episode_ID": "9947914"
+        },
+        {
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0b9c5084-e1c4-4355-9c40-e9805665683b"
+          ],
+          "episode": "15",
+          "episode_ID": "9947915"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
