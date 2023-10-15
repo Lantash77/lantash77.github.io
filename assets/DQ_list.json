@@ -728,14 +728,17 @@
           "episode_ID": "1113986"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 8<strong>Premiera w Korei: 14.10.2023</strong>",
+          "ep_title": "Odcinek 9<strong>Premiera w Korei: 20.10.2023</strong>",
           "players": [],
           "links": [],
-          "episode": "8",
-          "episode_ID": "1113988"
+          "episode": "9",
+          "episode_ID": "1113989"
         }
       ]
     },
@@ -4357,9 +4360,13 @@
       "year": "2023",
       "episodes": [
         {
-          "ep_title": "Odcinek 1<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/97b1056e-cd51-4e6d-a1ae-84f66d583807"
+          ],
           "episode": "1",
           "episode_ID": "1116091"
         },
@@ -54928,7 +54935,7 @@
           "episode_ID": "1113935"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
