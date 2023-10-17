@@ -739,7 +739,7 @@
           "episode_ID": "1113987"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 9<strong>Premiera w Korei: 20.10.2023</strong>",
@@ -29905,6 +29905,17 @@
           "episode_ID": "3984713"
         },
         {
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/666fe063-6f40-4759-a010-d0c84cf45304"
+          ],
+          "episode": "14",
+          "episode_ID": "3984714"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -39701,6 +39712,9 @@
           ],
           "episode": "6",
           "episode_ID": "1109036"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -54951,9 +54965,13 @@
           "episode_ID": "1113935"
         },
         {
-          "ep_title": "Odcinek 6<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4828bd87-f881-4a98-adbc-a157a3728c22"
+          ],
           "episode": "6",
           "episode_ID": "1113936"
         },
@@ -56485,7 +56503,15 @@
           "episode_ID": "1110887"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b7bd751e-526a-4286-9ebc-81955657262c"
+          ],
+          "episode": "8",
+          "episode_ID": "1110888"
         },
         {
           "ep_title": "Odcinek 9<strong>Premiera w Korei: 19.10.2023</strong>",
