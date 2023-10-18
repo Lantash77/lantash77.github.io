@@ -739,7 +739,15 @@
           "episode_ID": "1113987"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/77f3d5eb-5936-46d9-9baf-8dd30448ea73"
+          ],
+          "episode": "8",
+          "episode_ID": "1113988"
         },
         {
           "ep_title": "Odcinek 9<strong>Premiera w Korei: 20.10.2023</strong>",
@@ -53292,7 +53300,18 @@
           "episode_ID": "1111929"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c221bd00-cc27-48f6-8fe8-3b567c043d30"
+          ],
+          "episode": "10",
+          "episode_ID": "11119210"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
