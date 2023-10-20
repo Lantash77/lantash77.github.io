@@ -56536,11 +56536,14 @@
           "episode_ID": "1110888"
         },
         {
-          "ep_title": "Odcinek 9<strong>Premiera w Korei: 19.10.2023</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 10<strong>Premiera w Korei: 26.10.2023</strong>",
           "players": [],
           "links": [],
-          "episode": "9",
-          "episode_ID": "1110889"
+          "episode": "10",
+          "episode_ID": "11108810"
         }
       ]
     },
@@ -57547,7 +57550,15 @@
           "episode_ID": "10824910"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3d8194b2-72c1-4d80-b6e9-987234e0301a"
+          ],
+          "episode": "11",
+          "episode_ID": "10824911"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -63175,9 +63186,13 @@
           "episode_ID": "10644214"
         },
         {
-          "ep_title": "Odcinek 15<img decoding=\"async\" loading=\"lazy\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5b3e6593-fcd2-4dee-aac8-5dd36a6fb10e"
+          ],
           "episode": "15",
           "episode_ID": "10644215"
         },
@@ -75546,7 +75561,15 @@
           "episode_ID": "10780410"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1ba08df7-ec2d-4e60-87be-1588c766d24d"
+          ],
+          "episode": "11",
+          "episode_ID": "10780411"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
