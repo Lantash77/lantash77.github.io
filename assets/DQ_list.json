@@ -772,11 +772,14 @@
           "episode_ID": "11139810"
         },
         {
-          "ep_title": "Odcinek 11<strong>Premiera w Korei: 27.10.2023</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 12<strong>Premiera w Korei: 28.10.2023</strong>",
           "players": [],
           "links": [],
-          "episode": "11",
-          "episode_ID": "11139811"
+          "episode": "12",
+          "episode_ID": "11139812"
         }
       ]
     },
@@ -4409,7 +4412,15 @@
           "episode_ID": "1116091"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a4564688-5fbd-4ced-b220-461584a0d965"
+          ],
+          "episode": "2",
+          "episode_ID": "1116092"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -55088,9 +55099,13 @@
           "episode_ID": "1113937"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/208f7ea8-b160-444c-93a6-dd8aa3736cc3"
+          ],
           "episode": "8",
           "episode_ID": "1113938"
         },
@@ -56644,11 +56659,14 @@
           "episode_ID": "1110889"
         },
         {
-          "ep_title": "Odcinek 10<strong>Premiera w Korei: 26.10.2023</strong>",
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 11<strong>Premiera w Korei: 02.11.2023</strong>",
           "players": [],
           "links": [],
-          "episode": "10",
-          "episode_ID": "11108810"
+          "episode": "11",
+          "episode_ID": "11108811"
         }
       ]
     },
@@ -77090,6 +77108,17 @@
           "episode_ID": "11041313"
         },
         {
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bfb26ba3-011f-4982-9ec3-9f332258b607"
+          ],
+          "episode": "14",
+          "episode_ID": "11041314"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -85175,6 +85204,9 @@
           ],
           "episode": "19",
           "episode_ID": "10782619"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -93963,7 +93995,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "386"
+      "gen_count": "387"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -93979,7 +94011,7 @@
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
-      "gen_count": "67"
+      "gen_count": "68"
     },
     "Horror": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/horror/",
@@ -94099,7 +94131,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "160"
+      "gen_count": "161"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
