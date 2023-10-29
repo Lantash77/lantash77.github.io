@@ -772,14 +772,17 @@
           "episode_ID": "11139810"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 12<strong>Premiera w Korei: 28.10.2023</strong>",
+          "ep_title": "Odcinek 13<strong>Premiera w Korei: 03.11.2023</strong>",
           "players": [],
           "links": [],
-          "episode": "12",
-          "episode_ID": "11139812"
+          "episode": "13",
+          "episode_ID": "11139813"
         }
       ]
     },
@@ -26112,6 +26115,17 @@
           "episode_ID": "10358813"
         },
         {
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8e279ad8-1887-49b8-afa0-6db1593fc6e9"
+          ],
+          "episode": "14",
+          "episode_ID": "10358814"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
@@ -31449,7 +31463,15 @@
           "episode_ID": "10270114"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/56ed94c2-80ba-481c-bdaa-afac5b0f656a"
+          ],
+          "episode": "15",
+          "episode_ID": "10270115"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -35464,6 +35486,9 @@
           ],
           "episode": "3",
           "episode_ID": "1094163"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -39805,6 +39830,9 @@
           ],
           "episode": "7",
           "episode_ID": "1109037"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -59454,7 +59482,7 @@
       "tvshowtitle": "The Uncanny Counter",
       "title_ID": "88515",
       "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2020/11/The-Uncanny-Counter-dol.jpg",
-      "plot": "Drama opowiada losy ludzi, kt\u00f3rzy za\u0142o\u017cyli grup\u0119 o nazwie \u201eCounter\u201d. Ich celem jest polowanie na z\u0142e duchy, a ka\u017cda osoba ma swoje specjalne zdolno\u015bci. So Moon jest najm\u0142odszym cz\u0142onkiem grupy, a jego zdolno\u015bci\u0105 jest si\u0142a fizyczna. Do Ha Na ma zdolno\u015b\u0107 wyczuwania z\u0142ych duch\u00f3w oraz potrafi odczyta\u0107 czyje\u015b wspomnienia poprzez dotyk. Ga Mo Tak to by\u0142y policjant, kt\u00f3ry w wyniku wypadku straci\u0142 pami\u0119\u0107, jednak\u017ce nie mo\u017ce sta\u0107 bezczynnie w obliczu niesprawiedliwo\u015bci. Chu Mae Ok ma zdolno\u015b\u0107 leczenia i jest emocjonalnym filarem grupy. Choi Jang Mool to najstarszy cz\u0142onek grupy i jest odpowiedzialny za wszelkie wydatki grupy i jest \u017cyw\u0105 legend\u0105 po\u015br\u00f3d cz\u0142onk\u00f3w korea\u0144skich cz\u0142onk\u00f3w \"Counter\".",
+      "plot": "Drama opowiada losy ludzi, kt\u00f3rzy za\u0142o\u017cyli grup\u0119 o nazwie \u201eCounter\u201d. Ich celem jest polowanie na z\u0142e duchy, a ka\u017cda osoba ma swoje specjalne zdolno\u015bci. So Moon jest najm\u0142odszym cz\u0142onkiem grupy, a jego zdolno\u015bci\u0105 jest si\u0142a fizyczna. Do Ha Na ma zdolno\u015b\u0107 wyczuwania z\u0142ych duch\u00f3w oraz potrafi odczyta\u0107 czyje\u015b wspomnienia poprzez dotyk. Ga Mo Tak to by\u0142y policjant, kt\u00f3ry w wyniku wypadku straci\u0142 pami\u0119\u0107, jednak\u017ce nie mo\u017ce sta\u0107 bezczynnie w obliczu niesprawiedliwo\u015bci. Chu Mae Ok ma zdolno\u015b\u0107 leczenia i jest emocjonalnym filarem grupy. Choi Jang Mool to najstarszy cz\u0142onek grupy i jest odpowiedzialny za wszelkie wydatki grupy i jest \u017cyw\u0105 legend\u0105 po\u015br\u00f3d korea\u0144skich cz\u0142onk\u00f3w \"Counter\".",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/11/The-Uncanny-Counter-header.jpg",
       "genre": " tajemnice, akcja, dramat,, fantasy",
       "year": "2020",
