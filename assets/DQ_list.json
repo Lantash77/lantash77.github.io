@@ -772,10 +772,18 @@
           "episode_ID": "11139810"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b9567752-9941-4457-86f2-3be08e44c73f"
+          ],
+          "episode": "11",
+          "episode_ID": "11139811"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 13<strong>Premiera w Korei: 03.11.2023</strong>",
@@ -53432,7 +53440,15 @@
           "episode_ID": "11119211"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e0eeead6-c553-4bff-94fb-54113f215db2"
+          ],
+          "episode": "12",
+          "episode_ID": "11119212"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -55136,6 +55152,9 @@
           ],
           "episode": "8",
           "episode_ID": "1113938"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
