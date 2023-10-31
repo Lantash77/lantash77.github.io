@@ -783,7 +783,15 @@
           "episode_ID": "11139811"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d894802e-2bf3-406e-93d7-c74eaa155f01"
+          ],
+          "episode": "12",
+          "episode_ID": "11139812"
         },
         {
           "ep_title": "Odcinek 13<strong>Premiera w Korei: 03.11.2023</strong>",
@@ -13834,6 +13842,12 @@
           ],
           "episode": "16",
           "episode_ID": "11092316"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -39840,7 +39854,11 @@
           "episode_ID": "1109037"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "8",
+          "episode_ID": "1109038"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -83998,6 +84016,17 @@
           "episode_ID": "1088536"
         },
         {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/29ac8ebe-28c0-4a07-bd21-821a11a53d8e"
+          ],
+          "episode": "7",
+          "episode_ID": "1088537"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -85253,7 +85282,15 @@
           "episode_ID": "10782619"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 20",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/99fb8a4e-957e-489f-8e17-2ff04aa0289b"
+          ],
+          "episode": "20",
+          "episode_ID": "10782620"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
