@@ -55179,11 +55179,18 @@
           "episode_ID": "1113938"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0206edb6-b406-48f1-9d98-ab4dd5c70c17"
+          ],
           "episode": "9",
           "episode_ID": "1113939"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -55513,6 +55520,17 @@
           ],
           "episode": "2",
           "episode_ID": "1108362"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/43edfd69-a972-414d-bc5a-ef4b122116e8"
+          ],
+          "episode": "3",
+          "episode_ID": "1108363"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -56630,7 +56648,7 @@
       "tvshowtitle": "The Killing Vote",
       "title_ID": "111088",
       "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2023/08/the-killing-vote-na-dol.jpg",
-      "plot": "Kiedy najbrutalniejsi przest\u0119pcy unikaj\u0105 kary przewidzianej prawem, wszyscy obywatele powy\u017cej osiemnastego roku \u017cycia otrzymuj\u0105 wiadomo\u015b\u0107 tekstow\u0105 z pytaniem, czy winowajca powinien otrzyma\u0107 kar\u0119 \u015bmierci. Je\u015bli ponad 50% zag\u0142osuje na \u201ctak\u201d, osoba ta zostanie zabita przez \"Dog Mask\" - anonimow\u0105 posta\u0107 dzia\u0142aj\u0105c\u0105 w wirtualnym \u015bwiecie. W po\u015bcig za samozwa\u0144czym m\u015bcicielem anga\u017cuj\u0105 si\u0119: Kim Mu Chan, lider Pierwszego Zespo\u0142u \u015aledczego z Po\u0142udniowego Oddzia\u0142u Policji, Kwon Seok Joo, s\u0142ynny by\u0142y prawnik, kt\u00f3ry zabi\u0142 gwa\u0142ciciela swojej m\u0142odszej c\u00f3rki, a nast\u0119pnie odda\u0142 si\u0119 w r\u0119ce policji oraz Joo Hyun - policjantka, kt\u00f3ra od 5 lat pracuje w Biurze Bezpiecze\u0144stwa Cybernetycznego Seulskiego Oddzia\u0142u Policji Metropolitalnej. Czy uda im si\u0119 wytropi\u0107 tajemnicz\u0105 posta\u0107?",
+      "plot": "Kiedy najbrutalniejsi przest\u0119pcy unikaj\u0105 kary przewidzianej prawem, wszyscy obywatele powy\u017cej osiemnastego roku \u017cycia otrzymuj\u0105 wiadomo\u015b\u0107 tekstow\u0105 z pytaniem, czy winowajca powinien otrzyma\u0107 kar\u0119 \u015bmierci. Je\u015bli ponad 50% zag\u0142osuje na \u201ctak\u201d, osoba ta zostanie zabita przez \"Dog Mask\" - anonimow\u0105 posta\u0107 dzia\u0142aj\u0105c\u0105 w wirtualnym \u015bwiecie. W po\u015bcig za samozwa\u0144czym m\u015bcicielem anga\u017cuj\u0105 si\u0119: Kim Mu Chan, lider Pierwszego Zespo\u0142u \u015aledczego z Po\u0142udniowego Oddzia\u0142u Policji, Kwon Seok Joo, s\u0142ynny by\u0142y prawnik, kt\u00f3ry zabi\u0142 morderc\u0119 swojej siedmioletniej c\u00f3rki, a nast\u0119pnie odda\u0142 si\u0119 w r\u0119ce policji oraz Joo Hyun - policjantka, kt\u00f3ra od 5 lat pracuje w Biurze Bezpiecze\u0144stwa Cybernetycznego Seulskiego Oddzia\u0142u Policji Metropolitalnej. Czy uda im si\u0119 wytropi\u0107 tajemnicz\u0105 posta\u0107?",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/08/the-killing-vote-header.jpg",
       "genre": "thriller, tajemnice, horror,, krymina\u0142",
       "year": "2023",
@@ -56735,7 +56753,15 @@
           "episode_ID": "1110889"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/35e7d14b-8c09-44c6-affc-1a1948c45d89"
+          ],
+          "episode": "10",
+          "episode_ID": "11108810"
         },
         {
           "ep_title": "Odcinek 11<strong>Premiera w Korei: 02.11.2023</strong>",
