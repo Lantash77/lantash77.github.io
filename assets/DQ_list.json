@@ -794,11 +794,14 @@
           "episode_ID": "11139812"
         },
         {
-          "ep_title": "Odcinek 13<strong>Premiera w Korei: 03.11.2023</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 14<strong>Premiera w Korei: 04.11.2023</strong>",
           "players": [],
           "links": [],
-          "episode": "13",
-          "episode_ID": "11139813"
+          "episode": "14",
+          "episode_ID": "11139814"
         }
       ]
     },
@@ -31496,7 +31499,15 @@
           "episode_ID": "10270115"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - FINA\u0141",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7f678473-10fe-4327-a270-04020cd84096"
+          ],
+          "episode": "16",
+          "episode_ID": "10270116"
         }
       ]
     },
@@ -53474,6 +53485,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -76780,6 +76794,9 @@
           "episode_ID": "11070612"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -94128,7 +94145,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "388"
+      "gen_count": "389"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -94180,7 +94197,7 @@
     },
     "Melodramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/melodramat/",
-      "gen_count": "108"
+      "gen_count": "109"
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
@@ -94228,7 +94245,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "510"
+      "gen_count": "511"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
