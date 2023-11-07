@@ -805,7 +805,15 @@
           "episode_ID": "11139813"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5b2fdade-dced-4340-9112-5009e39b815b"
+          ],
+          "episode": "14",
+          "episode_ID": "11139814"
         },
         {
           "ep_title": "Odcinek 15<strong>Premiera w Korei: 10.11.2023</strong>",
@@ -13888,9 +13896,13 @@
           "episode_ID": "11092317"
         },
         {
-          "ep_title": "Odcinek 18<img decoding=\"async\" loading=\"lazy\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 18",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/83e23ba2-9ec9-42b1-9466-1019daefd85f"
+          ],
           "episode": "18",
           "episode_ID": "11092318"
         },
@@ -18270,6 +18282,9 @@
           ],
           "episode": "3",
           "episode_ID": "1119813"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -58661,7 +58676,15 @@
       "year": "2023",
       "episodes": [
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/537089b3-5d40-4baa-baa4-7cb26f4a68c5"
+          ],
+          "episode": "1",
+          "episode_ID": "1122891"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -76956,9 +76979,13 @@
           "episode_ID": "11070612"
         },
         {
-          "ep_title": "Odcinek 13<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/41ca2ac5-02a6-4cfd-8b9a-50370cd428fe"
+          ],
           "episode": "13",
           "episode_ID": "11070613"
         },
