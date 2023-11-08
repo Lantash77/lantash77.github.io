@@ -13907,7 +13907,11 @@
           "episode_ID": "11092318"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 19<img decoding=\"async\" loading=\"lazy\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "19",
+          "episode_ID": "11092319"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -22176,7 +22180,48 @@
           "episode_ID": "11057712"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/41063807-236e-448f-9fbf-f6d6f45ea1af"
+          ],
+          "episode": "13",
+          "episode_ID": "11057713"
+        },
+        {
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/11a4ea86-7fd8-4863-a880-7d3417940d6d"
+          ],
+          "episode": "14",
+          "episode_ID": "11057714"
+        },
+        {
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7560e5cc-fdab-4eba-a9ee-e5f63b142486"
+          ],
+          "episode": "15",
+          "episode_ID": "11057715"
+        },
+        {
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/32181424-e544-4a63-bdea-062dd93bbd10 target=\"iframe_x"
+          ],
+          "episode": "16",
+          "episode_ID": "11057716"
         }
       ]
     },
@@ -58685,6 +58730,9 @@
           ],
           "episode": "1",
           "episode_ID": "1122891"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
