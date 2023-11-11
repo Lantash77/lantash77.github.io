@@ -816,11 +816,14 @@
           "episode_ID": "11139814"
         },
         {
-          "ep_title": "Odcinek 15<strong>Premiera w Korei: 10.11.2023</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 16<strong>Premiera w Korei: 11.11.2023</strong>",
           "players": [],
           "links": [],
-          "episode": "15",
-          "episode_ID": "11139815"
+          "episode": "16",
+          "episode_ID": "11139816"
         }
       ]
     },
@@ -22234,7 +22237,7 @@
           "episode_ID": "11057715"
         },
         {
-          "ep_title": "Odcinek 16",
+          "ep_title": "Odcinek 16 - Fina\u0142",
           "players": [
             "DQ-Player"
           ],
@@ -53676,7 +53679,15 @@
           "episode_ID": "11119213"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/79008432-bae9-43b1-8fbb-84aba7b879a9"
+          ],
+          "episode": "14",
+          "episode_ID": "11119214"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -56989,7 +57000,7 @@
           "episode_ID": "11108810"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 12 - Fina\u0142<strong>Premiera w Korei: 16.11.2023</strong>",
@@ -94447,7 +94458,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "141"
+      "gen_count": "142"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -94499,7 +94510,7 @@
     },
     "Krymina\u0142": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kryminal/",
-      "gen_count": "92"
+      "gen_count": "93"
     },
     "Kulinarny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kulinarny/",
