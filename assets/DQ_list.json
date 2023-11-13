@@ -816,7 +816,15 @@
           "episode_ID": "11139814"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8a9874fe-7add-4bf7-9514-f408759f3f53"
+          ],
+          "episode": "15",
+          "episode_ID": "11139815"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -13938,16 +13946,16 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -18327,6 +18335,9 @@
           ],
           "episode": "4",
           "episode_ID": "1119814"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -35719,9 +35730,13 @@
           "episode_ID": "1094163"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6cfa2fe1-c649-4c4e-a38c-b8f6f96789d9"
+          ],
           "episode": "4",
           "episode_ID": "1094164"
         },
@@ -53708,7 +53723,7 @@
           "episode_ID": "11119214"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -63757,6 +63772,9 @@
       "genre": " m\u0142odzie\u017cowa, romans, dramat,, fantasy, muzyczna",
       "year": "2023",
       "episodes": [
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
@@ -77571,7 +77589,15 @@
           "episode_ID": "11041315"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/209eda43-10d0-4afb-b6df-0153e9ba75fe"
+          ],
+          "episode": "16",
+          "episode_ID": "11041316"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -85976,7 +86002,38 @@
       ]
     },
     {
-      "error": "<Response [404]>"
+      "link": "https://www.dramaqueen.pl/film/koreanski/a-werewolf-boy/",
+      "title": "A Werewolf Boy",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/11/a-werewolf-boy-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2019/11/a-werewolf-boy-ikonka.jpg",
+      "type": "movie",
+      "title_ID": "13635",
+      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2019/11/a-werewolf-boy-na-d\u00f3\u0142.jpg",
+      "plot": "Matka przeprowadza si\u0119 wraz z dwiema c\u00f3rkami do du\u017cego domu na wsi z powodu choroby p\u0142uc Suni. Na miejscu wita ich Ji Tae - syn biznesmena, kt\u00f3ry pracowa\u0142 wraz z jej zmar\u0142ym m\u0119\u017cem. Pewnego dnia Suni dokonuje niesamowitego odkrycia. Za zamkni\u0119tymi drzwiami stodo\u0142y znajduje wilko\u0142aka. Rodzina bierze go pod swoj\u0105 opiek\u0119, poniewa\u017c my\u015bl\u0105, \u017ce jest sierot\u0105. Z czasem jednak Cheol Su coraz bardziej zaczyna interesowa\u0107 si\u0119 dziewczyn\u0105, tak samo jak Ji Tae.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2016/10/awerewolfboyheader.jpg",
+      "genre": "fantasy, romans, tajemnice, dramat",
+      "year": "2012",
+      "episodes": [
+        {
+          "ep_title": "Film<img decoding=\"async\" class=\"alignnone size-full wp-image-38476\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/05/reuploadplakietka.jpg\" alt=\"\" width=\"193\" height=\"21\" srcset=\"https://www.dramaqueen.pl/wp-content/uploads/2018/05/reuploadplakietka.jpg 193w, https://www.dramaqueen.pl/wp-content/uploads/2018/05/reuploadplakietka-180x21.jpg 180w\" sizes=\"(max-width: 193px) 100vw, 193px\" />",
+          "players": [
+            "Fembed",
+            "Vev.io",
+            "Vidoza",
+            "Onlystream",
+            "netu.tv"
+          ],
+          "links": [
+            "https://www.fembed.com/v/0pekgulxrm632e7",
+            "https://vev.io/embed/qnoxpk5dmz30",
+            "https://vidoza.net/34i2a0fz9j31.html",
+            "https://onlystream.tv/cq9ze2iybrlt",
+            "https://waaw.tv/watch_video.php?v=szuMNDrzogPX"
+          ],
+          "episode": "1",
+          "episode_ID": "136351"
+        }
+      ]
     },
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/after-my-death/",
@@ -94495,7 +94552,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "390"
+      "gen_count": "391"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -94507,7 +94564,7 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "204"
+      "gen_count": "205"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
@@ -94595,7 +94652,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "512"
+      "gen_count": "513"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -94623,7 +94680,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "192"
+      "gen_count": "193"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
