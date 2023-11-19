@@ -49,171 +49,277 @@
   </channel>
 <channel id="SkyCinemaComedy.uk">
     <display-name lang="en">Sky Cinema Comedy</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Cinema Comedy FHD</display-name>
+  <display-name lang="en">UK | Sky Cinema Comedy HD</display-name>
+  <display-name lang="en">UK | Sky Cinema Comedy SD</display-name>
   </channel>
 <channel id="SkyCinemaDrama.uk">
     <display-name lang="en">Sky Cinema Drama</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Cinema Drama FHD</display-name>
+  <display-name lang="en">UK | Sky Cinema Drama HD</display-name>
+  <display-name lang="en">UK | Sky Cinema Drama SD</display-name>
+  <display-name lang="en">UK: Sky Cinema Drama</display-name>
   </channel>
 <channel id="SkyCinemaThriller.uk">
     <display-name lang="en">Sky Cinema Thriller</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Cinema Thriller FHD</display-name>
+  <display-name lang="en">UK | Sky Cinema Thriller HD</display-name>
+  <display-name lang="en">UK | Sky Cinema Thriller SD</display-name>
+  <display-name lang="en">UK: Sky Cinema Thriller</display-name>
   </channel>
 <channel id="SkyCinemaHits.uk">
     <display-name lang="en">Sky Cinema Hits</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Cinema Hits FHD</display-name>
+  <display-name lang="en">UK | Sky Cinema Hits HD</display-name>
+  <display-name lang="en">UK | Sky Cinema Hits SD</display-name>
+  <display-name lang="en">UK: Sky Cinema Hits</display-name>
   </channel>
 <channel id="SkyCinemaGreat.uk">
     <display-name lang="en">Sky Movies Great</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Cinema Greats FHD</display-name>
+  <display-name lang="en">UK | Sky Cinema Greats HD</display-name>
+  <display-name lang="en">UK | Sky Cinema Greats SD</display-name>
+  <display-name lang="en">UK: Sky Cinema Greats</display-name>
   </channel>
 <channel id="SkyCinemaPremiere.uk">
     <display-name lang="en">Sky Cinema Premiere</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Cinema Premiere FHD</display-name>
+  <display-name lang="en">UK | Sky Cinema Premiere HD</display-name>
+  <display-name lang="en">UK | Sky Cinema Premiere SD</display-name>
+  <display-name lang="en">UK: Sky Cinema Premiere</display-name>
   </channel>
 <channel id="SkyCinemaPremiere+1.uk">
     <display-name lang="en">Sky Cinema Premiere +1</display-name>
-  <display-name lang="en" />
   </channel>
 <channel id="SkyCinemaSci-fiHorror.uk">
     <display-name lang="en">Sky Cinema Sci-fi/Horror</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Cinema SciFi FHD</display-name>
+  <display-name lang="en">UK | Sky Cinema SciFi HD</display-name>
+  <display-name lang="en">UK | Sky Cinema SciFi SD</display-name>
+  <display-name lang="en">UK: Sky Cinema sci-fi Horror</display-name>
   </channel>
 <channel id="SkyCinemaAction.uk">
     <display-name lang="en">Sky Cinema Action</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Cinema Action FHD</display-name>
+  <display-name lang="en">UK | Sky Cinema Action HD</display-name>
+  <display-name lang="en">UK | Sky Cinema Action SD</display-name>
+  <display-name lang="en">UK: Sky Cinema Action</display-name>
   </channel>
 <channel id="DAZNPPV.uk">
     <display-name lang="en">495 - DAZN PPV HD</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">DAZN 1 UK FHD</display-name>
+  <display-name lang="en">DAZN 1 UK HD</display-name>
+  <display-name lang="en">DAZN 1 UK SD</display-name>
   </channel>
 <channel id="DAZN1.uk">
     <display-name lang="en">DAZN 1</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">DAZN 1 UK FHD</display-name>
+  <display-name lang="en">DAZN 1 UK HD</display-name>
+  <display-name lang="en">DAZN 1 UK SD</display-name>
   </channel>
 <channel id="AtTheRaces.uk">
     <display-name lang="en">At The Races</display-name>
-  <display-name lang="en" />
   </channel>
 <channel id="PremierSports.uk">
     <display-name lang="en">Premier Sports</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK: Premier Sports 1</display-name>
   </channel>
 <channel id="PremierSports2.uk">
     <display-name lang="en">Premier Sports 2</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK: Premier Sports 2</display-name>
   </channel>
 <channel id="Viaplay1.uk">
     <display-name lang="en">Viaplay 1</display-name>
-  <display-name lang="en" />
   </channel>
 <channel id="Viaplay2.uk">
     <display-name lang="en">Viaplay 2</display-name>
-  <display-name lang="en" />
   </channel>
 <channel id="LaLigaTV.uk">
     <display-name lang="en">LaLigaTV</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">LaLiga TV</display-name>
   </channel>
 <channel id="SkySpBoxOff.uk">
     <display-name lang="en">SkySpBoxOff</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">Sky Sports Box Office FHD</display-name>
+  <display-name lang="en">Sky Sports Box Office HD</display-name>
+  <display-name lang="en">Sky Sports Box Office SD</display-name>
   </channel>
 <channel id="SportyStuff.uk">
     <display-name lang="en">SportyStuff</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">SportyStuff TV FHD</display-name>
   </channel>
 <channel id="SkySpMainEv.uk">
     <display-name lang="en">SkySpMainEv</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports Main Event FHD</display-name>
+  <display-name lang="en">UK | Sky Sports Main Event HD</display-name>
+  <display-name lang="en">UK | Sky Sports Main Event SD</display-name>
+  <display-name lang="en">UK: Sky Sports Main Event</display-name>
+  <display-name lang="en">Sky Sports Main Event HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports Main Event HVEC LB (1080p)</display-name>
   </channel>
 <channel id="SkySpCricket.uk">
     <display-name lang="en">Sky Sports Cricket</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports Cricket FHD</display-name>
+  <display-name lang="en">UK | Sky Sports Cricket HD</display-name>
+  <display-name lang="en">UK | Sky Sports Cricket SD</display-name>
+  <display-name lang="en">UK: Sky Sports Cricket</display-name>
+  <display-name lang="en">Sky Sports Cricket HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports Cricket HVEC LB (1080p)</display-name>
   </channel>
 <channel id="SkySpPL.uk">
     <display-name lang="en">SkySP PL</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports Premier League FHD</display-name>
+  <display-name lang="en">UK | Sky Sports Premier League HD</display-name>
+  <display-name lang="en">UK | Sky Sports Premier League SD</display-name>
+  <display-name lang="en">UK: Sky Sports Premier League</display-name>
+  <display-name lang="en">Sky Sports Premier League HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports Premier League HVEC LB (1080p)</display-name>
   </channel>
 <channel id="SkySpF1.uk">
     <display-name lang="en">Sky sports F1</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports F1 FHD</display-name>
+  <display-name lang="en">UK | Sky Sports F1 HD</display-name>
+  <display-name lang="en">UK | Sky Sports F1 SD</display-name>
+  <display-name lang="en">UK: Sky Sports F1</display-name>
+  <display-name lang="en">Sky Sports F1 HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports F1 HVEC LB (1080p)</display-name>
   </channel>
 <channel id="SkySpTheOpen.uk">
     <display-name lang="en">Sky The Open</display-name>
-  <display-name lang="en" />
   </channel>
 <channel id="SkySpAction.uk">
     <display-name lang="en">Sky Sports Action</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports Action FHD</display-name>
+  <display-name lang="en">UK | Sky Sports Action HD</display-name>
+  <display-name lang="en">UK | Sky Sports Action SD</display-name>
+  <display-name lang="en">UK: Sky Sports Action</display-name>
+  <display-name lang="en">Sky Sports Action HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports Action HVEC LB (1080p)</display-name>
   </channel>
 <channel id="SkySpRacing.uk">
     <display-name lang="en">SkySp Racing</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports Racing FHD</display-name>
+  <display-name lang="en">UK | Sky Sports Racing HD</display-name>
+  <display-name lang="en">UK | Sky Sports Racing SD</display-name>
+  <display-name lang="en">UK: Sky Sports Racing</display-name>
+  <display-name lang="en">Sky Sports Racing HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports Racing HVEC LB (1080p)</display-name>
   </channel>
 <channel id="GINXeSportsTV.uk">
     <display-name lang="en">GINXeSportsTV</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">Ginx eSports TV HD</display-name>
+  <display-name lang="en">UK: Ginx eSports</display-name>
+  <display-name lang="en">Ginx E-Sports SD</display-name>
   </channel>
 <channel id="MUTV.uk">
     <display-name lang="en">MUTV</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">MUTV FHD</display-name>
+  <display-name lang="en">MUTV HD</display-name>
+  <display-name lang="en">MUTV SD</display-name>
+  <display-name lang="en">UK: MUTV</display-name>
   </channel>
 <channel id="SkySpFball.uk">
     <display-name lang="en">SkySp Fball</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports Football FHD</display-name>
+  <display-name lang="en">UK | Sky Sports Football HD</display-name>
+  <display-name lang="en">UK | Sky Sports Football SD</display-name>
+  <display-name lang="en">UK: Sky Sports Football</display-name>
+  <display-name lang="en">Sky Sports Football HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports Football HVEC LB (1080p)</display-name>
   </channel>
 <channel id="SkySpArena.uk">
     <display-name lang="en">SkySp Arena</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports Arena FHD</display-name>
+  <display-name lang="en">UK | sky Sports Arena HD</display-name>
+  <display-name lang="en">UK | Sky Sports Arena SD</display-name>
+  <display-name lang="en">UK: Sky Sports Arena</display-name>
+  <display-name lang="en">Sky Sports Arena HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports Arena HVEC LB (1080p)</display-name>
   </channel>
 <channel id="LiverpoolFCTV.uk">
     <display-name lang="en">LiverpoolFCTV</display-name>
-  <display-name lang="en" />
   </channel>
 <channel id="Eurosport1.uk">
     <display-name lang="en">Eurosport1 - United Kingdom</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK Eurosport 1</display-name>
+  <display-name lang="en">UK: EUROSPORT 1</display-name>
+  <display-name lang="en">Eurosport 1 FHD</display-name>
+  <display-name lang="en">Eurosport 1 HD</display-name>
+  <display-name lang="en">Eurosport 1 SD</display-name>
+  <display-name lang="en">Eurosport 1 FHD</display-name>
+  <display-name lang="en">EUROSPORT HD</display-name>
   </channel>
 <channel id="Eurosport2.uk">
     <display-name lang="en">Eurosport2 - United Kingdom</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK: EUROSPORT 2</display-name>
+  <display-name lang="en">UK Eurosport 2</display-name>
+  <display-name lang="en">Eurosport 2 FHD</display-name>
+  <display-name lang="en">Eurosport 2 HD</display-name>
+  <display-name lang="en">Eurosport 2 SD</display-name>
+  <display-name lang="en">Eurosport 2 FHD</display-name>
   </channel>
 <channel id="SkySpNFL.uk">
     <display-name lang="en">SkySp NFL</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK: Sky Sports NFL</display-name>
   </channel>
 <channel id="SkySpNews.uk">
     <display-name lang="en">Sky Sports News</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports News FHD</display-name>
+  <display-name lang="en">UK | Sky Sports News HD</display-name>
+  <display-name lang="en">UK | Sky Sports News SD</display-name>
+  <display-name lang="en">UK: Sky Sports News</display-name>
+  <display-name lang="en">Sky Sports News HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports News HVEC LB (1080p)</display-name>
   </channel>
 <channel id="SkySpMix.uk">
     <display-name lang="en">SkySp Mix</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | Sky Sports Mix FHD</display-name>
+  <display-name lang="en">UK | Sky Sports Mix HD</display-name>
+  <display-name lang="en">UK | Sky Sports Mix SD</display-name>
+  <display-name lang="en">UK: Sky Sports Mix</display-name>
+  <display-name lang="en">Sky Sports Mix HVEC HB (1080p)</display-name>
+  <display-name lang="en">Sky Sports Racing HVEC LB (1080p)</display-name>
   </channel>
 <channel id="TNTSport1.uk">
     <display-name lang="en">TNT Sport 1</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports 1 50FPS FHD</display-name>
+  <display-name lang="en">UK | TNT Sports 1 FHD</display-name>
+  <display-name lang="en">UK | TNT Sports 1 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 1 SD</display-name>
+  <display-name lang="en">UK: TNT Sports 1</display-name>
   </channel>
 <channel id="TNTSport2.uk">
     <display-name lang="en">TNT Sport 2</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports 2 50FPS FHD</display-name>
+  <display-name lang="en">UK | TNT Sports 2 FHD</display-name>
+  <display-name lang="en">UK | TNT Sports 2 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 2 SD</display-name>
+  <display-name lang="en">UK: TNT Sports 2</display-name>
   </channel>
 <channel id="TNTSport3.uk">
     <display-name lang="en">TNT Sport 3</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports 3 50FPS FHD</display-name>
+  <display-name lang="en">UK | TNT Sports 3 FHD</display-name>
+  <display-name lang="en">UK | TNT Sports 3 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 3 SD</display-name>
+  <display-name lang="en">UK: TNT Sports 3</display-name>
   </channel>
 <channel id="TNTSport4.uk">
     <display-name lang="en">TNT Sport 4</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports 4 50FPS FHD</display-name>
+  <display-name lang="en">UK | TNT Sports 4 FHD</display-name>
+  <display-name lang="en">UK | TNT Sports 4 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 4 SD</display-name>
   </channel>
 <channel id="TNTSportsUltimate.uk">
     <display-name lang="en">TNT Sports Ultimate HDR</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports Ultimate 4K UHD</display-name>
   </channel>
 <channel id="TNTSportsBoxOffice.uk">
     <display-name lang="en">TNT Sports Box Office HD</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">TNT Sports Box Office FHD</display-name>
+  <display-name lang="en">TNT Sports Box Office HD</display-name>
+  <display-name lang="en">TNT Sports Box Office SD</display-name>
   </channel>
 <channel id="TNTSportsBoxOffice2.uk">
     <display-name lang="en">TNT Sports Box Office 2 HD</display-name>
@@ -221,26 +327,33 @@
   </channel>
 <channel id="TNTSport5.uk">
     <display-name lang="en">TNT Sport 5</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports 5 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 5 SD</display-name>
   </channel>
 <channel id="TNTSport6.uk">
     <display-name lang="en">TNT Sport 6</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports 6 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 6 SD</display-name>
   </channel>
 <channel id="TNTSport7.uk">
     <display-name lang="en">TNT Sport 7</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports 7 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 7 SD</display-name>
   </channel>
 <channel id="TNTSport8.uk">
     <display-name lang="en">TNT Sport 8</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports 8 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 8 SD</display-name>
   </channel>
 <channel id="TNTSport9.uk">
     <display-name lang="en">TNT Sport 9</display-name>
-  <display-name lang="en" />
+  <display-name lang="en">UK | TNT Sports 9 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 9 SD</display-name>
   </channel>
 <channel id="TNTSport10.uk">
     <display-name lang="en">TNT Sport 10</display-name>
+  <display-name lang="en">UK | TNT Sports 10 HD</display-name>
+  <display-name lang="en">UK | TNT Sports 10 SD</display-name>
   </channel>
 <programme start="20231119004500 +0000" stop="20231119022000 +0000" channel="SkyAnimation.uk">
     <title lang="en">Open Season 3</title>
