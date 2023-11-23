@@ -18388,7 +18388,18 @@
           "episode_ID": "1119815"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2dfd30c5-fb0b-478e-a908-0fdd28feb899"
+          ],
+          "episode": "6",
+          "episode_ID": "1119816"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -40160,6 +40171,9 @@
           "episode_ID": "1109038"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -53790,7 +53804,15 @@
           "episode_ID": "11119214"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/acb843d8-2efc-4170-b7c0-38a5f904537d"
+          ],
+          "episode": "15",
+          "episode_ID": "11119215"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -58928,7 +58950,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bf040462-33a7-47b2-ad0d-05a9ad0f6d00"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/260d299b-49b4-4dae-badc-74cc08ffebac"
           ],
           "episode": "4",
           "episode_ID": "1122894"
@@ -63914,6 +63936,9 @@
           ],
           "episode": "2",
           "episode_ID": "1122052"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
