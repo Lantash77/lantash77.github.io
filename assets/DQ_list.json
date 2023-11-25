@@ -1106,7 +1106,11 @@
       "year": "2023",
       "episodes": [
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 1<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "1",
+          "episode_ID": "1120591"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -58211,6 +58215,9 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -58972,7 +58979,15 @@
           "episode_ID": "1122894"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9d79b719-88e4-4291-8b6b-afccd80e3c0e"
+          ],
+          "episode": "5",
+          "episode_ID": "1122895"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -59455,7 +59470,11 @@
           "episode_ID": "869156"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "869157"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -94850,7 +94869,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "143"
+      "gen_count": "144"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -94890,7 +94909,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "304"
+      "gen_count": "305"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -94942,7 +94961,7 @@
     },
     "Policyjny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/policyjny/",
-      "gen_count": "19"
+      "gen_count": "20"
     },
     "Polityczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/polityczny/",
@@ -94994,7 +95013,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "193"
+      "gen_count": "194"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
