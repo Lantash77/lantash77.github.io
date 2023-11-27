@@ -18419,7 +18419,15 @@
           "episode_ID": "1119816"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/57b447a1-c133-4d2e-9882-966c62d6e83f"
+          ],
+          "episode": "7",
+          "episode_ID": "1119817"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -58225,7 +58233,15 @@
           "episode_ID": "10824913"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6d5f6a4c-5592-45e1-9293-d3198a3302f8"
+          ],
+          "episode": "14",
+          "episode_ID": "10824914"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
