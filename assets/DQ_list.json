@@ -944,6 +944,29 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/a-bloody-lucky-day/",
+      "title": "A Bloody Lucky Day",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/a-bloody-lucky-day-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/a-bloody-lucky-day-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "A Bloody Lucky Day",
+      "title_ID": "112534",
+      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/bloody-lucky-day-na-dol.jpg",
+      "plot": "Oh Taek pracuje od lat jako taks\u00f3wkarz. Pewnego dnia ma sen, w kt\u00f3rym pojawiaj\u0105 si\u0119 \u015bwinie, co bierze za szcz\u0119\u015bliwy znak. Podczas jego wyj\u0105tkowo rutynowego dnia pracy m\u0119\u017cczyzna, o imieniu Geum Hyeok Soo, prosi go o podwiezienie do miasta portowego Mokpo, oferuj\u0105c za to milion won\u00f3w. Oh Taek zgadza si\u0119, ale nie wie, \u017ce Geum Hyeok Soo zamordowa\u0142 cz\u0142owieka i planuje ucieczk\u0119 z kraju. Tymczasem Hwang Soon Kyu jest matk\u0105 zamordowanego m\u0119\u017cczyzny i \u015bciga zab\u00f3jc\u0119 swojego syna. Czy uda si\u0119 wygra\u0107 z czasem i z\u0142apa\u0107 morderc\u0119?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/a-bloody-lucky-day-header.jpg",
+      "genre": "thriller, psychologiczny, dramat",
+      "year": "2023",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1<strong>Premiera w Korei: 24.11.2023 </strong>",
+          "players": [],
+          "links": [],
+          "episode": "1",
+          "episode_ID": "1125341"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/koreanska/a-business-proposal/",
       "title": "A Business Proposal",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2022/02/A-Business-Proposal-ikonka.jpg",
@@ -30336,6 +30359,9 @@
           "episode_ID": "3984714"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -37778,6 +37804,69 @@
           ],
           "episode": "6",
           "episode_ID": "1023636"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/moon-in-the-day/",
+      "title": "Moon in the Day",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/moon-in-the-day-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/moon-in-the-day-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "Moon in the Day",
+      "title_ID": "112548",
+      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/moon-in-the-day-na-dol.jpg",
+      "plot": "Han Jun Oh jest znanym po\u0142udniowokorea\u0144skim celebryt\u0105. Jest osza\u0142amiaj\u0105co przystojny, ale dr\u0119czy go kompleks ni\u017cszo\u015bci, kt\u00f3ry sprawia, \u017ce jest ci\u0105gle niepewny siebie. Pewnego dnia zostaje zatrudniony do wyst\u0119pu w filmie reklamowym. Jednak zdj\u0119cia id\u0105 nie tak, jak powinny, i Han Jun Oh bierze udzia\u0142 w wypadku samochodowym. Zostaje uratowany przez stra\u017caczk\u0119 Kang Young Hw\u0119, kt\u00f3ra przeprowadza heroiczn\u0105 akcj\u0119 ratunkow\u0105. Agencja Han Jun Oha zatrudnia Young Hw\u0119 do pracy w roli osobistego ochroniarza gwiazdy. Kiedy jednak celebryta budzi si\u0119 w szpitalu, okazuje si\u0119, \u017ce jego cia\u0142o zosta\u0142o op\u0119tane przez ducha szlachcica ze staro\u017cytnej Korei. M\u0119\u017cczyzna zosta\u0142 zabity przez swoj\u0105 ukochan\u0105 \u017con\u0119 Han Ri T\u0119, kt\u00f3ra wygl\u0105da\u0142a zupe\u0142nie jak Kang Young Hwa. Jak potocz\u0105 si\u0119 losy tej dw\u00f3jki, gdy \u017c\u0105dny zemsty duch postanowi pom\u015bci\u0107 swoj\u0105 \u015bmier\u0107?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/moon-in-the-day-header.jpg",
+      "genre": "romans, thriller, historyczny, fantasy",
+      "year": "2023",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9f614f83-9f2b-4f93-b030-5f3d03be85d0"
+          ],
+          "episode": "1",
+          "episode_ID": "1125481"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4a92e767-dbbd-4b07-8e87-6d9e3b307f7a"
+          ],
+          "episode": "2",
+          "episode_ID": "1125482"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a556c76a-a9fe-4fb2-9c7e-c7859d9274ad"
+          ],
+          "episode": "3",
+          "episode_ID": "1125483"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f2397934-6e57-4793-abe7-a81bf2710b1b"
+          ],
+          "episode": "4",
+          "episode_ID": "1125484"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -58244,7 +58333,15 @@
           "episode_ID": "10824914"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d25842d0-5325-4e56-9f78-b40d247d66b2"
+          ],
+          "episode": "15",
+          "episode_ID": "10824915"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -59028,7 +59125,7 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -59511,9 +59608,13 @@
           "episode_ID": "869156"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4448a1da-a668-4308-ad7c-d6212478546f"
+          ],
           "episode": "7",
           "episode_ID": "869157"
         },
@@ -65806,6 +65907,29 @@
           ],
           "episode": "12",
           "episode_ID": "7480812"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/welcome-to-samdalri/",
+      "title": "Welcome to Samdalri",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/welcometoSamdalrikat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/welcometoSamdalrikat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Welcome to Samdalri",
+      "title_ID": "112726",
+      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/welcometoSamdalridol.jpg",
+      "plot": "Cho Yong Pil pracuje jako synoptyk na wyspie Jeju. W pracy cechuje go niezwyk\u0142a stanowczo\u015b\u0107 nawet wobec swojego szefa. Gdy by\u0142 dzieckiem, jego matka zgin\u0119\u0142a z powodu nieprawid\u0142owej prognozy pogody. Od tamtej chwili postawi\u0142 sobie za punkt honoru przekazywa\u0107 jak najbardziej precyzyjne pogody, by w ten spos\u00f3b chroni\u0107 mieszka\u0144c\u00f3w Samdalri. Cho Sam Dal to popularna i odnosz\u0105ca sukcesy fotografka, kt\u00f3ra pracuje w Seulu pod pseudonimem Cho Eun Hye, a swoj\u0105 karier\u0119 zaczyna\u0142a od bycia asystentk\u0105 w bran\u017cy modowej. Pewnego dnia w wyniku nieoczekiwanych zdarze\u0144 Sam Dal traci swoj\u0105 prac\u0119 i zostaje zmuszona do powrotu do znienawidzonej rodzinnej miejscowo\u015bci Samdalri. Tam, po wielu latach, spotyka Yong Pila - dawnego przyjaciela z dzieci\u0144stwa. Czy ponowne spotkanie pomo\u017ce im naprawi\u0107 utracon\u0105 relacj\u0119?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/welcometoSamdalriheader.jpg",
+      "genre": "komedia, romans, okruchy \u017cycia",
+      "year": "2023",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1<strong>Premiera w Korei: 02.12.2023</strong>",
+          "players": [],
+          "links": [],
+          "episode": "1",
+          "episode_ID": "1127261"
         }
       ]
     },
@@ -78338,6 +78462,25 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/pozostale/hidden-love/",
+      "title": "Hidden Love",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2023/08/hidden-love-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2023/08/hidden-love-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "Hidden Love",
+      "title_ID": "111287",
+      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2023/08/hidden-love-na-dol.jpg",
+      "plot": "Gdy Sang Zhi ucz\u0119szcza\u0142a do szko\u0142y, nauczyciele cz\u0119sto wzywali do szko\u0142y jej rodzic\u00f3w. Aby rozwi\u0105za\u0107 ten problem, dziewczyna postanowi\u0142a zamiast rodzic\u00f3w wys\u0142a\u0107 do szko\u0142y swojego brata, jednak dosz\u0142o mi\u0119dzy nimi do sprzeczki. Bezradna Sang Zhi zwr\u00f3ci\u0142a si\u0119 o pomoc do Duan Jiaxu'a, przyjaciela swojego brata. To wydarzenie splata ich losy. Zaczynaj\u0105 si\u0119 o siebie troszczy\u0107 i traktowa\u0107 jak rodze\u0144stwo, ale dziewczyna zaczyna czu\u0107 co\u015b wi\u0119cej. Gdy Duan Jiaxu wyje\u017cd\u017ca na studia, ich wi\u0119\u017a zaczyna s\u0142abn\u0105\u0107 z powodu odleg\u0142o\u015bci i nieporozumie\u0144. Do ponownego spotkania dochodzi, gdy Sang Zhi idzie na studia do tego samego miasta, w kt\u00f3rym mieszka ch\u0142opak. Czy dawne uczucie dziewczyny od\u017cyje, a Duan Jiaxu je odwzajemni?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/08/hidden-love-header.jpg",
+      "genre": "romans, m\u0142odzie\u017cowy",
+      "year": "2023",
+      "episodes": [
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/pozostale/hua-jai-sila/",
       "title": "Hua Jai Sila",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/11/huajaisilagatjpg.jpg",
@@ -85493,6 +85636,168 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/pozostale/until-we-meet-again/",
+      "title": "Until We Meet Again",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2022/05/untilwemertkat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2022/05/untilwemertkat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Until We Meet Again",
+      "title_ID": "102463",
+      "fanart": "https://www.dramaqueen.pl/wp-content/uploads/2022/05/untilwemeetdol-1.jpg",
+      "plot": "Korn i Intouch nie dostali szansy na szcz\u0119\u015bliw\u0105 mi\u0142o\u015b\u0107. Ojciec Intoucha nie chcia\u0142, by jego syn spoufala\u0142 si\u0119 z miejscow\u0105 mafi\u0105, a spo\u0142ecze\u0144stwo nie by\u0142o w stanie zaakceptowa\u0107 rozkwitaj\u0105cego uczucia obu ch\u0142opc\u00f3w. Wszystko to doprowadzi\u0142o do tragedii, kt\u00f3ra splami\u0142a krwi\u0105 oba rody. Min\u0119\u0142o trzydzie\u015bci lat, a dziewi\u0119tnastoletni Pharm, kt\u00f3ry w\u0142a\u015bnie wybiera si\u0119 na studia, ci\u0105gle czuje si\u0119, jakby na kogo\u015b czeka\u0142. Nawiedzaj\u0105 go koszmary, a g\u0142o\u015bne d\u017awi\u0119ki przyprawiaj\u0105 o szybsze bicie serca. Na dodatek nie mo\u017ce oderwa\u0107 oczu od Deana, dwa lata starszego cz\u0142onka dru\u017cyny p\u0142ywackiej. Czy tym razem los b\u0119dzie dla ch\u0142opc\u00f3w \u0142askawszy?</p>\n<p><strong>Jest to adaptacja powie\u015bci \"The Red Thread\" autorstwa LazySheep</strong>.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2022/05/untinlwemeet.jpg",
+      "genre": "romans, dramat, , kulinarny, m\u0142odzie\u017cowy,, LGBT+",
+      "year": "2019",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f20a3110-278d-4010-a44e-1e34ecafb0f3"
+          ],
+          "episode": "1",
+          "episode_ID": "1024631"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a07acd3b-952e-48ed-824e-2afbbcef5bd6"
+          ],
+          "episode": "2",
+          "episode_ID": "1024632"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e9b249ce-4452-40d8-8390-b3f01ee99a8f"
+          ],
+          "episode": "3",
+          "episode_ID": "1024633"
+        },
+        {
+          "ep_title": "Odcinek 4 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6b9fddbc-4e0c-41ea-a7fc-47cb22088e7e"
+          ],
+          "episode": "4",
+          "episode_ID": "1024634"
+        },
+        {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3ea5da11-5aa8-4674-b7e5-6e644f0cedaa"
+          ],
+          "episode": "5",
+          "episode_ID": "1024635"
+        },
+        {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0d897536-2a87-410e-8773-d15546831bd9"
+          ],
+          "episode": "6",
+          "episode_ID": "1024636"
+        },
+        {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fc68eee9-d11b-40bb-8021-5b2ee562d918"
+          ],
+          "episode": "7",
+          "episode_ID": "1024637"
+        },
+        {
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/68ca01d3-5966-4b1a-a650-c95e5b89f47e"
+          ],
+          "episode": "8",
+          "episode_ID": "1024638"
+        },
+        {
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d4f9bf19-eee8-4f92-aebe-bcbc863a7fd6"
+          ],
+          "episode": "9",
+          "episode_ID": "1024639"
+        },
+        {
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b4ec611b-1a75-4459-8668-dce42a0ff0a7"
+          ],
+          "episode": "10",
+          "episode_ID": "10246310"
+        },
+        {
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ae38493f-9049-48e2-a76a-f89fdebb57ca"
+          ],
+          "episode": "11",
+          "episode_ID": "10246311"
+        },
+        {
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/102beb71-7e1f-44f4-8572-94f52be94a4a"
+          ],
+          "episode": "12",
+          "episode_ID": "10246312"
+        },
+        {
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/993eeb65-3a75-46bc-b731-d9561735293f"
+          ],
+          "episode": "13",
+          "episode_ID": "10246313"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/pozostale/we-best-love-fighting-mr-2nd/",
       "title": "We Best Love: Fighting Mr. 2nd",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2021/03/WBL2kat.jpg",
@@ -86094,7 +86399,15 @@
           "episode_ID": "10782620"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 21",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1b0a0847-9c6c-4869-9dde-9666f0b0c4e1"
+          ],
+          "episode": "21",
+          "episode_ID": "10782621"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
