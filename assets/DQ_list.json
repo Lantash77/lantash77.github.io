@@ -18453,7 +18453,15 @@
           "episode_ID": "1119817"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/46e4fe25-428f-4bc1-a37d-ff71c1c62309"
+          ],
+          "episode": "8",
+          "episode_ID": "1119818"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -78588,6 +78596,13 @@
       "genre": "romans, m\u0142odzie\u017cowy",
       "year": "2023",
       "episodes": [
+        {
+          "ep_title": "Odcinek 1<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "1",
+          "episode_ID": "1112871"
+        },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
