@@ -37918,6 +37918,12 @@
           "episode_ID": "1125487"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -43047,6 +43053,9 @@
           ],
           "episode": "5",
           "episode_ID": "1101485"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -64183,9 +64192,13 @@
           "episode_ID": "10644215"
         },
         {
-          "ep_title": "Odcinek 16 - Fina\u0142<img decoding=\"async\" loading=\"lazy\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 16 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/969ba45a-abe3-49cb-a37f-4674a6c4eb67"
+          ],
           "episode": "16",
           "episode_ID": "10644216"
         }
@@ -66045,6 +66058,9 @@
       "genre": "komedia, romans, okruchy \u017cycia",
       "year": "2023",
       "episodes": [
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
@@ -78597,9 +78613,13 @@
       "year": "2023",
       "episodes": [
         {
-          "ep_title": "Odcinek 1<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fb45c6ec-f192-4d5d-950a-e36fa76ab14f"
+          ],
           "episode": "1",
           "episode_ID": "1112871"
         },
