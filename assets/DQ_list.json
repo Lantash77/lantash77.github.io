@@ -958,11 +958,7 @@
       "year": "2023",
       "episodes": [
         {
-          "ep_title": "Odcinek 1<strong>Premiera w Korei: 24.11.2023 </strong>",
-          "players": [],
-          "links": [],
-          "episode": "1",
-          "episode_ID": "1125341"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -37927,6 +37923,9 @@
           ],
           "episode": "8",
           "episode_ID": "1125488"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -77732,6 +77731,9 @@
           "episode_ID": "11070614"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -95401,7 +95403,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "144"
+      "gen_count": "145"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -95417,7 +95419,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "392"
+      "gen_count": "395"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -95429,11 +95431,11 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "206"
+      "gen_count": "208"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
-      "gen_count": "70"
+      "gen_count": "71"
     },
     "Horror": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/horror/",
@@ -95441,7 +95443,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "306"
+      "gen_count": "307"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -95481,11 +95483,11 @@
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
-      "gen_count": "13"
+      "gen_count": "14"
     },
     "Okruchy \u017bycia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/okruchy-zycia/",
-      "gen_count": "50"
+      "gen_count": "51"
     },
     "Podr\u00f3\u017cniczy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/podrozniczy/",
@@ -95553,7 +95555,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "165"
+      "gen_count": "166"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
@@ -95561,7 +95563,7 @@
     },
     "Wojenny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/wojenny/",
-      "gen_count": "7"
+      "gen_count": "8"
     },
     "Zwierz\u0119ta": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/zwierzeta/",
