@@ -958,7 +958,15 @@
       "year": "2023",
       "episodes": [
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8335810f-18f5-4d0a-8ced-fe5de61f3e4c"
+          ],
+          "episode": "1",
+          "episode_ID": "1125341"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -18461,6 +18469,9 @@
           ],
           "episode": "8",
           "episode_ID": "1119818"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -37928,10 +37939,18 @@
           "episode_ID": "1125488"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1a776a44-b20f-463b-b2e0-2e4d614c3177"
+          ],
+          "episode": "9",
+          "episode_ID": "1125489"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -43065,7 +43084,15 @@
           "episode_ID": "1101485"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4639246c-b340-4043-8589-8603973b813c"
+          ],
+          "episode": "6",
+          "episode_ID": "1101486"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -66083,6 +66110,13 @@
           "episode_ID": "1127261"
         },
         {
+          "ep_title": "Odcinek 2<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "2",
+          "episode_ID": "1127262"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -77737,9 +77771,13 @@
           "episode_ID": "11070614"
         },
         {
-          "ep_title": "Odcinek 15<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7b17a25b-a746-4c5d-969e-3810a516ec32"
+          ],
           "episode": "15",
           "episode_ID": "11070615"
         },
@@ -86892,20 +86930,12 @@
       "year": "2012",
       "episodes": [
         {
-          "ep_title": "Film<img decoding=\"async\" class=\"alignnone size-full wp-image-38476\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/05/reuploadplakietka.jpg\" alt=\"\" width=\"193\" height=\"21\" srcset=\"https://www.dramaqueen.pl/wp-content/uploads/2018/05/reuploadplakietka.jpg 193w, https://www.dramaqueen.pl/wp-content/uploads/2018/05/reuploadplakietka-180x21.jpg 180w\" sizes=\"(max-width: 193px) 100vw, 193px\" />",
+          "ep_title": "Film",
           "players": [
-            "Fembed",
-            "Vev.io",
-            "Vidoza",
-            "Onlystream",
-            "netu.tv"
+            "DQ-Player"
           ],
           "links": [
-            "https://www.fembed.com/v/0pekgulxrm632e7",
-            "https://vev.io/embed/qnoxpk5dmz30",
-            "https://vidoza.net/34i2a0fz9j31.html",
-            "https://onlystream.tv/cq9ze2iybrlt",
-            "https://waaw.tv/watch_video.php?v=szuMNDrzogPX"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a9335896-9309-4fb1-b8e6-077ab7e3f3b0"
           ],
           "episode": "1",
           "episode_ID": "136351"
