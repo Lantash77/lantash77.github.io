@@ -18471,7 +18471,7 @@
           "episode_ID": "1119818"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -37948,6 +37948,17 @@
           ],
           "episode": "9",
           "episode_ID": "1125489"
+        },
+        {
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3d4bc5a0-3574-4b56-b376-e295802e7ca6"
+          ],
+          "episode": "10",
+          "episode_ID": "11254810"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -66110,9 +66121,13 @@
           "episode_ID": "1127261"
         },
         {
-          "ep_title": "Odcinek 2<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/66ca94a8-8cf7-4cdb-8fdb-0c3c4ba848e5"
+          ],
           "episode": "2",
           "episode_ID": "1127262"
         },
@@ -78688,6 +78703,20 @@
           ],
           "episode": "1",
           "episode_ID": "1112871"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/82ceaf37-878c-4aac-a0f1-b6e7797466f1"
+          ],
+          "episode": "2",
+          "episode_ID": "1112872"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
