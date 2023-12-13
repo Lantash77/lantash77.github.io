@@ -18471,7 +18471,15 @@
           "episode_ID": "1119818"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5c1fc2da-1927-4ece-a133-7bc9d003fa5d"
+          ],
+          "episode": "9",
+          "episode_ID": "1119819"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
