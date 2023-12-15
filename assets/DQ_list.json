@@ -37969,6 +37969,17 @@
           "episode_ID": "11254810"
         },
         {
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/20e02a4a-0047-494c-97d5-835aa64449ff"
+          ],
+          "episode": "11",
+          "episode_ID": "11254811"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
@@ -78283,6 +78294,12 @@
           "episode_ID": "11041316"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -78428,7 +78445,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/00516120-42aa-49d4-b2f4-ed5f6cde01c1"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6a172faf-c168-4813-910a-8b4b29dbc0d6"
           ],
           "episode": "12",
           "episode_ID": "2893912"
@@ -86045,6 +86062,39 @@
           ],
           "episode": "13",
           "episode_ID": "10246313"
+        },
+        {
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e8cc1d38-0276-4057-a08d-679f378f4251"
+          ],
+          "episode": "14",
+          "episode_ID": "10246314"
+        },
+        {
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2c699581-60b9-40d2-97db-92a742f7940f"
+          ],
+          "episode": "15",
+          "episode_ID": "10246315"
+        },
+        {
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/79512645-e7f6-421b-ad7c-a8988c2e98ef"
+          ],
+          "episode": "16",
+          "episode_ID": "10246316"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
