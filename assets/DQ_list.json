@@ -969,9 +969,13 @@
           "episode_ID": "1125341"
         },
         {
-          "ep_title": "Odcinek 2<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b22a403a-9970-473d-baf3-d7d94c3f9827"
+          ],
           "episode": "2",
           "episode_ID": "1125342"
         },
@@ -18489,7 +18493,15 @@
           "episode_ID": "1119819"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10 - Fina\u0142 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e1726987-2874-4261-973a-3690deb562bb"
+          ],
+          "episode": "10",
+          "episode_ID": "11198110"
         }
       ]
     },
@@ -44494,16 +44506,10 @@
         {
           "ep_title": "Odcinek specjalny",
           "players": [
-            "Fembed",
-            "Vev",
-            "Netu",
-            "Vidlox"
+            "DQ-Player"
           ],
           "links": [
-            "https://www.fembed.com/v/zz37jsjp0-w5jm6",
-            "https://vev.io/embed/zl32w6pp0w3v",
-            "https://waaw.to/f/cj2HM3TM7JKe",
-            "https://vidlox.me/embed-1najx6mee0ev.html"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/51a9f127-01f0-47ae-9c4e-35bb3946b74e"
           ],
           "episode": "1",
           "episode_ID": "35841"
@@ -46491,7 +46497,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a30c1734-ab19-4c20-9350-a0042b48c160"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/055d56ef-66e9-40d4-b1a6-4009ad96107c"
           ],
           "episode": "2",
           "episode_ID": "1000042"
