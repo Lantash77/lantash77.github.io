@@ -38013,7 +38013,15 @@
           "episode_ID": "11254812"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4c4bd0f9-3e6a-4eee-9dd3-cb424d2fa876"
+          ],
+          "episode": "13",
+          "episode_ID": "11254813"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -78807,6 +78815,9 @@
           ],
           "episode": "3",
           "episode_ID": "1112873"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
