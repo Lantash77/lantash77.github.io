@@ -38024,7 +38024,15 @@
           "episode_ID": "11254813"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f44aefba-7115-49c0-adff-ce2d68fc4982"
+          ],
+          "episode": "14",
+          "episode_ID": "11254814"
         }
       ]
     },
@@ -78824,7 +78832,11 @@
           "episode_ID": "1112873"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 4<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "4",
+          "episode_ID": "1112874"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -82948,7 +82960,15 @@
           "episode_ID": "10109911"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2e58a884-7c71-4110-9343-4a9abce80c28"
+          ],
+          "episode": "12",
+          "episode_ID": "10109912"
         }
       ]
     },
@@ -86177,7 +86197,15 @@
           "episode_ID": "10246316"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 17 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/60d227ca-5b4f-4cab-ad8d-22cf31257f85"
+          ],
+          "episode": "17",
+          "episode_ID": "10246317"
         }
       ]
     },
