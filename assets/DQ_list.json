@@ -980,6 +980,13 @@
           "episode_ID": "1125342"
         },
         {
+          "ep_title": "Odcinek 3<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "3",
+          "episode_ID": "1125343"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -58555,7 +58562,15 @@
           "episode_ID": "10824918"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 19",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f85eeda7-2369-4031-b2d7-9b5dad2be484"
+          ],
+          "episode": "19",
+          "episode_ID": "10824919"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -78832,9 +78847,13 @@
           "episode_ID": "1112873"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/da4a9536-8d6c-4fcf-9754-2e0651ef6bb6"
+          ],
           "episode": "4",
           "episode_ID": "1112874"
         },
