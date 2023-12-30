@@ -43185,9 +43185,13 @@
           "episode_ID": "1101486"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" loading=\"lazy\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2913f31d-57e4-41f0-8690-1f9576752b4e"
+          ],
           "episode": "7",
           "episode_ID": "1101487"
         },
@@ -58577,9 +58581,13 @@
           "episode_ID": "10824919"
         },
         {
-          "ep_title": "Odcinek 20 - Fina\u0142<img decoding=\"async\" loading=\"lazy\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 20 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ea4e962b-e8b4-4fd8-8ba5-226ed4170e42"
+          ],
           "episode": "20",
           "episode_ID": "10824920"
         }
