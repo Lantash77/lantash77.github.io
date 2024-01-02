@@ -923,7 +923,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "145"
+      "gen_count": "146"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -939,7 +939,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "397"
+      "gen_count": "401"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -951,11 +951,11 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "209"
+      "gen_count": "213"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
-      "gen_count": "71"
+      "gen_count": "73"
     },
     "Horror": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/horror/",
@@ -963,15 +963,15 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "306"
+      "gen_count": "308"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
-      "gen_count": "121"
+      "gen_count": "122"
     },
     "kostiumowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kostiumowy/",
-      "gen_count": "43"
+      "gen_count": "44"
     },
     "Krymina\u0142": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kryminal/",
@@ -983,7 +983,7 @@
     },
     "LGBT+": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/lgbt/",
-      "gen_count": "46"
+      "gen_count": "49"
     },
     "Medyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/medyczny/",
@@ -991,15 +991,15 @@
     },
     "Melodramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/melodramat/",
-      "gen_count": "109"
+      "gen_count": "110"
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
-      "gen_count": "39"
+      "gen_count": "40"
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "102"
+      "gen_count": "106"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
@@ -1007,7 +1007,7 @@
     },
     "Okruchy \u017bycia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/okruchy-zycia/",
-      "gen_count": "51"
+      "gen_count": "52"
     },
     "Podr\u00f3\u017cniczy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/podrozniczy/",
@@ -1035,15 +1035,15 @@
     },
     "Rodzinny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/rodzinny/",
-      "gen_count": "43"
+      "gen_count": "44"
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "519"
+      "gen_count": "528"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
-      "gen_count": "31"
+      "gen_count": "32"
     },
     "Sensacyjny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/sensacyjny/",
@@ -1051,7 +1051,7 @@
     },
     "Special Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/special-drama/",
-      "gen_count": "25"
+      "gen_count": "26"
     },
     "Sport": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/sport/",
@@ -1063,7 +1063,7 @@
     },
     "Szkolny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/szkolny/",
-      "gen_count": "114"
+      "gen_count": "115"
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
@@ -1075,11 +1075,11 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "167"
+      "gen_count": "169"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
-      "gen_count": "84"
+      "gen_count": "85"
     },
     "Wojenny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/wojenny/",
