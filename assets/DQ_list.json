@@ -4739,7 +4739,21 @@
           "episode_ID": "1116092"
         },
         {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/eb757c67-4c38-4dc1-9c03-e0fc99143250"
+          ],
+          "episode": "3",
+          "episode_ID": "1116093"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -13865,7 +13879,14 @@
           "episode_ID": "1128876"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 8 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "8",
+          "episode_ID": "1128878"
         }
       ]
     },
@@ -22535,9 +22556,13 @@
           "episode_ID": "1130038"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c54d00d0-e0b0-4335-a186-7d6d510df914"
+          ],
           "episode": "9",
           "episode_ID": "1130039"
         },
@@ -39144,7 +39169,15 @@
           "episode_ID": "1064394"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8d095870-ce80-4f9b-adb1-f63ec219319b"
+          ],
+          "episode": "5",
+          "episode_ID": "1064395"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -46871,6 +46904,9 @@
           ],
           "episode": "5",
           "episode_ID": "1130135"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -82402,6 +82438,9 @@
           "episode_ID": "10520411"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -85647,20 +85686,10 @@
         {
           "ep_title": "Odcinek 1",
           "players": [
-            "CDA",
-            "MixDrop",
-            "Upstream",
-            "Ok.ru",
-            "ABCVideo",
-            "Fembed"
+            "DQ-Player"
           ],
           "links": [
-            "https://ebd.cda.pl/620x395/654737347",
-            "https://mixdrop.to/e/o7g7mv4ebj3og8",
-            "https://upstream.to/embed-y41rt2ovcyhq.html",
-            "//ok.ru/videoembed/2586292718283",
-            "https://abcvideo.cc/embed-pun79lgv3wrq.html",
-            "https://www.fembed.com/v/z5d56cj188zrp34"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8a0a9e37-78bd-4f08-950e-23980431b234"
           ],
           "episode": "1",
           "episode_ID": "908081"
@@ -85668,20 +85697,10 @@
         {
           "ep_title": "Odcinek 2",
           "players": [
-            "CDA",
-            "MixDrop",
-            "Upstream",
-            "Ok.ru",
-            "ABCVideo",
-            "Fembed"
+            "DQ-Player"
           ],
           "links": [
-            "https://ebd.cda.pl/620x395/658400998",
-            "https://mixdrop.to/e/dq44dnq4s7jgmpw",
-            "https://upstream.to/embed-t8ee6enh1tl5.html",
-            "//ok.ru/videoembed/2603703208651",
-            "https://abcvideo.cc/embed-h4vc9o7337xp.html",
-            "https://www.fembed.com/v/k-w-3f35yr4xyp3"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/aced2148-c703-49cc-8acf-bf9aa8ee2e42"
           ],
           "episode": "2",
           "episode_ID": "908082"
@@ -85689,20 +85708,10 @@
         {
           "ep_title": "Odcinek 3",
           "players": [
-            "CDA",
-            "MixDrop",
-            "Upstream",
-            "Ok.ru",
-            "ABCVideo",
-            "Fembed"
+            "DQ-Player"
           ],
           "links": [
-            "https://ebd.cda.pl/620x395/6678680e6",
-            "https://mixdrop.to/e/84vd1lkdf6m1krl",
-            "https://upstream.to/embed-w3y2q4sl8qed.html",
-            "//ok.ru/videoembed/2635023256267",
-            "https://abcvideo.cc/embed-39u7p4f5th36.html",
-            "https://www.fembed.com/v/83y3ma8y6z8ljg1"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/aced2148-c703-49cc-8acf-bf9aa8ee2e42"
           ],
           "episode": "3",
           "episode_ID": "908083"
@@ -85710,20 +85719,10 @@
         {
           "ep_title": "Odcinek 4",
           "players": [
-            "CDA",
-            "Fembed",
-            "UpStream",
-            "Ok.ru",
-            "MixDrop",
-            "AbcVideo"
+            "DQ-Player"
           ],
           "links": [
-            "https://ebd.cda.pl/620x395/6675227ba",
-            "https://www.fembed.com/v/6jqj1c03zx14ggk",
-            "https://upstream.to/embed-334wj4zk2q1f.html",
-            "//ok.ru/videoembed/2635099081419",
-            "https://mixdrop.to/e/xop6l3wwillnx8j",
-            "https://abcvideo.cc/embed-kjkhyjnlps5p.html"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e6789626-3aeb-41d8-baed-73b2f15a7a7e"
           ],
           "episode": "4",
           "episode_ID": "908084"
@@ -85731,18 +85730,10 @@
         {
           "ep_title": "Odcinek 5",
           "players": [
-            "CDA",
-            "Fembed",
-            "UpStream",
-            "Ok.ru",
-            "AbcVideo"
+            "DQ-Player"
           ],
           "links": [
-            "https://ebd.cda.pl/620x395/715701729",
-            "https://www.fembed.com/v/rxqx5te8x35k1pg",
-            "https://upstream.to/embed-elci0pobgbxi.html",
-            "//ok.ru/videoembed/2742919629515",
-            "https://abcvideo.cc/embed-6tmmwglcc6bp.html"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/13b21b76-9f51-41ec-8d1d-e2f5c7baa7b9"
           ],
           "episode": "5",
           "episode_ID": "908085"
@@ -85750,21 +85741,24 @@
         {
           "ep_title": "Odcinek 6",
           "players": [
-            "DQ Player",
-            "CDA",
-            "Mixdrop",
-            "StreamSB",
-            "Fembed"
+            "DQ-Player"
           ],
           "links": [
-            "https://player.vimeo.com/video/639047471?h=1eed1c3c1a&badge=0&autopause=0&player_id=0&app_id=58479",
-            "https://ebd.cda.pl/900x470/889803905",
-            "https://mixdrop.sx/e/dqwqp47wak337g",
-            "https://embedsb.com/e/84phjm1c5l9u.html",
-            "https://www.fembed.com/v/66l0xs017j03nd5"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9fa95c87-fc99-4502-997b-068144347947"
           ],
           "episode": "6",
           "episode_ID": "908086"
+        },
+        {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6cebf06d-1c89-469e-b4be-54d19a0f9d36"
+          ],
+          "episode": "7",
+          "episode_ID": "908087"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
