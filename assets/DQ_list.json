@@ -1070,6 +1070,9 @@
           "episode_ID": "1125347"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -41668,6 +41671,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -47039,7 +47045,15 @@
           "episode_ID": "1130136"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0705b129-04e8-4197-be4e-3343f590a72a"
+          ],
+          "episode": "7",
+          "episode_ID": "1130137"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -48899,9 +48913,13 @@
           "episode_ID": "928768"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/59e915c5-6766-4cd1-a5b1-734fadfb3aad"
+          ],
           "episode": "9",
           "episode_ID": "928769"
         },
@@ -62377,9 +62395,13 @@
           "episode_ID": "869159"
         },
         {
-          "ep_title": "Odcinek 10<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2da456c5-217a-45b3-a928-46008c730136"
+          ],
           "episode": "10",
           "episode_ID": "8691510"
         },
@@ -67067,7 +67089,15 @@
           "episode_ID": "1122055"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/da67b78a-1bf0-4a4f-b446-afcc08f22f21"
+          ],
+          "episode": "6",
+          "episode_ID": "1122056"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -68991,7 +69021,18 @@
           "episode_ID": "1127266"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cd0129b3-5806-40db-98b9-ff989080d271"
+          ],
+          "episode": "7",
+          "episode_ID": "1127267"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -81077,9 +81118,13 @@
           "episode_ID": "11070616"
         },
         {
-          "ep_title": "Odcinek 17<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 17",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5a31e1d8-d1c1-40f9-9517-0b9dd83b65b2"
+          ],
           "episode": "17",
           "episode_ID": "11070617"
         },
