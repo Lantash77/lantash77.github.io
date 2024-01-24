@@ -1081,7 +1081,11 @@
           "episode_ID": "1125348"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "9",
+          "episode_ID": "1125349"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -22684,7 +22688,15 @@
           "episode_ID": "11300312"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/27768d55-1c75-4b9f-a3da-7f5bf525f5e1"
+          ],
+          "episode": "13",
+          "episode_ID": "11300313"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -69065,9 +69077,13 @@
           "episode_ID": "1127267"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/05443427-df2b-45f9-b31b-8b3ba75456fe"
+          ],
           "episode": "8",
           "episode_ID": "1127268"
         },
@@ -82196,6 +82212,13 @@
           ],
           "episode": "6",
           "episode_ID": "1112876"
+        },
+        {
+          "ep_title": "Odcinek 7",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "1112877"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -100644,7 +100667,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "148"
+      "gen_count": "149"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -100684,7 +100707,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "311"
+      "gen_count": "312"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -100696,7 +100719,7 @@
     },
     "Krymina\u0142": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kryminal/",
-      "gen_count": "94"
+      "gen_count": "95"
     },
     "Kulinarny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kulinarny/",
@@ -100760,7 +100783,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "533"
+      "gen_count": "534"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -100788,7 +100811,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "197"
+      "gen_count": "198"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
