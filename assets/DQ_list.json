@@ -4986,10 +4986,18 @@
           "episode_ID": "1116097"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "8",
+          "episode_ID": "1116098"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "9",
+          "episode_ID": "1116099"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -20965,11 +20973,7 @@
       "year": "2024",
       "episodes": [
         {
-          "ep_title": "Odcinek 1<strong>Premiera w Korei: 26.01.2024r.</strong>",
-          "players": [],
-          "links": [],
-          "episode": "1",
-          "episode_ID": "1142091"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -37454,7 +37458,11 @@
           "episode_ID": "1140702"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "3",
+          "episode_ID": "1140703"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -43945,7 +43953,7 @@
       "tvshowtitle": "Naked Fireman",
       "title_ID": "114257",
       "fanart": "",
-      "plot": "Odk\u0105d rodzice Han Ji An zgin\u0119li przed laty w po\u017carze, dziewczyna pr\u00f3buje odzyska\u0107 wspomnienia z tamtej nocy i znale\u017a\u0107 winnego tragedii. Nieszablonowe poszukiwania prowadz\u0105 j\u0105 do Kang Chul Soo, pe\u0142nego werwy stra\u017caka, kt\u00f3ry dla przyjaci\u00f3\u0142 zrobi wszystko \u2013 zapozuje nawet do nagiego aktu. Niedopowiedzenia i podejrzenia mi\u0119dzy nimi nie przeszkodz\u0105 w powstaniu zacie\u015bniaj\u0105cej si\u0119 relacji. Gdy jednak oliwy do ognia zaczn\u0105 dorzuca\u0107 kolejne osoby z ich otoczenia, zrobi si\u0119 naprawd\u0119 gor\u0105co.",
+      "plot": "Odk\u0105d rodzice Han Ji Ah zgin\u0119li przed laty w po\u017carze, dziewczyna pr\u00f3buje odzyska\u0107 wspomnienia z tamtej nocy i znale\u017a\u0107 winnego tragedii. Nieszablonowe poszukiwania prowadz\u0105 j\u0105 do Kang Chul Soo, pe\u0142nego werwy stra\u017caka, kt\u00f3ry dla przyjaci\u00f3\u0142 zrobi wszystko \u2013 zapozuje nawet do nagiego aktu. Niedopowiedzenia i podejrzenia mi\u0119dzy nimi nie przeszkodz\u0105 w powstaniu zacie\u015bniaj\u0105cej si\u0119 relacji. Gdy jednak oliwy do ognia zaczn\u0105 dorzuca\u0107 kolejne osoby z ich otoczenia, zrobi si\u0119 naprawd\u0119 gor\u0105co.",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2024/01/nakedfireman_head.jpg",
       "genre": [
         "akcja",
@@ -69651,7 +69659,7 @@
           "episode_ID": "1127268"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -80127,9 +80135,13 @@
           "episode_ID": "1090256"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4f27dd32-498f-46a4-91c6-7d657ace2462"
+          ],
           "episode": "7",
           "episode_ID": "1090257"
         },
@@ -86059,6 +86071,128 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/pozostale/my-journey-to-you/",
+      "title": "My Journey to You",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2023/10/My-Journey-to-You-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2023/10/My-Journey-to-You-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "My Journey to You",
+      "title_ID": "112165",
+      "fanart": "",
+      "plot": "Historia opowiada losy Yun Weishan, kobiety-szpiega, kt\u00f3ra pragnie wolno\u015bci. Udaje si\u0119 ona do dworu rodziny Gong, aby uko\u0144czy\u0107 powierzon\u0105 jej misj\u0119. W upiornym i pe\u0142nym spisk\u00f3w dworze dowiaduje si\u0119, czym jest mi\u0142o\u015b\u0107 i przyja\u017a\u0144. Wyrusza w podr\u00f3\u017c ku odkrywaniu samej siebie i odnajduje motywacj\u0119, by \u017cy\u0107 dalej.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/10/My-Journey-to-You-header.jpg",
+      "genre": [
+        "romans",
+        "dramat,",
+        "fantasy"
+      ],
+      "year": "2023",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/926a4d5f-cc76-4fb3-b61d-cdd4ad4f9591"
+          ],
+          "episode": "1",
+          "episode_ID": "1121651"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e1b6b063-0fac-463c-b57b-f0b92415285a"
+          ],
+          "episode": "2",
+          "episode_ID": "1121652"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3fda48c2-b772-49c6-8904-85077a91fe5a"
+          ],
+          "episode": "3",
+          "episode_ID": "1121653"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6be52c26-f275-4e7e-8205-70cd8db88cde"
+          ],
+          "episode": "4",
+          "episode_ID": "1121654"
+        },
+        {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1c7aa6d3-1cdb-4713-aef3-1dfa231a6360"
+          ],
+          "episode": "5",
+          "episode_ID": "1121655"
+        },
+        {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ce3422cb-a357-421b-addd-2187f63028b1"
+          ],
+          "episode": "6",
+          "episode_ID": "1121656"
+        },
+        {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/071175e3-cd9f-4d5d-9715-a78a04d782ee"
+          ],
+          "episode": "7",
+          "episode_ID": "1121657"
+        },
+        {
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a5b1dfb4-703c-4068-b335-91054933e0f9"
+          ],
+          "episode": "8",
+          "episode_ID": "1121658"
+        },
+        {
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/68817e86-23f3-4397-a269-c83ce9fa4668"
+          ],
+          "episode": "9",
+          "episode_ID": "1121659"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/pozostale/my-mr-mermaid/",
       "title": "My Mr. Mermaid",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/10/mermaidgt.jpg",
@@ -91525,7 +91659,15 @@
           "episode_ID": "10782622"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 23",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c41db6c2-35f0-4570-8ee1-b6166aac783f"
+          ],
+          "episode": "23",
+          "episode_ID": "10782623"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
