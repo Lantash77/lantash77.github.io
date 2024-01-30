@@ -14668,6 +14668,17 @@
           "episode_ID": "1138981"
         },
         {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cc6de5d1-9a79-43e1-861a-27d848333550"
+          ],
+          "episode": "2",
+          "episode_ID": "1138982"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
@@ -20983,14 +20994,22 @@
       "year": "2024",
       "episodes": [
         {
-          "ep_title": "Odcinek 1<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4a002f3e-2e05-4466-9869-0d56bf34dfa4"
+          ],
           "episode": "1",
           "episode_ID": "1142091"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "2",
+          "episode_ID": "1142092"
         },
         {
           "ep_title": "Odcinek 3<strong>Premiera w Korei: 02.02.2024</strong>",
@@ -37505,6 +37524,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -42102,11 +42124,10 @@
           "episode_ID": "1132766"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "7",
-          "episode_ID": "1132767"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -59077,7 +59098,26 @@
           "episode_ID": "1139162"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/09a6facd-55c8-4764-9629-44b5af854c9b"
+          ],
+          "episode": "3",
+          "episode_ID": "1139163"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/56736c07-d748-4678-9674-9c6fabf90346"
+          ],
+          "episode": "4",
+          "episode_ID": "1139164"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -80236,9 +80276,13 @@
           "episode_ID": "1090257"
         },
         {
-          "ep_title": "Odcinek 8 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 8 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2681636f-0cb3-4533-b96e-d8cf9d1d5582"
+          ],
           "episode": "8",
           "episode_ID": "1090258"
         }
@@ -102074,11 +102118,11 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "311"
+      "gen_count": "312"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
-      "gen_count": "122"
+      "gen_count": "123"
     },
     "kostiumowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kostiumowy/",
@@ -102150,7 +102194,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "534"
+      "gen_count": "535"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
