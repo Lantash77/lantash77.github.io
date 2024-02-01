@@ -21013,9 +21013,13 @@
           "episode_ID": "1142091"
         },
         {
-          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/806cb7f5-faf9-4ad2-9b31-f6c67cf36ecc"
+          ],
           "episode": "2",
           "episode_ID": "1142092"
         },
@@ -39749,6 +39753,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -42143,7 +42150,15 @@
           "episode_ID": "1132766"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/58654fc9-daa4-4e02-b6c3-34984c1e4536"
+          ],
+          "episode": "7",
+          "episode_ID": "1132767"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -47615,7 +47630,7 @@
           "episode_ID": "1130138"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -49508,7 +49523,11 @@
           "episode_ID": "9287611"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "9287612"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -63945,6 +63964,9 @@
           ],
           "episode": "2",
           "episode_ID": "1138102"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -83436,6 +83458,13 @@
           ],
           "episode": "7",
           "episode_ID": "1112877"
+        },
+        {
+          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "8",
+          "episode_ID": "1112878"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
