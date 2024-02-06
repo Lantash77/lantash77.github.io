@@ -2878,6 +2878,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -5030,7 +5033,11 @@
           "episode_ID": "11160911"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "11160912"
         }
       ]
     },
@@ -21036,7 +21043,15 @@
           "episode_ID": "1142092"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a79bfebf-0f04-4209-9f6c-d5e14ff7221a"
+          ],
+          "episode": "3",
+          "episode_ID": "1142093"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -44136,9 +44151,13 @@
           "episode_ID": "1142571"
         },
         {
-          "ep_title": "Odcinek 2<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/284a9a0d-3363-4d07-8a31-59d7f9ea7c7a"
+          ],
           "episode": "2",
           "episode_ID": "1142572"
         },
@@ -47696,7 +47715,15 @@
           "episode_ID": "1130139"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c7eb98db-4b0d-449b-92ef-3fcaf214caa7"
+          ],
+          "episode": "10",
+          "episode_ID": "11301310"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -49598,6 +49625,9 @@
           ],
           "episode": "12",
           "episode_ID": "9287612"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -64042,7 +64072,15 @@
           "episode_ID": "1138102"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/aed36cfc-252b-44e7-82d0-22fc6f6aad9d"
+          ],
+          "episode": "3",
+          "episode_ID": "1138103"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -84126,6 +84164,9 @@
           "episode_ID": "10520412"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -87518,7 +87559,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/aced2148-c703-49cc-8acf-bf9aa8ee2e42"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/38920a3e-36c7-48ec-9b44-47488c37f27c"
           ],
           "episode": "2",
           "episode_ID": "908082"
