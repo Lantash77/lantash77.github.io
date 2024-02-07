@@ -2837,8 +2837,8 @@
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2022/03/again-my-life-header.jpg",
       "genre": [
         "detektywistyczny",
-        "prawniczy",
         "adaptacja powie\u015bci",
+        "prawniczy",
         "science-fiction"
       ],
       "year": "2022",
@@ -21054,7 +21054,7 @@
           "episode_ID": "1142093"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 5<strong>Premiera w Korei: 09.02.2024</strong>",
@@ -23018,7 +23018,11 @@
           "episode_ID": "11300313"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "14",
+          "episode_ID": "11300314"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -34990,7 +34994,7 @@
           "episode_ID": "10642715"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -37602,6 +37606,9 @@
           ],
           "episode": "7",
           "episode_ID": "1140707"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -42225,6 +42232,17 @@
           ],
           "episode": "7",
           "episode_ID": "1132767"
+        },
+        {
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3e9baa34-1b87-493f-9d10-702d00c647a2"
+          ],
+          "episode": "8",
+          "episode_ID": "1132768"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -87642,7 +87660,15 @@
           "episode_ID": "908089"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/88bc2b89-1913-4ca5-b14f-58ec320f5a07"
+          ],
+          "episode": "10",
+          "episode_ID": "9080810"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -92043,6 +92069,9 @@
           ],
           "episode": "23",
           "episode_ID": "10782623"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
