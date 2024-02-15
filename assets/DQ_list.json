@@ -92284,6 +92284,9 @@
           "episode_ID": "10782624"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -102543,7 +102546,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "150"
+      "gen_count": "152"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -102559,7 +102562,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "407"
+      "gen_count": "409"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -102571,7 +102574,7 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "218"
+      "gen_count": "220"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
@@ -102579,11 +102582,11 @@
     },
     "Horror": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/horror/",
-      "gen_count": "60"
+      "gen_count": "61"
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "314"
+      "gen_count": "318"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -102603,7 +102606,7 @@
     },
     "LGBT+": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/lgbt/",
-      "gen_count": "50"
+      "gen_count": "52"
     },
     "Medyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/medyczny/",
@@ -102615,7 +102618,7 @@
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
-      "gen_count": "40"
+      "gen_count": "41"
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
@@ -102659,7 +102662,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "537"
+      "gen_count": "544"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -102687,7 +102690,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "198"
+      "gen_count": "199"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
@@ -102695,7 +102698,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "171"
+      "gen_count": "172"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
