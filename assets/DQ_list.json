@@ -23074,6 +23074,9 @@
           "episode_ID": "11300315"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -37687,7 +37690,15 @@
           "episode_ID": "1140709"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f9f15d0b-f3fc-46ee-a86c-4099377fda3a"
+          ],
+          "episode": "10",
+          "episode_ID": "11407010"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -39904,7 +39915,15 @@
           "episode_ID": "1064397"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/726712de-0d86-4045-a270-56641ce61dce"
+          ],
+          "episode": "8",
+          "episode_ID": "1064398"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -42322,6 +42341,17 @@
           ],
           "episode": "8",
           "episode_ID": "1132768"
+        },
+        {
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/52b65bd3-ea44-435e-8fe3-3082848280b6"
+          ],
+          "episode": "9",
+          "episode_ID": "1132769"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -70152,7 +70182,15 @@
           "episode_ID": "11272610"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/dc69b7a5-0526-4505-8ac7-2f75772a3e08"
+          ],
+          "episode": "11",
+          "episode_ID": "11272611"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -83806,6 +83844,13 @@
           ],
           "episode": "9",
           "episode_ID": "1112879"
+        },
+        {
+          "ep_title": "Odcinek 10<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "10",
+          "episode_ID": "11128710"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
