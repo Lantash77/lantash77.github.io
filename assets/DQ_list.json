@@ -13639,7 +13639,11 @@
           "episode_ID": "972317"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "8",
+          "episode_ID": "972318"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -21091,11 +21095,7 @@
           "episode_ID": "1142094"
         },
         {
-          "ep_title": "Odcinek 5<strong>Premiera w Korei: 16.02.2024r.</strong>",
-          "players": [],
-          "links": [],
-          "episode": "5",
-          "episode_ID": "1142095"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -23074,7 +23074,15 @@
           "episode_ID": "11300315"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1090a3bd-115c-4044-a199-9e9b2eb2ba8e"
+          ],
+          "episode": "16",
+          "episode_ID": "11300316"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -35790,7 +35798,7 @@
       "tvshowtitle": "Love with Flaws",
       "title_ID": "71169",
       "fanart": "",
-      "plot": "Joo Seo Yeon jest temperamentn\u0105 nauczycielk\u0105 WF'u w liceum, kt\u00f3ra przez 365 dni w roku nosi dres. Przez przystojnych braci nienawidzi pi\u0119knych m\u0119\u017cczyzn, a jej idealnym typem jest \"niezbyt przystojny facet\".  Lee Kang Woo jest prezesem zarz\u0105du liceum. Jest arogancki i ma obsesj\u0119 na punkcie wygl\u0105du. Potrafi sp\u0119dza\u0107 ca\u0142y dzie\u0144 na zabiegach piel\u0119gnacyjnych, kt\u00f3re maj\u0105 udoskonali\u0107 jego wygl\u0105d, kt\u00f3ry uwielbia. Kang Woo ma jednak sekret, o kt\u00f3rym nikt nie wie. 15 lat wcze\u015bniej by\u0142 gruby i brzydki. W\u0142a\u015bnie wtedy zosta\u0142 odrzucony przez Seo Yeon, przez co musia\u0142 zmieni\u0107 szko\u0142\u0119, a obecnie cierpi na traum\u0119 zwi\u0105zan\u0105 z tymi wydarzeniami. Teraz, b\u0119d\u0105c dyrektorem liceum, w kt\u00f3rym uczy jego niedosz\u0142a mi\u0142o\u015b\u0107, b\u0119dzie musia\u0142 zmierzy\u0107 si\u0119 z przesz\u0142o\u015bci\u0105 i dziewczyn\u0105, kt\u00f3ra nienawidzi przystojnych m\u0119\u017cczyzn.",
+      "plot": "Joo Seo Yeon jest temperamentn\u0105 nauczycielk\u0105 WF-u w liceum, kt\u00f3ra przez 365 dni w roku nosi dres. Przez przystojnych braci nienawidzi pi\u0119knych m\u0119\u017cczyzn, a jej idealnym typem jest \"niezbyt przystojny facet\". Lee Kang Woo jest prezesem zarz\u0105du liceum. Jest arogancki i ma obsesj\u0119 na punkcie wygl\u0105du. Potrafi sp\u0119dza\u0107 ca\u0142y dzie\u0144 na zabiegach piel\u0119gnacyjnych, kt\u00f3re maj\u0105 udoskonali\u0107 jego wygl\u0105d, kt\u00f3ry uwielbia. Kang Woo ma jednak sekret, o kt\u00f3rym nikt nie wie. 15 lat wcze\u015bniej by\u0142 gruby i brzydki. W\u0142a\u015bnie wtedy zosta\u0142 odrzucony przez Seo Yeon, przez co musia\u0142 zmieni\u0107 szko\u0142\u0119, a obecnie cierpi na traum\u0119 zwi\u0105zan\u0105 z tymi wydarzeniami. Teraz, b\u0119d\u0105c dyrektorem liceum, w kt\u00f3rym uczy jego niedosz\u0142a mi\u0142o\u015b\u0107, b\u0119dzie musia\u0142 zmierzy\u0107 si\u0119 z przesz\u0142o\u015bci\u0105 i dziewczyn\u0105, kt\u00f3ra nienawidzi przystojnych m\u0119\u017cczyzn.",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2019/11/Love-with-Flaws-header2.jpg",
       "genre": [
         "romans",
@@ -42354,13 +42362,28 @@
           "episode_ID": "1132769"
         },
         {
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/df6ae2e2-f34d-4a69-8236-bd1974a046c3"
+          ],
+          "episode": "10",
+          "episode_ID": "11327610"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 13<strong>Premiera w Korei: 17.02.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "13",
+          "episode_ID": "11327613"
         }
       ]
     },
@@ -83846,9 +83869,13 @@
           "episode_ID": "1112879"
         },
         {
-          "ep_title": "Odcinek 10<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b7629d2c-4c01-4f3a-9c1a-fa5ef0759f1a"
+          ],
           "episode": "10",
           "episode_ID": "11128710"
         },
@@ -92329,7 +92356,15 @@
           "episode_ID": "10782624"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 25",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c5430ed9-8392-4f87-9c1a-1d9f21a67395"
+          ],
+          "episode": "25",
+          "episode_ID": "10782625"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
