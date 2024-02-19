@@ -21110,7 +21110,17 @@
           "episode_ID": "1142094"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 7<strong>Premiera w Korei: 23.02.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "1142097"
         }
       ]
     },
@@ -37724,7 +37734,15 @@
           "episode_ID": "11407010"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/82d05b38-b2f7-410f-b224-7b4b2f1ea0b1"
+          ],
+          "episode": "11",
+          "episode_ID": "11407011"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -42397,11 +42415,7 @@
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 13<strong>Premiera w Korei: 17.02.2024</strong>",
-          "players": [],
-          "links": [],
-          "episode": "13",
-          "episode_ID": "11327613"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -59671,6 +59685,9 @@
           "episode_ID": "1108363"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -64357,10 +64374,26 @@
           "episode_ID": "1138103"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cb3fcb3c-6c86-409b-a802-347db1a6552c"
+          ],
+          "episode": "4",
+          "episode_ID": "1138104"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a0612a42-f9e5-46a1-8452-3ee5303bb372"
+          ],
+          "episode": "5",
+          "episode_ID": "1138105"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -98215,6 +98248,36 @@
           ],
           "episode": "1",
           "episode_ID": "17181"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/film/japonski/as-long-as-we-both-shall-live/",
+      "title": "As Long as We Both Shall Live",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2023/12/My-Happy-Marriagekat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2023/12/My-Happy-Marriagekat.jpg",
+      "type": "movie",
+      "title_ID": "113411",
+      "fanart": "",
+      "plot": "Troch\u0119 inna wersja bajki o Kopciuszku[\u2026] Dawno, dawno temu w fikcyjnym \u015bwiecie XIX-wiecznej Japonii \u017cy\u0142a sobie Miyo Saimori, najstarsza c\u00f3rka rodu obdarzonego nadprzyrodzonymi mocami. Lekcewa\u017cona przez ojca, szykanowana przez macoch\u0119 i przyrodni\u0105 siostr\u0119, zostaje s\u0142u\u017c\u0105c\u0105 w domu rodzinnym. Po osi\u0105gni\u0119ciu pe\u0142noletno\u015bci nieoczekiwanie pojawia si\u0119 przed ni\u0105 perspektywa zaaran\u017cowanego ma\u0142\u017ce\u0144stwa z Kiyok\u0105 Kudou, uwa\u017canym za najwybitniejszego u\u017cytkownika dar\u00f3w \u00f3wczesnych czas\u00f3w. Plotki g\u0142osz\u0105, \u017ce jest on m\u0119\u017cczyzn\u0105 bezwzgl\u0119dnym, zimnym i okrutnym.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/12/My-Happy-Marriageheader-1030x295.jpg",
+      "genre": [
+        "historyczny",
+        "romans",
+        "dramat"
+      ],
+      "year": "2023",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/747fc661-b88c-4af9-8cd3-2e6598f3bf81"
+          ],
+          "episode": "1",
+          "episode_ID": "1134111"
         }
       ]
     },
