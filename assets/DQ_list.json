@@ -21110,7 +21110,15 @@
           "episode_ID": "1142094"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/20146d0c-e791-4cd0-80a9-6a9038626cfe"
+          ],
+          "episode": "5",
+          "episode_ID": "1142095"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -42407,6 +42415,9 @@
           ],
           "episode": "10",
           "episode_ID": "11327610"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -88373,6 +88384,40 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/pozostale/romantic-blue/",
+      "title": "Romantic Blue",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/02/romanticblue_lat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2024/02/romanticblue_lat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Romantic Blue",
+      "title_ID": "115065",
+      "fanart": "",
+      "plot": "Mai jest utalentowanym studentem in\u017cynierii, przed kt\u00f3rym samochody nie maj\u0105 tajemnic. Daje z siebie wszystko, opiekuj\u0105c si\u0119 bratem i ojcem. Mhen, o kilka lat m\u0142odszy, z uwagi na delikatny stan zdrowia, dorasta pod kloszem brata, kt\u00f3ry spe\u0142nia jego zachcianki. Gdy zmuszony przez k\u0142opoty finansowe Mai zgadza si\u0119 zacz\u0105\u0107 kra\u015b\u0107 samochody dla lokalnego bandziora, sprawy przybieraj\u0105 coraz bardziej niebezpieczny obr\u00f3t, a relacja braci powoli zaczyna si\u0119 psu\u0107. Wkr\u00f3tce potem Mai i Mhen orientuj\u0105 si\u0119, \u017ce zakochali si\u0119 w tej samej dziewczynie - Pond, a zraniony Mhen pakuje si\u0119 w coraz wi\u0119ksze k\u0142opoty. Mai spr\u00f3buje odzyska\u0107 brata, ale czy mu si\u0119 to uda? I jak to wp\u0142ynie na jego zwi\u0105zek z Pond?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2024/02/romanticblue_head.jpg",
+      "genre": [
+        "akcja",
+        "romans",
+        "dramat,"
+      ],
+      "year": "2020",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7e130144-77e4-4da8-9ded-5d45e47cbf20"
+          ],
+          "episode": "1",
+          "episode_ID": "1150651"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/pozostale/the-eclipse/",
       "title": "The Eclipse",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2023/06/the-eclipse-ikonka.jpg",
@@ -89858,6 +89903,48 @@
           ],
           "episode": "24",
           "episode_ID": "8028224"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/dramy-pozostale/the-sign/",
+      "title": "The Sign",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/02/thesign_kat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2024/02/thesign_kat.jpg",
+      "type": "drama",
+      "tvshowtitle": "The Sign",
+      "title_ID": "115047",
+      "fanart": "",
+      "plot": "Tharn od zawsze boryka si\u0119 z wizjami przysz\u0142o\u015bci, kt\u00f3rej nie zawsze mo\u017ce zapobiec. Mimo prze\u015bladuj\u0105cego go pecha pr\u00f3buje dociec prawdy o rodzinnej tragedii. Podobnie Phaya, kt\u00f3ry od lat szuka wyja\u015bnienia sn\u00f3w, w kt\u00f3rych pe\u0142no tajemniczych mitycznych istot.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2024/02/thesign_head.jpg",
+      "genre": [
+        "akcja",
+        "LGBT+",
+        "romans",
+        "tajemnice,",
+        "fantasy"
+      ],
+      "year": "2023",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f1f67c56-377c-4141-8cb7-3dec697453cd"
+          ],
+          "episode": "1",
+          "episode_ID": "1150471"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
