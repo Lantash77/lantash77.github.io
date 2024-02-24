@@ -21132,11 +21132,7 @@
           "episode_ID": "1142096"
         },
         {
-          "ep_title": "Odcinek 7<strong>Premiera w Korei: 23.02.2024</strong>",
-          "players": [],
-          "links": [],
-          "episode": "7",
-          "episode_ID": "1142097"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -37770,6 +37766,9 @@
           ],
           "episode": "12",
           "episode_ID": "11407012"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -57490,6 +57489,13 @@
           ],
           "episode": "2",
           "episode_ID": "1137682"
+        },
+        {
+          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "3",
+          "episode_ID": "1137683"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -90020,7 +90026,15 @@
           "episode_ID": "1150471"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/462b968b-25f8-4abe-bfbf-29a2423824be"
+          ],
+          "episode": "2",
+          "episode_ID": "1150472"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
