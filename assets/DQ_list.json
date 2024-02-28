@@ -21137,13 +21137,13 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fc8bd28e-2171-454f-bb34-de2118cf2e03"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a2eda5c4-90d9-4697-acfd-395c06fa4729"
           ],
           "episode": "7",
           "episode_ID": "1142097"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 9<strong>Premiera w Korei: 01.03.2024</strong>",
@@ -40041,61 +40041,7 @@
       ]
     },
     {
-      "link": "https://www.dramaqueen.pl/drama/koreanska/moment-at-eighteen/",
-      "title": "Moment at Eighteen",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/07/momentateighteengat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2019/07/momentateighteengat.jpg",
-      "type": "drama",
-      "tvshowtitle": "Moment at Eighteen",
-      "title_ID": "67316",
-      "fanart": "",
-      "plot": "Cho\u0107 Choi Jun Woo w\u0142a\u015bnie sko\u0144czy\u0142 osiemna\u015bcie lat, poczucie samotno\u015bci towarzyszy mu od dawna, a wyra\u017canie emocji nie idzie zbyt dobrze. Ch\u0142opak w niejasnych okoliczno\u015bciach przenosi si\u0119 do nowej szko\u0142y, gdzie spotyka Yoo Soo Bin, jedn\u0105 z najlepszych uczennic. Dziewczyna marzy o wyrwaniu si\u0119 spod kontroli matki, a poznanie Choi Jun Woo'a wprowadza w jej \u017cycie coraz wi\u0119cej zmian. Tak\u017ce \u017cycie Ma Hwi Younga, ucznia z pozoru niemal idealnego, zaczyna traci\u0107 sw\u00f3j porz\u0105dek. Czy b\u0119d\u0105 to zmiany na lepsze i jak potocz\u0105 si\u0119 losy tej tr\u00f3jki?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2019/07/momentateighteenheader.jpg",
-      "genre": [
-        "szkolny",
-        "romans",
-        "m\u0142odzie\u017cowy",
-        "dramat"
-      ],
-      "year": "2019",
-      "episodes": [
-        {
-          "ep_title": "Odcinek 1 - \u201eBezimienny ch\u0142opak, Choi Jun Woo\u201d",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e65950c8-ddab-47ba-a2c1-79203488c1f9"
-          ],
-          "episode": "1",
-          "episode_ID": "673161"
-        },
-        {
-          "ep_title": "Odcinek 2 - \u201eMoment, gdy chc\u0119 uciec\u201d",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fc76ac35-f05b-40d2-b4c8-00fa6012ca84"
-          ],
-          "episode": "2",
-          "episode_ID": "673162"
-        },
-        {
-          "ep_title": "Odcinek 3 - \u201eZawsze pada w smutny dzie\u0144\u201d",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fcab58c3-e82d-4405-acb2-88b185c41651"
-          ],
-          "episode": "3",
-          "episode_ID": "673163"
-        },
-        {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
-        }
-      ]
+      "error": "<Response [404]>"
     },
     {
       "link": "https://www.dramaqueen.pl/drama/koreanska/monstrous/",
@@ -55950,104 +55896,7 @@
       ]
     },
     {
-      "link": "https://www.dramaqueen.pl/drama/koreanska/summer-strike/",
-      "title": "Summer Strike",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2022/12/summer-strike-ikonka.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2022/12/summer-strike-ikonka.jpg",
-      "type": "drama",
-      "tvshowtitle": "Summer Strike",
-      "title_ID": "106720",
-      "fanart": "",
-      "plot": "Lee You Reum ma pouk\u0142adane \u017cycie, stabiln\u0105 prac\u0119 i wspania\u0142ego ch\u0142opaka. Niestety pewnego dnia jej matka umiera, partner j\u0105 porzuca, a atmosfera w pracy staje si\u0119 nie do zniesienia. Dziewczyna, zm\u0119czona pogoni\u0105 za sukcesem, postanawia wyprowadzi\u0107 si\u0119 do ma\u0142ej wioski i przez jaki\u015b czas zaj\u0105\u0107 si\u0119 nicnierobieniem. Poznaje tam j\u0105kaj\u0105cego si\u0119 bibliotekarza, kt\u00f3ry zmuszony zosta\u0142 porzuci\u0107 swoj\u0105 akademick\u0105 karier\u0119 i od tamtej pory prowadzi spokojne \u017cycie. Czy i jej to sielskie miejsce pozwoli ukoi\u0107 \u015bwie\u017ce rany?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2022/12/summer-strike-header.jpg",
-      "genre": [
-        "romans",
-        "dramat, ",
-        "melodramat"
-      ],
-      "year": "2022",
-      "episodes": [
-        {
-          "ep_title": "Odcinek 1",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9e87a62a-6c91-4170-b571-b7423c8b77ed"
-          ],
-          "episode": "1",
-          "episode_ID": "1067201"
-        },
-        {
-          "ep_title": "Odcinek 2",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ae6895f3-0f76-48d5-aaae-b0a5a3d50201"
-          ],
-          "episode": "2",
-          "episode_ID": "1067202"
-        },
-        {
-          "ep_title": "Odcinek 3",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6c45c165-60e2-4c4a-b5c1-d018c4774580"
-          ],
-          "episode": "3",
-          "episode_ID": "1067203"
-        },
-        {
-          "ep_title": "Odcinek 4",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d375cbf3-cee9-4a80-93ed-1a66949c1bda"
-          ],
-          "episode": "4",
-          "episode_ID": "1067204"
-        },
-        {
-          "ep_title": "Odcinek 5",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ab8fbb50-6723-42a5-9936-a045f195fe81"
-          ],
-          "episode": "5",
-          "episode_ID": "1067205"
-        },
-        {
-          "ep_title": "Odcinek 6",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/efbb3361-4a4a-42ee-9a21-e97433bb4b46"
-          ],
-          "episode": "6",
-          "episode_ID": "1067206"
-        },
-        {
-          "ep_title": "Odcinek 7",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e938f624-55ad-41b1-918f-d5908ca97310"
-          ],
-          "episode": "7",
-          "episode_ID": "1067207"
-        },
-        {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
-        }
-      ]
+      "error": "<Response [404]>"
     },
     {
       "link": "https://www.dramaqueen.pl/drama/koreanska/suspicious-partner/",
@@ -57546,9 +57395,13 @@
           "episode_ID": "1137682"
         },
         {
-          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c6a72104-3541-4977-b7f7-706342f1132d"
+          ],
           "episode": "3",
           "episode_ID": "1137683"
         },
@@ -63656,16 +63509,24 @@
           "episode_ID": "8691512"
         },
         {
-          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/04708d74-ad5b-42a6-b504-0491e4de8645"
+          ],
           "episode": "13",
           "episode_ID": "8691513"
         },
         {
-          "ep_title": "Odcinek 14<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e657fc5b-bec3-4860-8e27-7acd0b469e71"
+          ],
           "episode": "14",
           "episode_ID": "8691514"
         },
@@ -68458,9 +68319,13 @@
           "episode_ID": "1122056"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6ce813e0-8b77-4f93-b44c-30f57c54ff80"
+          ],
           "episode": "7",
           "episode_ID": "1122057"
         },
@@ -81622,6 +81487,9 @@
           "episode_ID": "10780412"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -84122,9 +83990,13 @@
           "episode_ID": "11128710"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5d353a81-bbfe-467f-adf8-090e79acbadf"
+          ],
           "episode": "11",
           "episode_ID": "11128711"
         },
@@ -88583,6 +88455,17 @@
           "episode_ID": "1150651"
         },
         {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5d7ee44e-2494-47f1-8f9e-3f8e63ca9d94"
+          ],
+          "episode": "2",
+          "episode_ID": "1150652"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -91113,7 +90996,15 @@
           "episode_ID": "1088537"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7fba81c5-4428-4947-8ffd-800d1c32c88d"
+          ],
+          "episode": "8",
+          "episode_ID": "1088538"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -103021,7 +102912,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "411"
+      "gen_count": "409"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -103073,7 +102964,7 @@
     },
     "Melodramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/melodramat/",
-      "gen_count": "114"
+      "gen_count": "113"
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
@@ -103081,7 +102972,7 @@
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "106"
+      "gen_count": "105"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
@@ -103121,7 +103012,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "546"
+      "gen_count": "544"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -103145,7 +103036,7 @@
     },
     "Szkolny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/szkolny/",
-      "gen_count": "116"
+      "gen_count": "115"
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
