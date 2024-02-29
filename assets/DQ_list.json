@@ -1318,6 +1318,9 @@
           "episode_ID": "1120591"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -10079,6 +10082,40 @@
           ],
           "episode": "18",
           "episode_ID": "999718"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/castaway-diva/",
+      "title": "Castaway Diva",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/castawaydivakat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/castawaydivakat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Castaway Diva",
+      "title_ID": "112504",
+      "fanart": "",
+      "plot": "16-letnia Seo Mokha od dziecka marzy o zostaniu piosenkark\u0105. Nie ma w \u017cyciu \u0142atwo, gdy\u017c mieszka z ojcem agresorem, kt\u00f3ry topi swoje smutki w alkoholu po stracie \u017cony. Pokr\u00f3tce gimnazjalistka dowiaduje si\u0119, \u017ce trwa konkurs wideoklipowy, kt\u00f3ry organizuje jej idolka \u2013 Yoon Ranjoo. Postanawia wzi\u0105\u0107 w nim udzia\u0142. Aby nakr\u0119ci\u0107 sw\u00f3j klip na konkurs, w szkole pr\u00f3buje zakolegowa\u0107 si\u0119 z ch\u0142opakiem o imieniu Jung Kiho, kt\u00f3ry interesuje si\u0119 monta\u017cem wideo. Pewnego dnia Seo Mokha nagle znika i trafia na bezludn\u0105 wysp\u0119. Niestety nie ma jak wr\u00f3ci\u0107 i nikt nie przybywa jej na ratunek. Po 15 latach dziewczyna w ko\u0144cu zostaje odnaleziona i sprowadzona do Korei Po\u0142udniowej. Ponownie staje przed wyzwaniem \u2013 musi przystosowa\u0107 si\u0119 do wsp\u00f3\u0142czesnego spo\u0142ecze\u0144stwa, nadrobi\u0107 stracony czas i na nowo zawalczy\u0107 o swoje marzenia.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/11/castawaydivaheader.jpg",
+      "genre": [
+        "muzyczny",
+        "romans",
+        "dramat"
+      ],
+      "year": "2023",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cc2f5e55-77d8-4a04-99d1-cc4828896a2e"
+          ],
+          "episode": "1",
+          "episode_ID": "1125041"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -21143,7 +21180,15 @@
           "episode_ID": "1142097"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6a4f7870-99c1-46b7-b9d0-7613de77cfb7"
+          ],
+          "episode": "8",
+          "episode_ID": "1142098"
         },
         {
           "ep_title": "Odcinek 9<strong>Premiera w Korei: 01.03.2024</strong>",
@@ -42443,7 +42488,15 @@
           "episode_ID": "11327612"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2bca10bc-e800-4c20-b293-9dc0a957e306"
+          ],
+          "episode": "13",
+          "episode_ID": "11327613"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -64399,7 +64452,15 @@
           "episode_ID": "1138106"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7e789615-19bd-4c6e-9241-024b5eb08e92"
+          ],
+          "episode": "7",
+          "episode_ID": "1138107"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -86957,6 +87018,17 @@
           ],
           "episode": "10",
           "episode_ID": "11216510"
+        },
+        {
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/56f81f24-eb96-4e82-9fa2-6fb33eedbcaf"
+          ],
+          "episode": "11",
+          "episode_ID": "11216511"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
