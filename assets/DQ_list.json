@@ -21191,11 +21191,14 @@
           "episode_ID": "1142098"
         },
         {
-          "ep_title": "Odcinek 9<strong>Premiera w Korei: 01.03.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 10<strong>Premiera w Korei: 02.03.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "9",
-          "episode_ID": "1142099"
+          "episode": "10",
+          "episode_ID": "11420910"
         }
       ]
     },
@@ -37853,7 +37856,15 @@
           "episode_ID": "11407014"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3968e9fa-dc03-4997-9372-9599e2926969"
+          ],
+          "episode": "15",
+          "episode_ID": "11407015"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -40078,7 +40089,15 @@
           "episode_ID": "1064398"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c06d7a0a-fff8-41f8-9136-5aff0f19eb72"
+          ],
+          "episode": "9",
+          "episode_ID": "1064399"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -42499,7 +42518,15 @@
           "episode_ID": "11327613"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d01fa0c6-b305-4acd-8697-726190d31a37"
+          ],
+          "episode": "14",
+          "episode_ID": "11327614"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -68394,7 +68421,15 @@
           "episode_ID": "1122057"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/991377ce-d404-4601-a133-a506c4db36d9"
+          ],
+          "episode": "8",
+          "episode_ID": "1122058"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -70373,7 +70408,15 @@
           "episode_ID": "11272611"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/32e6d6e0-9ce7-488b-a6bc-b66dadba0d31"
+          ],
+          "episode": "12",
+          "episode_ID": "11272612"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -81551,9 +81594,13 @@
           "episode_ID": "10780412"
         },
         {
-          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/30d33e42-ffd8-475c-a7b3-2a31de941e05"
+          ],
           "episode": "13",
           "episode_ID": "10780413"
         },
@@ -90081,7 +90128,15 @@
           "episode_ID": "1150472"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/33344141-826c-429c-af89-2ecca518706d"
+          ],
+          "episode": "3",
+          "episode_ID": "1150473"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
