@@ -10115,6 +10115,17 @@
           "episode_ID": "1125041"
         },
         {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7977be9b-b529-4b68-b42f-d439871700c4"
+          ],
+          "episode": "2",
+          "episode_ID": "1125042"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -21202,7 +21213,15 @@
           "episode_ID": "1142099"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/224d99f4-88ca-4004-bbb7-2dd3020307d9"
+          ],
+          "episode": "10",
+          "episode_ID": "11420910"
         },
         {
           "ep_title": "Odcinek 11<strong>Premiera w Korei: 08.03.2024</strong>",
@@ -43125,7 +43144,11 @@
           "episode_ID": "11090311"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "11090312"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -71091,6 +71114,9 @@
           ],
           "episode": "12",
           "episode_ID": "11272612"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
