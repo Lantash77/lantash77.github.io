@@ -1318,7 +1318,15 @@
           "episode_ID": "1120591"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/22413de8-2c69-4ee2-b59c-67004b1f8911"
+          ],
+          "episode": "2",
+          "episode_ID": "1120592"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -23218,6 +23226,9 @@
           "episode_ID": "11300316"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -40172,10 +40183,10 @@
           "episode_ID": "1064399"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -43144,9 +43155,13 @@
           "episode_ID": "11090311"
         },
         {
-          "ep_title": "Odcinek 12<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/af0db7a2-1522-41ba-860a-c60320f22375"
+          ],
           "episode": "12",
           "episode_ID": "11090312"
         },
@@ -48453,7 +48468,15 @@
           "episode_ID": "1148457"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3138c206-db28-48c8-bf9c-302518a08004"
+          ],
+          "episode": "8",
+          "episode_ID": "1148458"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -49453,6 +49476,17 @@
       ],
       "year": "2024",
       "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/016fde97-9296-491e-ab7d-eb22c826435c"
+          ],
+          "episode": "1",
+          "episode_ID": "1153511"
+        },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
@@ -64308,6 +64342,9 @@
           "episode_ID": "8691514"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -71116,7 +71153,11 @@
           "episode_ID": "11272612"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "13",
+          "episode_ID": "11272613"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -74158,7 +74199,15 @@
           "episode_ID": "1152921"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f2007488-1658-4562-a87c-c8a5f4310cb6"
+          ],
+          "episode": "2",
+          "episode_ID": "1152922"
         },
         {
           "ep_title": "Odcinek 3<strong>Premiera w Korei: 08.03.2024</strong>",
@@ -95324,7 +95373,34 @@
       ]
     },
     {
-      "error": "<Response [404]>"
+      "link": "https://www.dramaqueen.pl/film/koreanski/hit-and-run-squad/",
+      "title": "Hit and Run Squad",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/09/Hit-and-Run-Squad-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/09/Hit-and-Run-Squad-ikonka.jpg",
+      "type": "movie",
+      "title_ID": "89345",
+      "fanart": "",
+      "plot": "W wyniku nieudanego \u015bledztwa sier\u017cant Eun Si Yeon zostaje przeniesiona z Wydzia\u0142u Spraw Wewn\u0119trznych do Wydzia\u0142u Ucieczek z Miejsc Wypadk\u00f3w Zachodniej Dzielnicy Transportu. Nieoficjalnie jest tam, by zdoby\u0107 dow\u00f3d na przyjmowanie \u0142ap\u00f3wek przez wysokich urz\u0119dnik\u00f3w policji. Jej nowym partnerem zostaje ekscentryczny oficer Suh Min Jae. W przesz\u0142o\u015bci nale\u017ca\u0142 do gangu, w kt\u00f3rym zajmowa\u0142 si\u0119 szmuglowaniem narkotyk\u00f3w. Dzi\u0119ki pomocy ojca wyszed\u0142 na prost\u0105 i zosta\u0142 policjantem. W wyniku pewnych zdarze\u0144 okazuje si\u0119, \u017ce \u015bledztwa prowadzone przez Eun Si Yeon i Suh Min Jae'a s\u0105 ze sob\u0105 powi\u0105zane.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/09/hit-and-run-Squad-header.jpg",
+      "genre": [
+        "akcja",
+        "policyjny",
+        "tajemnice"
+      ],
+      "year": "2019",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/aaf95a4d-352e-4620-b0f8-fefc2dfe3c9e"
+          ],
+          "episode": "1",
+          "episode_ID": "893451"
+        }
+      ]
     },
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/homme-fatale/",
@@ -103783,7 +103859,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "154"
+      "gen_count": "155"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -103875,7 +103951,7 @@
     },
     "Policyjny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/policyjny/",
-      "gen_count": "20"
+      "gen_count": "21"
     },
     "Polityczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/polityczny/",
@@ -103927,7 +104003,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "200"
+      "gen_count": "201"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
