@@ -10134,9 +10134,13 @@
           "episode_ID": "1125042"
         },
         {
-          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5fdf1dc3-103c-4f14-9e96-7035c6e1de88"
+          ],
           "episode": "3",
           "episode_ID": "1125043"
         },
@@ -21250,7 +21254,15 @@
           "episode_ID": "11420911"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8b314c03-505b-4122-9fc9-49582a887ede"
+          ],
+          "episode": "12",
+          "episode_ID": "11420912"
         },
         {
           "ep_title": "Odcinek 13 <strong>Premiera w Korei: 15.03.2024</strong>",
@@ -50008,6 +50020,9 @@
           "episode_ID": "11520819"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -64423,9 +64438,13 @@
           "episode_ID": "8691515"
         },
         {
-          "ep_title": "Odcinek 16 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 16 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c5ef7f8b-51a1-4a82-8395-9a1f42faa2cb"
+          ],
           "episode": "16",
           "episode_ID": "8691516"
         }
@@ -65306,7 +65325,15 @@
           "episode_ID": "1138107"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ff6467bb-409e-45d1-8354-ea316d10b6ed"
+          ],
+          "episode": "8",
+          "episode_ID": "1138108"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -69259,9 +69286,13 @@
           "episode_ID": "1122059"
         },
         {
-          "ep_title": "Odcinek 10<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8871a4a5-7eb7-47f4-92e7-6919f5545116"
+          ],
           "episode": "10",
           "episode_ID": "11220510"
         },
@@ -71278,7 +71309,11 @@
           "episode_ID": "11272614"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "15",
+          "episode_ID": "11272615"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -82533,6 +82568,9 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -91104,9 +91142,13 @@
           "episode_ID": "1150473"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e67c9843-a73c-4371-be07-31896fd1115f"
+          ],
           "episode": "4",
           "episode_ID": "1150474"
         },
