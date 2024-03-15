@@ -42675,10 +42675,22 @@
           "episode_ID": "11327614"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f6389116-0194-46b2-acce-ee43505c710d"
+          ],
+          "episode": "15",
+          "episode_ID": "11327615"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - Fina\u0142<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "16",
+          "episode_ID": "11327616"
         }
       ]
     },
@@ -60499,7 +60511,15 @@
           "episode_ID": "538317"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e2670ad9-18e4-4bca-839c-648adf9ba129"
+          ],
+          "episode": "8",
+          "episode_ID": "538318"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -71325,9 +71345,13 @@
           "episode_ID": "11272614"
         },
         {
-          "ep_title": "Odcinek 15<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f46c4b21-0e5a-4874-a6ea-f2d737946a12"
+          ],
           "episode": "15",
           "episode_ID": "11272615"
         },
@@ -82581,7 +82605,15 @@
           "episode_ID": "10780413"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b6502c7a-fa0e-48f3-8044-b9755d486bfa"
+          ],
+          "episode": "14",
+          "episode_ID": "10780414"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
