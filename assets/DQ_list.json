@@ -21265,11 +21265,7 @@
           "episode_ID": "11420912"
         },
         {
-          "ep_title": "Odcinek 13 <strong>Premiera w Korei: 15.03.2024</strong>",
-          "players": [],
-          "links": [],
-          "episode": "13",
-          "episode_ID": "11420913"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -23268,6 +23264,9 @@
           ],
           "episode": "17",
           "episode_ID": "11300317"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -40246,7 +40245,15 @@
           "episode_ID": "10643910"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/52f90f37-5b72-4e9d-8981-7552137e0f69"
+          ],
+          "episode": "11",
+          "episode_ID": "10643911"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -50048,9 +50055,13 @@
           "episode_ID": "11520819"
         },
         {
-          "ep_title": "Odcinek 20<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 20",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/068fe074-df15-48da-93e0-3f0a7e2ad15e"
+          ],
           "episode": "20",
           "episode_ID": "11520820"
         },
@@ -69337,7 +69348,15 @@
           "episode_ID": "11220510"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d3318974-96ef-4a4f-8bfa-bcc15904fa29"
+          ],
+          "episode": "11",
+          "episode_ID": "11220511"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -74429,14 +74448,17 @@
           "episode_ID": "1152924"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 6<strong>Premiera w Korei: 16.03.2024</strong>",
+          "ep_title": "Odcinek 7<strong>Premiera w Korei: 22.03.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "6",
-          "episode_ID": "1152926"
+          "episode": "7",
+          "episode_ID": "1152927"
         }
       ]
     },
@@ -82466,7 +82488,7 @@
       "tvshowtitle": "Candle in the Tomb: The Ancient City of Jingjue",
       "title_ID": "107804",
       "fanart": "",
-      "plot": "Candle in the Tomb: The Ancient City of Jingjue\u201d to serial osadzony w latach 80. XX wieku. Jego tytu\u0142 wywodzi si\u0119 ze zdania: \u201eCz\u0142owiek zapala \u015bwiec\u0119, a duchy j\u0105 zdmuchuj\u0105\u201d. Wed\u0142ug zasad \u0141owc\u00f3w Mojin po wej\u015bciu do grobowca nale\u017ca\u0142o umie\u015bci\u0107 \u015bwiec\u0119 w jego po\u0142udniowo-wschodnim rogu, nawi\u0105zuj\u0105c w ten spos\u00f3b kontakt ze zmar\u0142ym. Je\u015bli \u015bwieca zgas\u0142a, by\u0142 to znak, \u017ce duch sprzeciwia si\u0119 wtargni\u0119ciu i \u201ego\u015bcie\u201d musz\u0105 odej\u015b\u0107, pozostawiaj\u0105c wszystko nietkni\u0119te i na swoim miejscu. Gdyby jednak jedyn\u0105 oznak\u0105 niezadowolenia duch\u00f3w by\u0142a zdmuchni\u0119ta \u015bwieca, to pewnie nie by\u0142oby tej historii. Opowiada ona o by\u0142ym \u017co\u0142nierzu Hu Bayi i jego przyjacielu Wang Kaixuanie, kt\u00f3rzy anga\u017cuj\u0105 si\u0119 w poszukiwanie skarb\u00f3w w staro\u017cytnych grobowcach. Do\u0142\u0105czaj\u0105 do zespo\u0142u archeologicznego sponsorowanego przez Amerykank\u0119 Shirley Yang, aby odnale\u017a\u0107 tajemnicze, prastare miasto Jingjue, zasypane piaskami pustyni Taklamakan. Jakie by\u0142y pocz\u0105tki znajomo\u015bci tr\u00f3jki g\u0142\u00f3wnych bohater\u00f3w? Po co Shirley Yang przyby\u0142a do Chin? Sk\u0105d pomys\u0142 na szukanie skarb\u00f3w akurat w grobowcach? I jak duchy ukarz\u0105 naszych bohater\u00f3w za wtykanie nosa tam, gdzie nie powinni?",
+      "plot": "\u201eCandle in the Tomb: The Ancient City of Jingjue\u201d to serial osadzony w latach 80. XX wieku. Jego tytu\u0142 wywodzi si\u0119 ze zdania: \u201eCz\u0142owiek zapala \u015bwiec\u0119, a duchy j\u0105 zdmuchuj\u0105\u201d. Wed\u0142ug zasad \u0141owc\u00f3w Mojin po wej\u015bciu do grobowca nale\u017ca\u0142o umie\u015bci\u0107 \u015bwiec\u0119 w jego po\u0142udniowo-wschodnim rogu, nawi\u0105zuj\u0105c w ten spos\u00f3b kontakt ze zmar\u0142ym. Je\u015bli \u015bwieca zgas\u0142a, by\u0142 to znak, \u017ce duch sprzeciwia si\u0119 wtargni\u0119ciu i \u201ego\u015bcie\u201d musz\u0105 odej\u015b\u0107, pozostawiaj\u0105c wszystko nietkni\u0119te i na swoim miejscu. Gdyby jednak jedyn\u0105 oznak\u0105 niezadowolenia duch\u00f3w by\u0142a zdmuchni\u0119ta \u015bwieca, to pewnie nie by\u0142oby tej historii. Opowiada ona o by\u0142ym \u017co\u0142nierzu Hu Bayi i jego przyjacielu Wang Kaixuanie, kt\u00f3rzy anga\u017cuj\u0105 si\u0119 w poszukiwanie skarb\u00f3w w staro\u017cytnych grobowcach. Do\u0142\u0105czaj\u0105 do zespo\u0142u archeologicznego sponsorowanego przez Amerykank\u0119 Shirley Yang, aby odnale\u017a\u0107 tajemnicze, prastare miasto Jingjue, zasypane piaskami pustyni Taklamakan. Jakie by\u0142y pocz\u0105tki znajomo\u015bci tr\u00f3jki g\u0142\u00f3wnych bohater\u00f3w? Po co Shirley Yang przyby\u0142a do Chin? Sk\u0105d pomys\u0142 na szukanie skarb\u00f3w akurat w grobowcach? I jak duchy ukarz\u0105 naszych bohater\u00f3w za wtykanie nosa tam, gdzie nie powinni?",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2023/02/candleCityheader.jpg",
       "genre": [
         "akcja",
@@ -82631,7 +82653,11 @@
           "episode_ID": "10780414"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "15",
+          "episode_ID": "10780415"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
