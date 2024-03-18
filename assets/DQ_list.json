@@ -21266,6 +21266,16 @@
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 15<strong>Premiera w Korei: 22.03.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "15",
+          "episode_ID": "11420915"
         }
       ]
     },
@@ -42693,9 +42703,13 @@
           "episode_ID": "11327615"
         },
         {
-          "ep_title": "Odcinek 16 - Fina\u0142<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 16 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/73a79d24-62e5-492e-85a2-3a027b7fce38"
+          ],
           "episode": "16",
           "episode_ID": "11327616"
         }
@@ -48580,7 +48594,15 @@
           "episode_ID": "11484510"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d3beb119-ff0d-4cb8-ac17-de3cba65f6d9"
+          ],
+          "episode": "11",
+          "episode_ID": "11484511"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -69359,6 +69381,9 @@
           "episode_ID": "11220511"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -74451,7 +74476,7 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 7<strong>Premiera w Korei: 22.03.2024</strong>",
@@ -91256,7 +91281,15 @@
           "episode_ID": "1150474"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a05305f0-b79d-4eb6-9526-98539743aefd"
+          ],
+          "episode": "5",
+          "episode_ID": "1150475"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
