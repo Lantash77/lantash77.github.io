@@ -10145,6 +10145,13 @@
           "episode_ID": "1125043"
         },
         {
+          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "4",
+          "episode_ID": "1125044"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -21276,14 +21283,21 @@
           "episode_ID": "11420913"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
-        },
-        {
-          "ep_title": "Odcinek 15<strong>Premiera w Korei: 22.03.2024</strong>",
+          "ep_title": "Odcinek 14<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
           "players": [],
           "links": [],
-          "episode": "15",
-          "episode_ID": "11420915"
+          "episode": "14",
+          "episode_ID": "11420914"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 16 - Fina\u0142 <strong>Premiera w Korei: 23.03.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "16",
+          "episode_ID": "11420916"
         }
       ]
     },
@@ -49643,6 +49657,17 @@
           "episode_ID": "1153512"
         },
         {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e6d4cca0-a723-49fb-b56b-09e523885c00"
+          ],
+          "episode": "3",
+          "episode_ID": "1153513"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
@@ -49709,6 +49734,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -65482,7 +65510,7 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -74582,11 +74610,14 @@
           "episode_ID": "1152926"
         },
         {
-          "ep_title": "Odcinek 7<strong>Premiera w Korei: 22.03.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 8<strong>Premiera w Korei: 23.03.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "7",
-          "episode_ID": "1152927"
+          "episode": "8",
+          "episode_ID": "1152928"
         }
       ]
     },
@@ -89831,7 +89862,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6e8c08b8-2866-4bc8-b0a6-3e394a9963b9"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e691ba57-591d-49a1-bc64-eceabff79f2f"
           ],
           "episode": "3",
           "episode_ID": "1150653"
@@ -104323,7 +104354,7 @@
   "genres": {
     "Adaptacja Komiksu": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/adaptacja-komiksu/",
-      "gen_count": "38"
+      "gen_count": "39"
     },
     "Adaptacja Powie\u015bci": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/adaptacja-powiesci/",
@@ -104347,7 +104378,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "411"
+      "gen_count": "412"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -104415,7 +104446,7 @@
     },
     "Okruchy \u017bycia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/okruchy-zycia/",
-      "gen_count": "54"
+      "gen_count": "55"
     },
     "Podr\u00f3\u017cniczy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/podrozniczy/",
