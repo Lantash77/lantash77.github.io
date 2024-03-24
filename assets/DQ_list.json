@@ -21290,14 +21290,14 @@
           "episode_ID": "11420914"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
-        },
-        {
-          "ep_title": "Odcinek 16 - Fina\u0142 <strong>Premiera w Korei: 23.03.2024</strong>",
+          "ep_title": "Odcinek 15<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
           "players": [],
           "links": [],
-          "episode": "16",
-          "episode_ID": "11420916"
+          "episode": "15",
+          "episode_ID": "11420915"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -40279,7 +40279,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a141234c-68d0-46b9-bebc-2d62b8f60b61"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/301f5486-f2a1-4d6e-bab2-8aa8bdbd4bed"
           ],
           "episode": "10",
           "episode_ID": "10643910"
@@ -40290,7 +40290,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/52f90f37-5b72-4e9d-8981-7552137e0f69"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c4b8f47e-d25d-4650-b532-38cffca832ee"
           ],
           "episode": "11",
           "episode_ID": "10643911"
@@ -48646,7 +48646,15 @@
           "episode_ID": "11484512"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c605f94d-4871-4913-833a-6e0b30282821"
+          ],
+          "episode": "13",
+          "episode_ID": "11484513"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -49730,7 +49738,15 @@
           "episode_ID": "1146853"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c648690a-853c-4c43-bb4a-112b4f482333"
+          ],
+          "episode": "4",
+          "episode_ID": "1146854"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -74613,11 +74629,14 @@
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 8<strong>Premiera w Korei: 23.03.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 9<strong>Premiera w Korei: 29.03.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "8",
-          "episode_ID": "1152928"
+          "episode": "9",
+          "episode_ID": "1152929"
         }
       ]
     },
@@ -82830,7 +82849,11 @@
           "episode_ID": "10780416"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 17<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "17",
+          "episode_ID": "10780417"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -88350,7 +88373,11 @@
           "episode_ID": "11216512"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "13",
+          "episode_ID": "11216513"
         }
       ]
     },
