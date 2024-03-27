@@ -21305,7 +21305,15 @@
           "episode_ID": "11420915"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - Fina\u0142 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/454c09dc-43b8-4a5e-85c4-5c0cfadecc20"
+          ],
+          "episode": "16",
+          "episode_ID": "11420916"
         }
       ]
     },
@@ -48671,6 +48679,9 @@
           "episode_ID": "11484513"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -49780,6 +49791,9 @@
           ],
           "episode": "5",
           "episode_ID": "1146855"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -63942,7 +63956,15 @@
           "episode_ID": "10715415"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/34f89d8f-82b6-4e91-b57d-1124214d70cd"
+          ],
+          "episode": "16",
+          "episode_ID": "10715416"
         }
       ]
     },
@@ -74680,7 +74702,15 @@
           "episode_ID": "1152926"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a005201b-3f1b-4347-b30d-61a21670efd6"
+          ],
+          "episode": "7",
+          "episode_ID": "1152927"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -85449,6 +85479,13 @@
           ],
           "episode": "13",
           "episode_ID": "11128713"
+        },
+        {
+          "ep_title": "Odcinek 14<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "14",
+          "episode_ID": "11128714"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
