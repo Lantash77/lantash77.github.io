@@ -10145,9 +10145,13 @@
           "episode_ID": "1125043"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a0012743-626d-4117-98ab-e9cdf64fea01"
+          ],
           "episode": "4",
           "episode_ID": "1125044"
         },
@@ -49807,6 +49811,9 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
@@ -69599,7 +69606,15 @@
           "episode_ID": "11220513"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9ee008f2-8071-4134-91c7-567eecdf194c"
+          ],
+          "episode": "14",
+          "episode_ID": "11220514"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -74724,7 +74739,15 @@
           "episode_ID": "1152927"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8fa6b739-d237-4ef5-9dfa-854a5320dde7"
+          ],
+          "episode": "8",
+          "episode_ID": "1152928"
         },
         {
           "ep_title": "Odcinek 9<strong>Premiera w Korei: 29.03.2024</strong>",
@@ -85492,9 +85515,13 @@
           "episode_ID": "11128713"
         },
         {
-          "ep_title": "Odcinek 14<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/885c65f1-d986-4150-9c52-13a04ce0d0e3"
+          ],
           "episode": "14",
           "episode_ID": "11128714"
         },
