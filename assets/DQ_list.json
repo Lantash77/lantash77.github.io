@@ -23329,6 +23329,9 @@
           "episode_ID": "11300318"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -40316,10 +40319,18 @@
           "episode_ID": "10643911"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/07e0ea5f-c0ca-472e-9d68-a2e9c7ef842a"
+          ],
+          "episode": "12",
+          "episode_ID": "10643912"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -65609,10 +65620,26 @@
           "episode_ID": "11381010"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9d3288ce-b228-440b-ad5e-a79749051dea"
+          ],
+          "episode": "11",
+          "episode_ID": "11381011"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f6fbeec9-0649-4b19-9b27-935410cea2ae"
+          ],
+          "episode": "12",
+          "episode_ID": "11381012"
         }
       ]
     },
@@ -74750,11 +74777,14 @@
           "episode_ID": "1152928"
         },
         {
-          "ep_title": "Odcinek 9<strong>Premiera w Korei: 29.03.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 10<strong>Premiera w Korei: 30.03.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "9",
-          "episode_ID": "1152929"
+          "episode": "10",
+          "episode_ID": "11529210"
         }
       ]
     },
@@ -91541,7 +91571,7 @@
       "tvshowtitle": "The Sign",
       "title_ID": "115047",
       "fanart": "",
-      "plot": "Tharn od zawsze boryka si\u0119 z wizjami przysz\u0142o\u015bci, kt\u00f3rej nie zawsze mo\u017ce zapobiec. Mimo prze\u015bladuj\u0105cego go pecha pr\u00f3buje dociec prawdy o rodzinnej tragedii. Podobnie Phaya, kt\u00f3ry od lat szuka wyja\u015bnienia sn\u00f3w, w kt\u00f3rych pe\u0142no tajemniczych mitycznych istot.",
+      "plot": "Tharn od dziecka boryka si\u0119 z wizjami przysz\u0142o\u015bci, kt\u00f3rej nie zawsze mo\u017ce zapobiec. Mimo prze\u015bladuj\u0105cego go pecha pr\u00f3buje dociec prawdy o rodzinnej tragedii. Podobnie Phaya, kt\u00f3ry od lat szuka wyja\u015bnienia sn\u00f3w pe\u0142nych tajemniczych mitycznych istot.",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2024/02/thesign_head.jpg",
       "genre": [
         "akcja",
@@ -91619,7 +91649,11 @@
           "episode_ID": "1150476"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "1150477"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -104556,7 +104590,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "412"
+      "gen_count": "413"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -104684,7 +104718,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "203"
+      "gen_count": "204"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
@@ -104692,7 +104726,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "176"
+      "gen_count": "177"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
