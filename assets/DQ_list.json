@@ -23370,9 +23370,13 @@
           "episode_ID": "11300318"
         },
         {
-          "ep_title": "Odcinek 19<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 19",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9d7f5633-6f44-454d-a1cc-0060f04911e2"
+          ],
           "episode": "19",
           "episode_ID": "11300319"
         },
@@ -50346,11 +50350,22 @@
           "episode_ID": "11520821"
         },
         {
-          "ep_title": "Odcinek 22<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 22",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/199d92bb-0b5c-405d-8d78-0e91f2e3ddd8"
+          ],
           "episode": "22",
           "episode_ID": "11520822"
+        },
+        {
+          "ep_title": "Odcinek 23<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "23",
+          "episode_ID": "11520823"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -60849,6 +60864,9 @@
           "episode_ID": "538318"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -63798,7 +63816,15 @@
           "episode_ID": "1156392"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b20d02c0-1969-48da-9780-51d2ba21f8ec"
+          ],
+          "episode": "3",
+          "episode_ID": "1156393"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -74945,10 +74971,26 @@
           "episode_ID": "1152928"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2329a9de-167e-47e3-8eff-15fb5d0746cc"
+          ],
+          "episode": "9",
+          "episode_ID": "1152929"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6c8003c6-1e6a-4607-8ea6-cf6114adda61"
+          ],
+          "episode": "10",
+          "episode_ID": "11529210"
         },
         {
           "ep_title": "Odcinek 11<strong>Premiera w Korei: 5.04.2024</strong>",
