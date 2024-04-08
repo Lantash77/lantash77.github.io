@@ -937,17 +937,28 @@
           "episode_ID": "1162641"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ef6234ec-fcfc-4138-acc6-e2f24c07e821"
+          ],
+          "episode": "2",
+          "episode_ID": "1162642"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 4<strong>Premiera w Korei: 06.04.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 5<strong>Premiera w Korei: 12.04.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "4",
-          "episode_ID": "1162644"
+          "episode": "5",
+          "episode_ID": "1162645"
         }
       ]
     },
@@ -49963,7 +49974,7 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -75058,11 +75069,14 @@
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 12<strong>Premiera w Korei: 6.04.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 13<strong>Premiera w Korei: 12.04.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "12",
-          "episode_ID": "11529212"
+          "episode": "13",
+          "episode_ID": "11529213"
         }
       ]
     },
@@ -84474,6 +84488,9 @@
           "episode_ID": "11070619"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -91956,9 +91973,13 @@
           "episode_ID": "1150477"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/79847f8e-0163-4991-9901-0a09b8725bff"
+          ],
           "episode": "8",
           "episode_ID": "1150478"
         },
