@@ -49989,7 +49989,7 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -50421,15 +50421,19 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/199d92bb-0b5c-405d-8d78-0e91f2e3ddd8"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a44adbb7-7e13-4174-af08-681788a2138b"
           ],
           "episode": "22",
           "episode_ID": "11520822"
         },
         {
-          "ep_title": "Odcinek 23<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 23",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8aac6294-790f-4401-8d4a-9716305a6045"
+          ],
           "episode": "23",
           "episode_ID": "11520823"
         },
@@ -69926,7 +69930,15 @@
           "episode_ID": "11220515"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - FINA\u0141",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/429e2cf1-6929-4299-81f3-d40b0ebb9536"
+          ],
+          "episode": "16",
+          "episode_ID": "11220516"
         }
       ]
     },
@@ -75089,10 +75101,26 @@
           "episode_ID": "11529210"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/202fd93e-1458-49d4-b747-72835878dfc0"
+          ],
+          "episode": "11",
+          "episode_ID": "11529211"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5a68daea-c007-459b-ad04-a3041ea54505"
+          ],
+          "episode": "12",
+          "episode_ID": "11529212"
         },
         {
           "ep_title": "Odcinek 13<strong>Premiera w Korei: 12.04.2024</strong>",
@@ -86320,9 +86348,13 @@
           "episode_ID": "1139243"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b16d61b5-180d-47d9-9887-11021c1542b7"
+          ],
           "episode": "4",
           "episode_ID": "1139244"
         },
@@ -104998,7 +105030,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "319"
+      "gen_count": "320"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -105014,11 +105046,11 @@
     },
     "Kulinarny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kulinarny/",
-      "gen_count": "15"
+      "gen_count": "16"
     },
     "LGBT+": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/lgbt/",
-      "gen_count": "53"
+      "gen_count": "54"
     },
     "Medyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/medyczny/",
@@ -105074,7 +105106,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "546"
+      "gen_count": "547"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
