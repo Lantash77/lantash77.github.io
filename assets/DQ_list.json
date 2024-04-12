@@ -948,7 +948,7 @@
           "episode_ID": "1162642"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -49983,7 +49983,15 @@
           "episode_ID": "1146859"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c5aabc91-0fa5-454a-aff8-e828b31bd070"
+          ],
+          "episode": "10",
+          "episode_ID": "11468510"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -50436,6 +50444,9 @@
           ],
           "episode": "23",
           "episode_ID": "11520823"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -104990,7 +105001,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "155"
+      "gen_count": "156"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -105002,7 +105013,7 @@
     },
     "Detektywistyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/detektywistyczny/",
-      "gen_count": "50"
+      "gen_count": "51"
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
@@ -105030,7 +105041,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "320"
+      "gen_count": "321"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -105082,7 +105093,7 @@
     },
     "Policyjny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/policyjny/",
-      "gen_count": "21"
+      "gen_count": "22"
     },
     "Polityczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/polityczny/",
@@ -105134,7 +105145,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "205"
+      "gen_count": "206"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
@@ -105142,7 +105153,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "178"
+      "gen_count": "179"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
