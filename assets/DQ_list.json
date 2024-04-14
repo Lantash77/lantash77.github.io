@@ -13797,6 +13797,9 @@
           "episode_ID": "972318"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -50449,9 +50452,13 @@
           "episode_ID": "11520823"
         },
         {
-          "ep_title": "Odcinek 24<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 24",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e8b5622f-b902-4ab0-aa65-d65f4599fc71"
+          ],
           "episode": "24",
           "episode_ID": "11520824"
         },
@@ -75141,14 +75148,10 @@
           "episode_ID": "11529212"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 14 - Fina\u0142<strong>Premiera w Korei: 13.04.2024</strong>",
-          "players": [],
-          "links": [],
-          "episode": "14",
-          "episode_ID": "11529214"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -85942,9 +85945,13 @@
           "episode_ID": "11128715"
         },
         {
-          "ep_title": "Odcinek 16<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8b9a8f81-e374-4c2b-bc4e-c30d7b64c2c3"
+          ],
           "episode": "16",
           "episode_ID": "11128716"
         },
