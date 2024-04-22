@@ -970,20 +970,35 @@
           "episode_ID": "1162644"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bc4bca3a-583c-408b-9029-9549c733789d"
+          ],
+          "episode": "5",
+          "episode_ID": "1162645"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
-        },
-        {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
-        },
-        {
-          "ep_title": "Odcinek 8<strong>Premiera w Korei: 20.04.2023</strong>",
+          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
           "players": [],
           "links": [],
-          "episode": "8",
-          "episode_ID": "1162648"
+          "episode": "6",
+          "episode_ID": "1162646"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 9<strong>Premiera w Korei: 26.04.2023</strong>",
+          "players": [],
+          "links": [],
+          "episode": "9",
+          "episode_ID": "1162649"
         }
       ]
     },
@@ -11031,7 +11046,7 @@
       "year": "2024",
       "episodes": [
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -35611,7 +35626,58 @@
           "episode_ID": "1165332"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 7<strong>Emisja w Korei: 22.04.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "1165337"
+        },
+        {
+          "ep_title": "Odcinek 8<strong>Emisja w Korei: 22.04.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "8",
+          "episode_ID": "1165338"
+        },
+        {
+          "ep_title": "Odcinek 9<strong>Emisja w Korei: 29.04.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "9",
+          "episode_ID": "1165339"
+        },
+        {
+          "ep_title": "Odcinek 10<strong>Emisja w Korei: 29.04.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "10",
+          "episode_ID": "11653310"
+        },
+        {
+          "ep_title": "Odcinek 11<strong>Emisja w Korei: 06.05.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "11",
+          "episode_ID": "11653311"
+        },
+        {
+          "ep_title": "Odcinek 12 - Fina\u0142<strong>Emisja w Korei: 06.05.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "11653312"
         }
       ]
     },
@@ -46631,7 +46697,11 @@
           "episode_ID": "1160242"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "3",
+          "episode_ID": "1160243"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -64324,6 +64394,9 @@
           ],
           "episode": "5",
           "episode_ID": "1156395"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
