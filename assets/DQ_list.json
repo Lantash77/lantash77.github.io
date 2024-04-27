@@ -992,21 +992,24 @@
           "episode_ID": "1162646"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
           "players": [],
           "links": [],
-          "episode": "7",
-          "episode_ID": "1162647"
+          "episode": "8",
+          "episode_ID": "1162648"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 9<strong>Premiera w Korei: 26.04.2023</strong>",
+          "ep_title": "Odcinek 10<strong>Premiera w Korei: 27.04.2023</strong>",
           "players": [],
           "links": [],
-          "episode": "9",
-          "episode_ID": "1162649"
+          "episode": "10",
+          "episode_ID": "11626410"
         }
       ]
     },
@@ -11054,17 +11057,24 @@
       "year": "2024",
       "episodes": [
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
-        },
-        {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
-        },
-        {
-          "ep_title": "Odcinek 3<strong>Premiera w Korei: 26.04.2024</strong>",
+          "ep_title": "Odcinek 1<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
           "players": [],
           "links": [],
-          "episode": "3",
-          "episode_ID": "1165943"
+          "episode": "1",
+          "episode_ID": "1165941"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 4<strong>Premiera w Korei: 27.04.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "4",
+          "episode_ID": "1165944"
         }
       ]
     },
@@ -50955,6 +50965,9 @@
           "episode_ID": "11520825"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -59231,7 +59244,11 @@
           "episode_ID": "1137683"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "4",
+          "episode_ID": "1137684"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -61542,6 +61559,13 @@
           ],
           "episode": "4",
           "episode_ID": "1108364"
+        },
+        {
+          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "5",
+          "episode_ID": "1108365"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -95333,7 +95357,15 @@
           "episode_ID": "10782625"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 26",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a37bd1e1-9a50-42ae-a3eb-5bb4ec73b622"
+          ],
+          "episode": "26",
+          "episode_ID": "10782626"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
