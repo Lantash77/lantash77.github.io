@@ -11120,9 +11120,13 @@
           "episode_ID": "1165941"
         },
         {
-          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fb2d0413-93a2-45f6-a892-1c6d54df9a3c"
+          ],
           "episode": "2",
           "episode_ID": "1165942"
         },
@@ -91236,6 +91240,17 @@
       ],
       "year": "2021",
       "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fb18951b-9045-4330-8bf3-eee49ce59392"
+          ],
+          "episode": "1",
+          "episode_ID": "1167071"
+        },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
