@@ -1028,11 +1028,14 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 11<strong>Premiera w Korei: 03.05.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 12<strong>Premiera w Korei: 04.05.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "11",
-          "episode_ID": "11626411"
+          "episode": "12",
+          "episode_ID": "11626412"
         }
       ]
     },
@@ -11168,11 +11171,14 @@
           "episode_ID": "1165944"
         },
         {
-          "ep_title": "Odcinek 5<strong>Premiera w Korei: 03.05.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 6<strong>Premiera w Korei: 04.05.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "5",
-          "episode_ID": "1165945"
+          "episode": "6",
+          "episode_ID": "1165946"
         }
       ]
     },
@@ -23674,7 +23680,11 @@
           "episode_ID": "11300319"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 20<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "20",
+          "episode_ID": "11300320"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -43841,7 +43851,7 @@
           "episode_ID": "11090315"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -61494,10 +61504,26 @@
           "episode_ID": "1139168"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fd4e3b9f-776a-4234-bcc9-cc744db0104e"
+          ],
+          "episode": "9",
+          "episode_ID": "1139169"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 10 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/32e39ecc-3870-4576-9784-11b83fba288f"
+          ],
+          "episode": "10",
+          "episode_ID": "11391610"
         }
       ]
     },
