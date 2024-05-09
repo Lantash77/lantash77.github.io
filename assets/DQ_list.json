@@ -1472,6 +1472,9 @@
           "episode_ID": "1120592"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -11197,7 +11200,11 @@
           "episode_ID": "1165944"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "5",
+          "episode_ID": "1165945"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -43872,7 +43879,15 @@
           "episode_ID": "11090315"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/769cc26b-6a35-41f1-a049-0fbbb7bd854c"
+          ],
+          "episode": "16",
+          "episode_ID": "11090316"
         }
       ]
     },
@@ -50516,7 +50531,15 @@
           "episode_ID": "1153518"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7ba99baa-6c86-4f09-a12a-1fe2228f8c13"
+          ],
+          "episode": "9",
+          "episode_ID": "1153519"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -51151,6 +51174,9 @@
           ],
           "episode": "26",
           "episode_ID": "11520826"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -89818,6 +89844,17 @@
           "episode_ID": "11216513"
         },
         {
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3af22384-71ef-4109-8d40-6c92cea3b960"
+          ],
+          "episode": "14",
+          "episode_ID": "11216514"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -91392,6 +91429,17 @@
           ],
           "episode": "1",
           "episode_ID": "1167071"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5eee7476-2f2b-4c37-8fab-03ac2710d172"
+          ],
+          "episode": "2",
+          "episode_ID": "1167072"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -105988,7 +106036,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "156"
+      "gen_count": "157"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -106016,7 +106064,7 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "221"
+      "gen_count": "222"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
@@ -106028,7 +106076,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "322"
+      "gen_count": "324"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -106060,7 +106108,7 @@
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
-      "gen_count": "43"
+      "gen_count": "44"
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
@@ -106104,7 +106152,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "549"
+      "gen_count": "550"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -106132,7 +106180,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "207"
+      "gen_count": "208"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
@@ -106140,7 +106188,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "180"
+      "gen_count": "181"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
