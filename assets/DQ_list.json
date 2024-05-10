@@ -1036,10 +1036,22 @@
           "episode_ID": "11626410"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/52b55f46-147c-4619-98f9-b2ceb49057d1"
+          ],
+          "episode": "11",
+          "episode_ID": "11626411"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 12<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "11626412"
         },
         {
           "ep_title": "Odcinek 13<strong>Premiera w Korei: 10.05.2024</strong>",
@@ -10432,6 +10444,13 @@
           "episode_ID": "1125046"
         },
         {
+          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "1125047"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -11193,21 +11212,25 @@
           "episode_ID": "1165943"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/353e88f5-e60c-460a-b496-035250d40d33"
+          ],
           "episode": "4",
           "episode_ID": "1165944"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "5",
-          "episode_ID": "1165945"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "6",
+          "episode_ID": "1165946"
         },
         {
           "ep_title": "Odcinek 7<strong>Premiera w Korei: 10.05.2024</strong>",
@@ -35762,7 +35785,7 @@
       "tvshowtitle": "Love Is Like A Cat",
       "title_ID": "116533",
       "fanart": "",
-      "plot": "Piuno, mi\u0119dzynarodowy celebryta, jest postrzegany jako ozi\u0119b\u0142y i arogancki. Gdy staje przed gro\u017ab\u0105 skandalu mog\u0105cego odbi\u0107 si\u0119 na jego reputacji, w nadziei na ocieplenie wizerunku podejmuje si\u0119 pracy jako opiekun zwierzak\u00f3w domowych przy boku Dae Byeola. Nie jest to jednak proste, jako \u017ce z powodu dawnej traumy Uno panicznie boi si\u0119 zwierz\u0105t. Dae Byeol postanawia mu pom\u00f3c, konsekwentnie rozgrzewaj\u0105c pozornie skute lodem serce. Czy ta relacja b\u0119dzie mia\u0142a szans\u0119 przerodzi\u0107 si\u0119 w co\u015b wi\u0119cej?",
+      "plot": "Pi Uno, mi\u0119dzynarodowy celebryta, jest postrzegany jako ozi\u0119b\u0142y i arogancki. Gdy staje przed gro\u017ab\u0105 skandalu mog\u0105cego odbi\u0107 si\u0119 na jego reputacji, w nadziei na ocieplenie wizerunku podejmuje si\u0119 pracy jako opiekun zwierzak\u00f3w domowych przy boku Dae Byeola. Nie jest to jednak proste, jako \u017ce z powodu dawnej traumy Uno panicznie boi si\u0119 zwierz\u0105t. Dae Byeol postanawia mu pom\u00f3c, konsekwentnie rozgrzewaj\u0105c pozornie skute lodem serce. Czy ta relacja b\u0119dzie mia\u0142a szans\u0119 przerodzi\u0107 si\u0119 w co\u015b wi\u0119cej?",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2024/04/loveislikeacat_head.jpg",
       "genre": [
         "romans",
@@ -35837,28 +35860,16 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 10<strong>Emisja w Korei: 29.04.2024</strong>",
-          "players": [],
-          "links": [],
-          "episode": "10",
-          "episode_ID": "11653310"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 11<strong>Emisja w Korei: 06.05.2024</strong>",
-          "players": [],
-          "links": [],
-          "episode": "11",
-          "episode_ID": "11653311"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 12 - Fina\u0142<strong>Emisja w Korei: 06.05.2024</strong>",
-          "players": [],
-          "links": [],
-          "episode": "12",
-          "episode_ID": "11653312"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -51174,6 +51185,9 @@
           ],
           "episode": "26",
           "episode_ID": "11520826"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
