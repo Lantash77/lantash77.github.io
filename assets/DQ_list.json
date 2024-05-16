@@ -1058,11 +1058,7 @@
           "episode_ID": "11626412"
         },
         {
-          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "13",
-          "episode_ID": "11626413"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -51307,16 +51303,24 @@
           "episode_ID": "11520828"
         },
         {
-          "ep_title": "Odcinek 29<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 29",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/94e4613c-41d3-4439-8db0-adce7a6f4a26"
+          ],
           "episode": "29",
           "episode_ID": "11520829"
         },
         {
-          "ep_title": "Odcinek 30 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 30 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6b759c39-2fd4-44cf-9f2d-1fa029eeb134"
+          ],
           "episode": "30",
           "episode_ID": "11520830"
         }
@@ -64914,7 +64918,15 @@
           "episode_ID": "11563910"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a7218b01-d0ac-4791-866e-ee3d95bd21cf"
+          ],
+          "episode": "11",
+          "episode_ID": "11563911"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -86984,9 +86996,13 @@
           "episode_ID": "11128718"
         },
         {
-          "ep_title": "Odcinek 19<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 19",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/546453d5-3811-4221-a936-80787e5d115e"
+          ],
           "episode": "19",
           "episode_ID": "11128719"
         },
@@ -90013,6 +90029,17 @@
           ],
           "episode": "14",
           "episode_ID": "11216514"
+        },
+        {
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/edfe80e1-4ef0-44d7-b828-0a85c3f4c262"
+          ],
+          "episode": "15",
+          "episode_ID": "11216515"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
