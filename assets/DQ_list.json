@@ -1091,7 +1091,15 @@
           "episode_ID": "11626415"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/86f28e64-8483-4ae5-8e4f-117a6a53f70b"
+          ],
+          "episode": "16",
+          "episode_ID": "11626416"
         }
       ]
     },
@@ -23841,11 +23849,22 @@
           "episode_ID": "11300323"
         },
         {
-          "ep_title": "Odcinek 24<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 24",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4c382ab8-9484-47ce-8ab2-b2bb4a0820fd"
+          ],
           "episode": "24",
           "episode_ID": "11300324"
+        },
+        {
+          "ep_title": "Odcinek 25<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "25",
+          "episode_ID": "11300325"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
