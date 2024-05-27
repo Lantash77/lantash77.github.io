@@ -11290,11 +11290,7 @@
           "episode_ID": "1165946"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "7",
-          "episode_ID": "1165947"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -23860,11 +23856,22 @@
           "episode_ID": "11300324"
         },
         {
-          "ep_title": "Odcinek 25<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 25",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f907dc8d-9674-4562-a465-41bb3ce458b5"
+          ],
           "episode": "25",
           "episode_ID": "11300325"
+        },
+        {
+          "ep_title": "Odcinek 26<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "26",
+          "episode_ID": "11300326"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -65074,6 +65081,9 @@
           "episode_ID": "11563912"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -87166,6 +87176,17 @@
           ],
           "episode": "19",
           "episode_ID": "11128719"
+        },
+        {
+          "ep_title": "Odcinek 20",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7c8eaccf-c05d-414a-9fce-7f5cebe9b620"
+          ],
+          "episode": "20",
+          "episode_ID": "11128720"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
