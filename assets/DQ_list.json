@@ -7668,7 +7668,7 @@
           "episode_ID": "1174652"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -13383,11 +13383,14 @@
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 8<strong>Premiera w Korei: 4.06.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 9<strong>Premiera w Korei: 10.06.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "8",
-          "episode_ID": "1172258"
+          "episode": "9",
+          "episode_ID": "1172259"
         }
       ]
     },
@@ -24173,9 +24176,13 @@
           "episode_ID": "11300330"
         },
         {
-          "ep_title": "Odcinek 31<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 31",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b697c31e-2a09-4fd4-9064-7e151cbe0e31"
+          ],
           "episode": "31",
           "episode_ID": "11300331"
         },
@@ -47508,7 +47515,11 @@
           "episode_ID": "1160245"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Ocinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "6",
+          "episode_ID": "1160246"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -92355,6 +92366,17 @@
           ],
           "episode": "5",
           "episode_ID": "1167075"
+        },
+        {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9d25c60c-6563-4842-b79a-50cc32f2e268"
+          ],
+          "episode": "6",
+          "episode_ID": "1167076"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
