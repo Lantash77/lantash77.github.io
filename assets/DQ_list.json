@@ -7668,10 +7668,22 @@
           "episode_ID": "1174652"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a944993f-b535-4138-a5ce-5fe96cbd72b8"
+          ],
+          "episode": "3",
+          "episode_ID": "1174653"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "4",
+          "episode_ID": "1174654"
         },
         {
           "ep_title": "Odcinek 5<strong>Premiera w Korei: 07.06.2024</strong>",
@@ -13377,7 +13389,15 @@
           "episode_ID": "1172255"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8f6d323c-6310-4fb0-8d0d-edf397e42984"
+          ],
+          "episode": "6",
+          "episode_ID": "1172256"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -24187,7 +24207,11 @@
           "episode_ID": "11300331"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 32 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "32",
+          "episode_ID": "11300332"
         }
       ]
     },
@@ -47515,9 +47539,13 @@
           "episode_ID": "1160245"
         },
         {
-          "ep_title": "Ocinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/597e7a64-ab2b-4b8a-844b-a028350aff35"
+          ],
           "episode": "6",
           "episode_ID": "1160246"
         },
