@@ -7679,18 +7679,17 @@
           "episode_ID": "1174653"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "4",
-          "episode_ID": "1174654"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 5<strong>Premiera w Korei: 07.06.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 6<strong>Premiera w Korei: 08.06.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "5",
-          "episode_ID": "1174655"
+          "episode": "6",
+          "episode_ID": "1174656"
         }
       ]
     },
@@ -13289,7 +13288,7 @@
       "tvshowtitle": "Connection",
       "title_ID": "117282",
       "fanart": "",
-      "plot": "Jang Jae Kyung jest genialnym detektywem z dziesi\u0119cioletnim sta\u017cem, kt\u00f3ry pracuje w Wydziale Narkotykowym na Komendzie Anhyeon. Pewnego dnia w jego \u017cyciu nast\u0119puje powa\u017cny kryzys - zostaje si\u0142\u0105 uzale\u017cniony od nowego i nieznanego narkotyku. Z kolei Oh Yoon Jin to dziennikarka z gazety Anhyeon Economic Daily, kt\u00f3ra jest asertywna i nie boi si\u0119 wyra\u017ca\u0107 w\u0142asnego zdania. Gdy po miesi\u0119cznym zawieszeniu wraca do pracy, na jej oczach ginie kobieta uzale\u017cniona od nowego narkotyku. W ten spos\u00f3b drogi Yoo Jin oraz Jae Kyunga, jej dawnego kolegi z liceum, zn\u00f3w si\u0119 \u0142\u0105cz\u0105. Niespodziewanie okazuje si\u0119, \u017ce w sprawie nowego towaru na rynku s\u0105 tak\u017ce zamieszani: wiceprezes Grupy Geumhyung Won Jong Soo oraz prokurator Park Tae Jin. Gdy ca\u0142a czw\u00f3rka wpada w wielk\u0105 sie\u0107 powi\u0105za\u0144 narkotykowych, mo\u017cna zada\u0107 sobie tylko jedno pytanie: \u201eKto zwyci\u0119sko wyjdzie z tej bitwy?\u201d.",
+      "plot": "Jang Jae Kyung jest genialnym detektywem z dziesi\u0119cioletnim sta\u017cem, kt\u00f3ry pracuje w Wydziale Narkotykowym na Komendzie Anhyun. Pewnego dnia w jego \u017cyciu nast\u0119puje powa\u017cny kryzys - zostaje si\u0142\u0105 uzale\u017cniony od nowego i nieznanego narkotyku. Z kolei Oh Yoon Jin to dziennikarka z gazety Anhyun Economic Daily, kt\u00f3ra jest asertywna i nie boi si\u0119 wyra\u017ca\u0107 w\u0142asnego zdania. Gdy po miesi\u0119cznym zawieszeniu wraca do pracy, na jej oczach ginie kobieta uzale\u017cniona od nowego narkotyku. W ten spos\u00f3b drogi Yoon Jin oraz Jae Kyunga, jej dawnego kolegi z liceum, zn\u00f3w si\u0119 \u0142\u0105cz\u0105. Niespodziewanie okazuje si\u0119, \u017ce w sprawie nowego towaru na rynku s\u0105 tak\u017ce zamieszani: wiceprezes Grupy Geumhyung Won Jong Soo oraz prokurator Park Tae Jin. Gdy ca\u0142a czw\u00f3rka wpada w wielk\u0105 sie\u0107 powi\u0105za\u0144 narkotykowych, mo\u017cna zada\u0107 sobie tylko jedno pytanie: \u201eKto zwyci\u0119sko wyjdzie z tej bitwy?\u201d.",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2024/05/connectionheader.jpg",
       "genre": [
         "akcja",
@@ -24211,9 +24210,13 @@
           "episode_ID": "11300331"
         },
         {
-          "ep_title": "Odcinek 32 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 32 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/987582bc-6d83-4cf8-ba62-006e057971c8"
+          ],
           "episode": "32",
           "episode_ID": "11300332"
         }
@@ -107013,7 +107016,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "158"
+      "gen_count": "159"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -107053,7 +107056,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "326"
+      "gen_count": "327"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -107157,7 +107160,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "210"
+      "gen_count": "211"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
@@ -107165,7 +107168,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "183"
+      "gen_count": "184"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
