@@ -13517,17 +13517,20 @@
           "episode_ID": "1172258"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 11<strong>Premiera w Korei: 17.06.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 12 - Fina\u0142<strong>Premiera w Korei: 18.06.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "11",
-          "episode_ID": "11722511"
+          "episode": "12",
+          "episode_ID": "11722512"
         }
       ]
     },
@@ -78103,7 +78106,11 @@
           "episode_ID": "10476611"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "10476612"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -86225,7 +86232,15 @@
           "episode_ID": "1173896"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/01d2570c-fc0c-4e4d-813b-f71270f6079d"
+          ],
+          "episode": "7",
+          "episode_ID": "1173897"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -107244,7 +107259,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "159"
+      "gen_count": "160"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -107260,7 +107275,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "416"
+      "gen_count": "417"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -107396,7 +107411,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "184"
+      "gen_count": "185"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
