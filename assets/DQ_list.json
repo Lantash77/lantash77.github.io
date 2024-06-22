@@ -11508,11 +11508,7 @@
           "episode_ID": "1165949"
         },
         {
-          "ep_title": "Odcinek 10 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "10",
-          "episode_ID": "11659410"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -13540,7 +13536,15 @@
           "episode_ID": "1172259"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b39f8421-15d2-49c2-b0d1-42b207fd45f0"
+          ],
+          "episode": "10",
+          "episode_ID": "11722510"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -65710,9 +65714,13 @@
           "episode_ID": "11563913"
         },
         {
-          "ep_title": "Odcinek 14<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2181e72c-cd02-4212-9947-b1f9c4d9ae6a"
+          ],
           "episode": "14",
           "episode_ID": "11563914"
         },
@@ -87956,9 +87964,13 @@
           "episode_ID": "11128721"
         },
         {
-          "ep_title": "Odcinek 22<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 22",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ad6318e8-1e28-4d8d-a025-e8b95a43b6c0"
+          ],
           "episode": "22",
           "episode_ID": "11128722"
         },
