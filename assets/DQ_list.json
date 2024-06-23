@@ -11501,9 +11501,13 @@
           "episode_ID": "1165948"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6c339736-40a4-4a26-9fcb-57cbe49f8bb3"
+          ],
           "episode": "9",
           "episode_ID": "1165949"
         },
@@ -13265,7 +13269,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/87054bf3-0998-4f91-96ae-3c500855e493"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3930e679-20f2-4772-be80-a84f6940fc0e"
           ],
           "episode": "25",
           "episode_ID": "4080825"
@@ -13276,7 +13280,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3930e679-20f2-4772-be80-a84f6940fc0e"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/87054bf3-0998-4f91-96ae-3c500855e493"
           ],
           "episode": "26",
           "episode_ID": "4080826"
@@ -13411,6 +13415,9 @@
           ],
           "episode": "4",
           "episode_ID": "1172824"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -47722,6 +47729,9 @@
           ],
           "episode": "6",
           "episode_ID": "1160246"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
