@@ -8597,7 +8597,15 @@
           "episode_ID": "1158973"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/15954732-379a-4b1c-bc6e-18f894cf9f97"
+          ],
+          "episode": "4",
+          "episode_ID": "1158974"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -11519,7 +11527,15 @@
           "episode_ID": "1165949"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9cb6e24f-b22e-45fb-8410-28f952141ba5"
+          ],
+          "episode": "10",
+          "episode_ID": "11659410"
         }
       ]
     },
