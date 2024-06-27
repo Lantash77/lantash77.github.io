@@ -13448,9 +13448,13 @@
           "episode_ID": "1172824"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/807b3201-2485-4ac1-8e63-4467cf33641d"
+          ],
           "episode": "5",
           "episode_ID": "1172825"
         },
@@ -13589,7 +13593,7 @@
           "episode_ID": "11722510"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -31327,7 +31331,15 @@
           "episode_ID": "1173854"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/823d2b24-7830-40cf-ae41-a4433ef5d762"
+          ],
+          "episode": "5",
+          "episode_ID": "1173855"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -86322,7 +86334,15 @@
           "episode_ID": "1173897"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7d3972ed-ef97-4e2c-bf6a-8bd49f55a722"
+          ],
+          "episode": "8",
+          "episode_ID": "1173898"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -92767,6 +92787,17 @@
           ],
           "episode": "8",
           "episode_ID": "1167078"
+        },
+        {
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8f110e93-d873-4dfe-a320-2faaa08fef27"
+          ],
+          "episode": "9",
+          "episode_ID": "1167079"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
