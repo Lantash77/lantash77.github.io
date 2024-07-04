@@ -7734,7 +7734,15 @@
           "episode_ID": "1174658"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/22a3e083-a68b-4c2e-92bf-0faabf816ac2"
+          ],
+          "episode": "9",
+          "episode_ID": "1174659"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -13618,7 +13626,15 @@
           "episode_ID": "11722511"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bdc0e843-e106-46b7-ba71-8e10805f0b4f?"
+          ],
+          "episode": "12",
+          "episode_ID": "11722512"
         }
       ]
     },
@@ -92865,6 +92881,17 @@
           ],
           "episode": "9",
           "episode_ID": "1167079"
+        },
+        {
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9c46211e-5b3e-42f8-98ae-64b2fac3f75d"
+          ],
+          "episode": "10",
+          "episode_ID": "11670710"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
