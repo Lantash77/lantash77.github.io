@@ -7745,7 +7745,15 @@
           "episode_ID": "1174659"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d4cb6cd3-c187-459d-b586-7c4b7035f0fc"
+          ],
+          "episode": "10",
+          "episode_ID": "11746510"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -8636,6 +8644,9 @@
           ],
           "episode": "5",
           "episode_ID": "1158975"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
