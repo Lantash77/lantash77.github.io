@@ -50535,7 +50535,15 @@
           "episode_ID": "11484518"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 19",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0a4fe2c1-f59e-41b1-bad7-e228b0e6e531"
+          ],
+          "episode": "19",
+          "episode_ID": "11484519"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
