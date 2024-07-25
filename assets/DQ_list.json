@@ -93123,6 +93123,17 @@
           "episode_ID": "11670711"
         },
         {
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ab1c28ee-a6b2-4c60-bfbb-171cf6b3873a"
+          ],
+          "episode": "12",
+          "episode_ID": "11670712"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
