@@ -13582,9 +13582,13 @@
           "episode_ID": "1172827"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/88407229-27d4-44d6-8449-1327dc0c7e25"
+          ],
           "episode": "8",
           "episode_ID": "1172828"
         },
@@ -107775,7 +107779,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "328"
+      "gen_count": "329"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -107807,7 +107811,7 @@
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
-      "gen_count": "45"
+      "gen_count": "46"
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
@@ -107851,7 +107855,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "554"
+      "gen_count": "555"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
