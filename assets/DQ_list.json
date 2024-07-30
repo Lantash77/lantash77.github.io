@@ -92444,13 +92444,59 @@
           "episode_ID": "9448716"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 17",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7031278b-b8e2-4a0a-a0a3-0d3b70364748"
+          ],
+          "episode": "17",
+          "episode_ID": "9448717"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 18",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/dfda4112-0888-4f82-9cc5-4dbd48ef1abb"
+          ],
+          "episode": "18",
+          "episode_ID": "9448718"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 19",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7c996f90-8970-4e27-86e2-b7d39da437c1"
+          ],
+          "episode": "19",
+          "episode_ID": "9448719"
+        },
+        {
+          "ep_title": "Odcinek 20",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6c481339-9e3b-4a80-b8db-de27e0b19018"
+          ],
+          "episode": "20",
+          "episode_ID": "9448720"
+        },
+        {
+          "ep_title": "Odcinek 21",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/eadc67a7-c17b-4ada-beb0-05eaef9e246e"
+          ],
+          "episode": "21",
+          "episode_ID": "9448721"
         }
       ]
     },
