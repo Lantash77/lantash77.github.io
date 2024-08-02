@@ -8687,6 +8687,9 @@
           "episode_ID": "1158977"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -66028,7 +66031,15 @@
           "episode_ID": "11563915"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - Fina\u0142 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9db3d928-96b9-4250-a4a9-351810254d77"
+          ],
+          "episode": "16",
+          "episode_ID": "11563916"
         }
       ]
     },
