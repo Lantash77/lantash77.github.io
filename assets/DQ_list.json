@@ -8687,7 +8687,15 @@
           "episode_ID": "1158977"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/babdf627-34f6-440a-ae7d-6df0c6cfb1e2"
+          ],
+          "episode": "8",
+          "episode_ID": "1158978"
         },
         {
           "ep_title": "Odcinek 9<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
@@ -13601,6 +13609,9 @@
           ],
           "episode": "8",
           "episode_ID": "1172828"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -78477,7 +78488,15 @@
           "episode_ID": "10476613"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 14 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fee04a6e-894c-46c6-95bc-7f95c5778908"
+          ],
+          "episode": "14",
+          "episode_ID": "10476614"
         }
       ]
     }
@@ -93224,7 +93243,15 @@
           "episode_ID": "11670712"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/aa56a100-d172-4e5d-b786-d07c814956a2"
+          ],
+          "episode": "13",
+          "episode_ID": "11670713"
         }
       ]
     },
