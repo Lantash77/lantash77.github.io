@@ -13607,9 +13607,13 @@
           "episode_ID": "1172828"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2c2ff417-c118-4c08-b321-425152c04e61"
+          ],
           "episode": "9",
           "episode_ID": "1172829"
         },
@@ -86920,9 +86924,13 @@
           "episode_ID": "11070620"
         },
         {
-          "ep_title": "Odcinek 21<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 21",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/488043c0-d0ed-49b8-915d-ec4122a8cecb"
+          ],
           "episode": "21",
           "episode_ID": "11070621"
         },
