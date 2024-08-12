@@ -8701,6 +8701,13 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
+          "ep_title": "Odcinek 10<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "10",
+          "episode_ID": "11589710"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -94905,9 +94912,13 @@
           "episode_ID": "11504712"
         },
         {
-          "ep_title": "Odcinek specjalny<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek specjalny",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/048c54c2-e414-41ff-955c-6e8e1088e48e"
+          ],
           "episode": "13",
           "episode_ID": "11504713"
         }
