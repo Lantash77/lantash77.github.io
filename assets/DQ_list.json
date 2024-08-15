@@ -86674,7 +86674,15 @@
           "episode_ID": "11738911"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3e1aafef-f8a3-4943-9afe-ac99578c18cc"
+          ],
+          "episode": "12",
+          "episode_ID": "11738912"
         },
         {
           "ep_title": "Odcinek 13<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
