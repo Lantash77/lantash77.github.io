@@ -13636,9 +13636,13 @@
           "episode_ID": "1172829"
         },
         {
-          "ep_title": "Odcinek 10<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e28156fd-8ba7-42a0-963f-fad6e96f04f2"
+          ],
           "episode": "10",
           "episode_ID": "11728210"
         },
@@ -56495,11 +56499,7 @@
           "episode_ID": "1183705"
         },
         {
-          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "6",
-          "episode_ID": "1183706"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -85278,7 +85278,52 @@
   ],
   "Dramy Inne": [
     {
-      "error": "<Response [404]>"
+      "link": "https://www.dramaqueen.pl/?page_id=118530",
+      "title": "4Minutes",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/08/4minute-katalog.png",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2024/08/4minute-katalog.png",
+      "type": "drama",
+      "tvshowtitle": "4Minutes",
+      "title_ID": "118530",
+      "fanart": "",
+      "plot": "Great to stereotypowy student z bogatego domu, kt\u00f3ry nie stroni od rozrywek i korzysta z pozycji ojca. Pewnego dnia nagle zaczynaj\u0105 nawiedza\u0107 go wizje przysz\u0142o\u015bci - potrafi przewidzie\u0107 najbli\u017csze 4 minuty, a potem zmieni\u0107 ich bieg. To odkrycie stawia na jego drodze Tyme'a, rezydenta chirurgii w lokalnym szpitalu. Cho\u0107 s\u0105 ca\u0142kiem r\u00f3\u017cni, co\u015b zdaje si\u0119 ich do siebie przyci\u0105ga\u0107.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2024/08/4minutes-header1.jpg",
+      "genre": [
+        "akcja",
+        "science-fiction",
+        "dramat",
+        "LGBT+"
+      ],
+      "year": "2024",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9dfc4b37-0928-450c-970f-f960550f5c40"
+          ],
+          "episode": "1",
+          "episode_ID": "1185301"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 5<strong>Emisja: 23.08.2024</strong>",
+          "players": [],
+          "links": [],
+          "episode": "5",
+          "episode_ID": "1185305"
+        }
+      ]
     },
     {
       "link": "https://www.dramaqueen.pl/drama/pozostale/a-gift-to-the-people-you-hate/",
@@ -97161,6 +97206,9 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -108379,7 +108427,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "161"
+      "gen_count": "162"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -108395,7 +108443,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "420"
+      "gen_count": "421"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -108439,7 +108487,7 @@
     },
     "LGBT+": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/lgbt/",
-      "gen_count": "58"
+      "gen_count": "59"
     },
     "Medyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/medyczny/",
@@ -108499,7 +108547,7 @@
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
-      "gen_count": "32"
+      "gen_count": "33"
     },
     "Sensacyjny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/sensacyjny/",
