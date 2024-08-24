@@ -13647,7 +13647,11 @@
           "episode_ID": "11728210"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "11",
+          "episode_ID": "11728211"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -48108,9 +48112,13 @@
           "episode_ID": "1160248"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fefde7fd-c6f9-43f3-b420-a44b30c05e52"
+          ],
           "episode": "9",
           "episode_ID": "1160249"
         },
@@ -85278,7 +85286,7 @@
   ],
   "Dramy Inne": [
     {
-      "link": "https://www.dramaqueen.pl/?page_id=118530",
+      "link": "https://www.dramaqueen.pl/4-minutes/",
       "title": "4Minutes",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/08/4minute-katalog.png",
       "poster": "https://www.dramaqueen.pl/wp-content/uploads/2024/08/4minute-katalog.png",
@@ -85314,7 +85322,7 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 5<strong>Emisja: 23.08.2024</strong>",
