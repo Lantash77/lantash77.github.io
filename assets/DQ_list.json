@@ -47395,6 +47395,9 @@
           "episode_ID": "1183574"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -85345,8 +85348,8 @@
     {
       "link": "https://www.dramaqueen.pl/4-minutes/",
       "title": "4Minutes",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/08/4minute-katalog.png",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2024/08/4minute-katalog.png",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/08/4inutes-kat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2024/08/4inutes-kat.jpg",
       "type": "drama",
       "tvshowtitle": "4Minutes",
       "title_ID": "118530",
@@ -108511,7 +108514,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "163"
+      "gen_count": "164"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -108551,7 +108554,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "330"
+      "gen_count": "331"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -108587,7 +108590,7 @@
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "109"
+      "gen_count": "110"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
