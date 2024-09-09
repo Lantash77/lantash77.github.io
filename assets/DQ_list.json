@@ -18721,7 +18721,15 @@
           "episode_ID": "1096892"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ba0b1bf5-5a9f-431d-87a3-9696cc049cd7"
+          ],
+          "episode": "3",
+          "episode_ID": "1096893"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -56609,11 +56617,7 @@
           "episode_ID": "1183707"
         },
         {
-          "ep_title": "Odcinek 8 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "8",
-          "episode_ID": "1183708"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -82735,24 +82739,32 @@
           "episode_ID": "1184606"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
+          "ep_title": "Odcinek 7<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
           "players": [],
           "links": [],
           "episode": "7",
           "episode_ID": "1184607"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
+          "ep_title": "Odcinek 8<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
           "players": [],
           "links": [],
           "episode": "8",
           "episode_ID": "1184608"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odzinek 9<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "9",
+          "episode_ID": "1184609"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 10<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "10",
+          "episode_ID": "11846010"
         }
       ]
     },
@@ -85520,11 +85532,17 @@
           "episode_ID": "1185305"
         },
         {
-          "ep_title": "Odcinek 6<strong>Emisja: 30.08.2024</strong>",
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 8 - Fina\u0142<strong>Emisja: 13.09.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "6",
-          "episode_ID": "1185306"
+          "episode": "8",
+          "episode_ID": "1185308"
         }
       ]
     },
