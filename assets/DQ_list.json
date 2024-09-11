@@ -8734,7 +8734,15 @@
           "episode_ID": "11589711"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4e5ae357-3d6f-4cd7-b756-10f9d78b2a30"
+          ],
+          "episode": "12",
+          "episode_ID": "11589712"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -56624,7 +56632,15 @@
           "episode_ID": "1183707"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d61e4cce-8132-45c8-be3d-da8dff366b8f"
+          ],
+          "episode": "8",
+          "episode_ID": "1183708"
         }
       ]
     },
@@ -60988,9 +61004,13 @@
           "episode_ID": "1137687"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c66ec41a-982f-427e-82f2-ae13fe502c95"
+          ],
           "episode": "8",
           "episode_ID": "1137688"
         },
@@ -92247,7 +92267,11 @@
           "episode_ID": "11216520"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 21<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "21",
+          "episode_ID": "11216521"
         }
       ]
     },
@@ -101744,7 +101768,34 @@
       ]
     },
     {
-      "error": "<Response [404]>"
+      "link": "https://www.dramaqueen.pl/film/koreanski/no-breathing/",
+      "title": "No Breathing",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/nObREATHINGkat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/nObREATHINGkat.jpg",
+      "type": "movie",
+      "title_ID": "673",
+      "fanart": "",
+      "plot": "Woo Sang jest p\u0142ywakiem, nale\u017c\u0105cym do dru\u017cyny narodowej. Ch\u0142opak zawsze zajmuje pierwsze miejsce. Z kolei\u00a0Won Il jest niezwykle uzdolnionym p\u0142ywakiem, kt\u00f3ry przesta\u0142 kiedy\u015b uprawia\u0107 sport. Teraz ch\u0142opak che wr\u00f3ci\u0107 do p\u0142ywania.\u00a0Woo Sang i\u00a0Won Il staj\u0105 si\u0119 swoimi rywalami nie tylko w sporcie, ale tak\u017ce mi\u0142o\u015bci. A wszystko za spraw\u0105\u00a0Jung Eun, kt\u00f3ra jest pocz\u0105tkuj\u0105cym muzykiem, a tak\u017ce ich kole\u017cank\u0105 z dzieci\u0144stwa. Tr\u00f3jka przyjaci\u00f3\u0142 musi nagle poradzi\u0107 sobie z problemami\u00a0mi\u0142osnymi i sportowymi. Jak im si\u0119 to uda?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/NoBreathingheader2.jpg",
+      "genre": [
+        "sport",
+        "m\u0142odzie\u017cowy",
+        "romans"
+      ],
+      "year": "2013",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/11b081fd-cd7f-474e-9dff-99807ab64996"
+          ],
+          "episode": "1",
+          "episode_ID": "6731"
+        }
+      ]
     },
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/ode-to-my-father/",
@@ -108828,7 +108879,7 @@
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "111"
+      "gen_count": "112"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
@@ -108868,7 +108919,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "557"
+      "gen_count": "558"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -108884,7 +108935,7 @@
     },
     "Sport": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/sport/",
-      "gen_count": "23"
+      "gen_count": "24"
     },
     "Suspense": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/suspense/",
