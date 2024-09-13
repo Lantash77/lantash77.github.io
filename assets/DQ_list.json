@@ -18750,6 +18750,13 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
+          "ep_title": "Odcinek 5<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "5",
+          "episode_ID": "1096895"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -63388,7 +63395,15 @@
           "episode_ID": "1108365"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/38aae72c-28bd-4cb5-98b2-13aa97bebcd8"
+          ],
+          "episode": "6",
+          "episode_ID": "1108366"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -108798,7 +108813,7 @@
   "genres": {
     "Adaptacja Komiksu": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/adaptacja-komiksu/",
-      "gen_count": "40"
+      "gen_count": "41"
     },
     "Adaptacja Powie\u015bci": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/adaptacja-powiesci/",
@@ -108822,7 +108837,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "423"
+      "gen_count": "424"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -108834,7 +108849,7 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "222"
+      "gen_count": "223"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
@@ -108882,7 +108897,7 @@
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "112"
+      "gen_count": "113"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
@@ -108890,7 +108905,7 @@
     },
     "Okruchy \u017bycia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/okruchy-zycia/",
-      "gen_count": "55"
+      "gen_count": "56"
     },
     "Podr\u00f3\u017cniczy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/podrozniczy/",
