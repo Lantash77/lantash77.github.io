@@ -13695,9 +13695,13 @@
           "episode_ID": "11728212"
         },
         {
-          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d4211dee-6750-4610-a7b6-662e7e3ffddf"
+          ],
           "episode": "13",
           "episode_ID": "11728213"
         },
@@ -18747,7 +18751,11 @@
           "episode_ID": "1096893"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "4",
+          "episode_ID": "1096894"
         },
         {
           "ep_title": "Odcinek 5<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
@@ -38025,6 +38033,9 @@
           ],
           "episode": "1",
           "episode_ID": "1170921"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -85584,7 +85595,15 @@
           "episode_ID": "1185305"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d66d3494-fab3-44fe-9599-6347ce2db54e"
+          ],
+          "episode": "6",
+          "episode_ID": "1185306"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -92285,11 +92304,18 @@
           "episode_ID": "11216520"
         },
         {
-          "ep_title": "Odcinek 21<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 21",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/125fa300-12ad-4ed3-8ea5-c1a92de9a4bd"
+          ],
           "episode": "21",
           "episode_ID": "11216521"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -108824,7 +108850,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "164"
+      "gen_count": "165"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -108856,7 +108882,7 @@
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
-      "gen_count": "76"
+      "gen_count": "77"
     },
     "Horror": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/horror/",
@@ -108892,7 +108918,7 @@
     },
     "Melodramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/melodramat/",
-      "gen_count": "114"
+      "gen_count": "115"
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
@@ -108920,7 +108946,7 @@
     },
     "Polityczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/polityczny/",
-      "gen_count": "20"
+      "gen_count": "21"
     },
     "Prawniczy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/prawniczy/",
