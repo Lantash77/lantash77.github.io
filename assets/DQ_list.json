@@ -98532,9 +98532,13 @@
           "episode_ID": "10782626"
         },
         {
-          "ep_title": "Odcinek 27<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 27",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/31e50733-6b40-4975-ad91-7c05eaa4d095"
+          ],
           "episode": "27",
           "episode_ID": "10782627"
         },
