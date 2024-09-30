@@ -13714,9 +13714,13 @@
           "episode_ID": "11728213"
         },
         {
-          "ep_title": "Odcinek 14 - Fina\u0142 <img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 14 - Fina\u0142 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ba5c66df-45e3-4073-b286-6d24bc8e2310"
+          ],
           "episode": "14",
           "episode_ID": "11728214"
         }
@@ -14911,6 +14915,9 @@
           ],
           "episode": "9",
           "episode_ID": "972319"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -92397,7 +92404,18 @@
           "episode_ID": "11216522"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 23",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a3ea4ad9-afd0-4691-b6e2-b4de9e04f4f7"
+          ],
+          "episode": "23",
+          "episode_ID": "11216523"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
