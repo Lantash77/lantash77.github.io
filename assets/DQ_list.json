@@ -15025,7 +15025,15 @@
           "episode_ID": "972319"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/730cdb2d-6e11-4676-a512-155625b0c50a"
+          ],
+          "episode": "10",
+          "episode_ID": "9723110"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -51486,6 +51494,9 @@
           "episode_ID": "1190135"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -67474,6 +67485,9 @@
           ],
           "episode": "4",
           "episode_ID": "1189544"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -92940,9 +92954,13 @@
           "episode_ID": "11216523"
         },
         {
-          "ep_title": "Odcinek 24 <img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 24 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4a796d59-0b2a-47e8-892a-ca5aa0e0d502"
+          ],
           "episode": "24",
           "episode_ID": "11216524"
         }
@@ -109487,7 +109505,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "166"
+      "gen_count": "167"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -109503,7 +109521,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "425"
+      "gen_count": "427"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -109515,7 +109533,7 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "223"
+      "gen_count": "224"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
@@ -109539,7 +109557,7 @@
     },
     "Krymina\u0142": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kryminal/",
-      "gen_count": "99"
+      "gen_count": "101"
     },
     "Kulinarny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kulinarny/",
@@ -109563,7 +109581,7 @@
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "113"
+      "gen_count": "114"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
@@ -109571,7 +109589,7 @@
     },
     "Okruchy \u017bycia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/okruchy-zycia/",
-      "gen_count": "56"
+      "gen_count": "57"
     },
     "Podr\u00f3\u017cniczy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/podrozniczy/",
@@ -109587,7 +109605,7 @@
     },
     "Prawniczy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/prawniczy/",
-      "gen_count": "33"
+      "gen_count": "34"
     },
     "Przygodowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/przygodowy/",
@@ -109595,7 +109613,7 @@
     },
     "Psychologiczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/psychologiczny/",
-      "gen_count": "62"
+      "gen_count": "63"
     },
     "Rodzinny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/rodzinny/",
@@ -109603,7 +109621,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "560"
+      "gen_count": "562"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -109623,7 +109641,7 @@
     },
     "Suspense": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/suspense/",
-      "gen_count": "69"
+      "gen_count": "70"
     },
     "Szkolny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/szkolny/",
@@ -109631,7 +109649,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "214"
+      "gen_count": "216"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
@@ -109639,7 +109657,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "189"
+      "gen_count": "191"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
