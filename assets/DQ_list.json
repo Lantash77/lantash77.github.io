@@ -6573,9 +6573,13 @@
           "episode_ID": "3172714"
         },
         {
-          "ep_title": "Odcinek 15<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d99e2f5b-668b-4e5c-aea4-9b89ad6d9dd0"
+          ],
           "episode": "15",
           "episode_ID": "3172715"
         },
@@ -8116,6 +8120,17 @@
           "episode_ID": "1192414"
         },
         {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/04259220-bdb7-4533-a330-09c37661c3f9"
+          ],
+          "episode": "5",
+          "episode_ID": "1192415"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
@@ -8865,9 +8880,13 @@
           "episode_ID": "11589712"
         },
         {
-          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d6863b06-e76c-49ca-9bc8-bba1dcfe94a0"
+          ],
           "episode": "13",
           "episode_ID": "11589713"
         },
@@ -15245,9 +15264,13 @@
           "episode_ID": "1193992"
         },
         {
-          "ep_title": "Odcinek 3 <img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 3 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/56a51f7a-366e-4780-999b-c5dcb6e1f319"
+          ],
           "episode": "3",
           "episode_ID": "1193993"
         },
@@ -86924,9 +86947,13 @@
           "episode_ID": "10780417"
         },
         {
-          "ep_title": "Odcinek 18<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 18",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1d0b1ab7-29f6-452e-82bf-6226d699d346"
+          ],
           "episode": "18",
           "episode_ID": "10780418"
         },
@@ -90169,6 +90196,13 @@
           ],
           "episode": "2",
           "episode_ID": "1194742"
+        },
+        {
+          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "3",
+          "episode_ID": "1194743"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
