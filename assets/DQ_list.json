@@ -8142,6 +8142,9 @@
           "episode_ID": "1192416"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -15297,17 +15300,28 @@
           "episode_ID": "1193994"
         },
         {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f0be6053-9595-4231-8ef2-83ecef323b8e"
+          ],
+          "episode": "5",
+          "episode_ID": "1193995"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 7<strong>Premiera w Korei: 14.10.2024</strong>",
+          "ep_title": "Odcinek 8<strong>Premiera w Korei: 15.10.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "7",
-          "episode_ID": "1193997"
+          "episode": "8",
+          "episode_ID": "1193998"
         }
       ]
     },
@@ -38315,7 +38329,11 @@
           "episode_ID": "1170922"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "3",
+          "episode_ID": "1170923"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -88163,6 +88181,9 @@
           ],
           "episode": "16",
           "episode_ID": "11738916"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
