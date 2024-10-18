@@ -6619,6 +6619,17 @@
           "episode_ID": "1181621"
         },
         {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ab198d0f-f9da-46b8-b210-ccd769a24c9d"
+          ],
+          "episode": "2",
+          "episode_ID": "1181622"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
