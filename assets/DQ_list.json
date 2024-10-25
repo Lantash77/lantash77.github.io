@@ -15388,11 +15388,14 @@
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 10<strong>Premiera w Korei: 22.10.2024</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 11<strong>Premiera w Korei: 28.10.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "10",
-          "episode_ID": "11939910"
+          "episode": "11",
+          "episode_ID": "11939911"
         }
       ]
     },
@@ -67699,7 +67702,15 @@
           "episode_ID": "1189545"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/07918f6d-cee6-42ae-8fd6-213d909f43f2"
+          ],
+          "episode": "6",
+          "episode_ID": "1189546"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -90408,9 +90419,13 @@
           "episode_ID": "1194743"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/afca1ca4-4dfb-473c-8567-cb2a2e042d09"
+          ],
           "episode": "4",
           "episode_ID": "1194744"
         },
