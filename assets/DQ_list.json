@@ -8943,7 +8943,15 @@
           "episode_ID": "11589714"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8ed7a505-5217-4954-bf03-dcd8ed649f8a"
+          ],
+          "episode": "15",
+          "episode_ID": "11589715"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -51691,6 +51699,9 @@
           "links": [],
           "episode": "8",
           "episode_ID": "1190138"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
