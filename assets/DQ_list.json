@@ -15396,17 +15396,28 @@
           "episode_ID": "1193998"
         },
         {
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c20b0511-cd3a-48d8-a1c4-b2dce19240b5"
+          ],
+          "episode": "9",
+          "episode_ID": "1193999"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 11<strong>Premiera w Korei: 28.10.2024</strong>",
+          "ep_title": "Odcinek 12 - Fina\u0142 <strong>Premiera w Korei: 29.10.2024</strong>",
           "players": [],
           "links": [],
-          "episode": "11",
-          "episode_ID": "11939911"
+          "episode": "12",
+          "episode_ID": "11939912"
         }
       ]
     },
@@ -61581,6 +61592,9 @@
           "episode_ID": "1137689"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -63881,6 +63895,9 @@
           ],
           "episode": "14",
           "episode_ID": "5383114"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -88315,7 +88332,15 @@
           "episode_ID": "11738917"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 18",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/83791c5f-542e-4ede-9e09-3599dd1abd2f"
+          ],
+          "episode": "18",
+          "episode_ID": "11738918"
         },
         {
           "ep_title": "Odcinek 19<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
