@@ -15448,7 +15448,11 @@
           "episode_ID": "11939911"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12 - Fina\u0142 <img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "11939912"
         }
       ]
     },
@@ -67800,7 +67804,15 @@
           "episode_ID": "1189546"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7e63c390-cc53-43f6-b510-a7f5acb36991"
+          ],
+          "episode": "7",
+          "episode_ID": "1189547"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -86486,7 +86498,15 @@
           "episode_ID": "1185307"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b391b178-733f-46ed-b540-25889dbea783"
+          ],
+          "episode": "8",
+          "episode_ID": "1185308"
         }
       ]
     },
