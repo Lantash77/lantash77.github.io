@@ -1547,6 +1547,9 @@
           "episode_ID": "1120594"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -6584,7 +6587,15 @@
           "episode_ID": "3172715"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 16 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8a6dae6d-f4bc-4eb9-8b68-7e901547fa58"
+          ],
+          "episode": "16",
+          "episode_ID": "3172716"
         }
       ]
     },
@@ -38486,9 +38497,13 @@
           "episode_ID": "1170923"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9a377777-a675-4711-a4f2-798a45658110"
+          ],
           "episode": "4",
           "episode_ID": "1170924"
         },
