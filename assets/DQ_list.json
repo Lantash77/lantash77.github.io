@@ -8223,7 +8223,15 @@
           "episode_ID": "11924111"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cefda27e-84da-43fa-ab2b-c52a02da0661"
+          ],
+          "episode": "12",
+          "episode_ID": "11924112"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
