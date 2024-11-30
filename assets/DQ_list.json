@@ -38545,7 +38545,15 @@
           "episode_ID": "1170925"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/55ab5fe7-5dfe-48a9-b0ed-787053b59705"
+          ],
+          "episode": "6",
+          "episode_ID": "1170926"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
