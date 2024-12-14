@@ -8256,7 +8256,15 @@
           "episode_ID": "11924114"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c4fa84b7-8402-4d77-95fa-d23b73f55b10"
+          ],
+          "episode": "15",
+          "episode_ID": "11924115"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
