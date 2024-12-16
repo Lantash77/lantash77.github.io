@@ -68008,7 +68008,15 @@
           "episode_ID": "11895411"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e0c788fd-1e03-417a-97f7-e8e329fae37a"
+          ],
+          "episode": "12",
+          "episode_ID": "11895412"
         }
       ]
     },
