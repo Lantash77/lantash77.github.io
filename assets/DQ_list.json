@@ -88713,7 +88713,15 @@
           "episode_ID": "11738919"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 20",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c8b88d7e-90bc-4070-9823-5375b6d3ee68"
+          ],
+          "episode": "20",
+          "episode_ID": "11738920"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -110316,7 +110324,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "169"
+      "gen_count": "171"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -110364,7 +110372,7 @@
     },
     "kostiumowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kostiumowy/",
-      "gen_count": "45"
+      "gen_count": "46"
     },
     "Krymina\u0142": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kryminal/",
@@ -110376,7 +110384,7 @@
     },
     "LGBT+": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/lgbt/",
-      "gen_count": "61"
+      "gen_count": "62"
     },
     "Medyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/medyczny/",
@@ -110384,7 +110392,7 @@
     },
     "Melodramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/melodramat/",
-      "gen_count": "116"
+      "gen_count": "117"
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
@@ -110392,7 +110400,7 @@
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "114"
+      "gen_count": "115"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
@@ -110420,7 +110428,7 @@
     },
     "Przygodowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/przygodowy/",
-      "gen_count": "24"
+      "gen_count": "25"
     },
     "Psychologiczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/psychologiczny/",
@@ -110432,11 +110440,11 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "564"
+      "gen_count": "567"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
-      "gen_count": "33"
+      "gen_count": "34"
     },
     "Sensacyjny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/sensacyjny/",
@@ -110456,11 +110464,11 @@
     },
     "Szkolny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/szkolny/",
-      "gen_count": "116"
+      "gen_count": "117"
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "217"
+      "gen_count": "219"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
@@ -110468,7 +110476,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "192"
+      "gen_count": "193"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
