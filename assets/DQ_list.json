@@ -22345,7 +22345,15 @@
           "episode_ID": "1204791"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c518a076-9275-4646-b88b-5a195b6acac3"
+          ],
+          "episode": "2",
+          "episode_ID": "1204792"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -89407,9 +89415,13 @@
           "episode_ID": "1201942"
         },
         {
-          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/796709a7-2ec5-4edd-a5a0-999b311422b4"
+          ],
           "episode": "3",
           "episode_ID": "1201943"
         },
@@ -101373,6 +101385,9 @@
           ],
           "episode": "28",
           "episode_ID": "10782628"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
