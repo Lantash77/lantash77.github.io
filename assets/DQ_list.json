@@ -89505,9 +89505,13 @@
           "episode_ID": "1201944"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/725cb7a0-50bf-44f1-8dd5-966c178c2dfd"
+          ],
           "episode": "5",
           "episode_ID": "1201945"
         },
@@ -100589,6 +100593,9 @@
           "links": [],
           "episode": "7",
           "episode_ID": "1184567"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
