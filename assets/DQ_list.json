@@ -22769,6 +22769,9 @@
           "episode_ID": "1204914"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -92045,9 +92048,13 @@
           "episode_ID": "1194748"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/259621ac-caa3-425b-9232-7fd2b6317e66"
+          ],
           "episode": "9",
           "episode_ID": "1194749"
         },
@@ -92069,7 +92076,7 @@
           "episode_ID": "11947412"
         },
         {
-          "ep_title": "Odcinek specjalny<strong><font size=1,5>Premiera w Tajlandii: 22.02.2025</strong>",
+          "ep_title": "Odcinek specjalny<strong>Premiera w Tajlandii: 22.02.2025</strong>",
           "players": [],
           "links": [],
           "episode": "13",
@@ -100605,7 +100612,11 @@
           "episode_ID": "1184567"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "8",
+          "episode_ID": "1184568"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
