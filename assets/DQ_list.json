@@ -6723,6 +6723,17 @@
           "episode_ID": "1181623"
         },
         {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/35f67a3e-3976-4c3a-98f3-ab58f8b35870"
+          ],
+          "episode": "4",
+          "episode_ID": "1181624"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -22385,6 +22396,9 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -22772,9 +22786,13 @@
           "episode_ID": "1204914"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7ac2c304-69a4-4b8e-aded-d2f602fdd383"
+          ],
           "episode": "5",
           "episode_ID": "1204915"
         },
@@ -53588,6 +53606,9 @@
           "episode_ID": "1193643"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -64822,6 +64843,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -65908,6 +65932,17 @@
           ],
           "episode": "3",
           "episode_ID": "1197463"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6c7d44d9-4253-4551-91a0-be8a41383558"
+          ],
+          "episode": "4",
+          "episode_ID": "1197464"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -100680,9 +100715,13 @@
           "episode_ID": "1184568"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0bd3041a-9e48-4294-b307-1b0ea6585fb4"
+          ],
           "episode": "9",
           "episode_ID": "1184569"
         },
