@@ -1547,9 +1547,13 @@
           "episode_ID": "1120594"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d649e8f2-f260-480d-9421-470ff9ea166e"
+          ],
           "episode": "5",
           "episode_ID": "1120595"
         },
@@ -22430,7 +22434,15 @@
           "episode_ID": "1204795"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9e4c8632-0e43-4c48-b5b4-8667b2c848c1"
+          ],
+          "episode": "6",
+          "episode_ID": "1204796"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -65012,9 +65024,13 @@
           "episode_ID": "1108366"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7b7b78be-da82-439c-989e-01457512b52a"
+          ],
           "episode": "7",
           "episode_ID": "1108367"
         },
@@ -89944,9 +89960,13 @@
           "episode_ID": "11070623"
         },
         {
-          "ep_title": "Odcinek 24<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 24",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d04e02c6-f2cc-46d3-b26c-6ea6c49a6a9e"
+          ],
           "episode": "24",
           "episode_ID": "11070624"
         },
@@ -100845,23 +100865,35 @@
           "episode_ID": "1184569"
         },
         {
-          "ep_title": "Odcinek 10<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b6c5ff12-b263-4a2a-9e58-a77ea2623c3d"
+          ],
           "episode": "10",
           "episode_ID": "11845610"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fd43bab9-2b04-447b-8c82-e6d8d683e5ed"
+          ],
           "episode": "11",
           "episode_ID": "11845611"
         },
         {
-          "ep_title": "Odcinek 12 \u2013 FINA\u0141<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 12 \u2013 FINA\u0141",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/80c59cfe-5705-4f53-a000-6e5658b0b1c8"
+          ],
           "episode": "12",
           "episode_ID": "11845612"
         }
@@ -101798,7 +101830,11 @@
           "episode_ID": "10782629"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 30<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "30",
+          "episode_ID": "10782630"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
