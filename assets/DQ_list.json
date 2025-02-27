@@ -22464,6 +22464,9 @@
           "episode_ID": "1204797"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -52714,9 +52717,13 @@
           "episode_ID": "11901315"
         },
         {
-          "ep_title": "Odcinek 16 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 16 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0ae91199-b486-4258-84c4-c892d921ca96"
+          ],
           "episode": "16",
           "episode_ID": "11901316"
         }
@@ -92333,9 +92340,13 @@
           "episode_ID": "11947411"
         },
         {
-          "ep_title": "Odcinek 12 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 12 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a7215a26-2f80-4e90-9cfc-ae19cfd01453"
+          ],
           "episode": "12",
           "episode_ID": "11947412"
         }
