@@ -10366,6 +10366,51 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/buried-hearts/",
+      "title": "Buried Hearts",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/BuriedHeartskat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/BuriedHeartskat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Buried Hearts",
+      "title_ID": "121663",
+      "fanart": "",
+      "plot": "Seo Dong Ju pracuje jako szef sekretariatu prezesa Grupy Daesan. Jest znany jako \u201cCz\u0142owiek Daesan\u201d, kt\u00f3ry \u017cyje i umar\u0142by dla interes\u00f3w firmy. Ma wielkie ambicje, a jego g\u0142\u00f3wnym celem jest ca\u0142kowite przej\u0119cie Grupy, gdy tylko b\u0119dzie mia\u0142 na to szans\u0119. Yeom Jang Seon jest profesorem prawa i by\u0142ym dyrektorem Narodowej S\u0142u\u017cby Wywiadowczej. Jest najbardziej wp\u0142ywow\u0105 osob\u0105 w po\u0142udniowokorea\u0144skim \u015bwiecie polityki. Uwielbia pieni\u0105dze i w\u0142adz\u0119, i czuje, \u017ce \u017cyje tylko wtedy, gdy ma kontrol\u0119 nad wszystkimi.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/BuriedHeartsheader.jpg",
+      "genre": [
+        "thriller",
+        "tajemnice",
+        "kryminalny",
+        "polityczny"
+      ],
+      "year": "2025",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d79d86b5-c492-4ec6-83df-9f4a8f4f3e3d"
+          ],
+          "episode": "1",
+          "episode_ID": "1216631"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 4<strong>Premiera w Korei: 29.02.2025</strong>",
+          "players": [],
+          "links": [],
+          "episode": "4",
+          "episode_ID": "1216634"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/koreanska/cafe-minamdang/",
       "title": "Caf\u00e9 Minamdang",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2022/06/cafekat.jpg",
@@ -19681,6 +19726,70 @@
           ],
           "episode": "6",
           "episode_ID": "1096896"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/duty-after-school-part-2/",
+      "title": "Duty After School: Part 2",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/01/duty2-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/01/duty2-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "Duty After School: Part 2",
+      "title_ID": "119268",
+      "fanart": "",
+      "plot": "Uczniowie liceum Sungjin, teraz ju\u017c jako rezerwi\u015bci, przeszukuj\u0105 miasto, pr\u00f3buj\u0105c odkry\u0107 ka\u017cd\u0105 z zab\u00f3jczych Sfer, kt\u00f3ra spad\u0142a. Niekt\u00f3rzy z nich wci\u0105\u017c marz\u0105 o zdobyciu za t\u0119 misj\u0119 dodatkowych punkt\u00f3w na egzamin CSAT, inni po prostu chc\u0105 wr\u00f3ci\u0107 do domu. Jednak ich radio przesta\u0142o dzia\u0142a\u0107 i nie mog\u0105 si\u0119 komunikowa\u0107 z dow\u00f3dztwem. Podejmuj\u0105 decyzj\u0119, kt\u00f3ra b\u0119dzie mia\u0142a fatalne nast\u0119pstwa. W poszukiwaniu zapas\u00f3w postanawiaj\u0105 si\u0119 rozdzieli\u0107, by przeszuka\u0107 miejski szpital i zak\u0142ad karny w Yongwon. Czy uczniom uda si\u0119 bezpiecznie wr\u00f3ci\u0107 do bazy?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/01/duty2.jpg",
+      "genre": [
+        "akcja",
+        "thriller",
+        "fantasy"
+      ],
+      "year": "2023",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4642dbf0-a070-4a81-be2f-218452ee48f9"
+          ],
+          "episode": "1",
+          "episode_ID": "1192681"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a57950a1-8780-439c-bacd-3a6f19ddddbc"
+          ],
+          "episode": "2",
+          "episode_ID": "1192682"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b46ead53-0e7f-4b29-b526-346c2d3a9644"
+          ],
+          "episode": "3",
+          "episode_ID": "1192683"
+        },
+        {
+          "ep_title": "Odcinek 4 - fina\u0142.",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a00ab937-a05d-49b5-bf0f-65d0d9aaae48"
+          ],
+          "episode": "4",
+          "episode_ID": "1192684"
         }
       ]
     },
@@ -52730,6 +52839,47 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/playful-kiss-special/",
+      "title": "Playful Kiss  Special",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/playful-kiss-special-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/playful-kiss-special-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "Playful Kiss  Special",
+      "title_ID": "121893",
+      "fanart": "",
+      "plot": "Min\u0105\u0142 ju\u017c prawie rok od \u015blubu Oh Ha Ni i Baek Seung Jo. Przyjrzyjmy si\u0119 zatem dalszym perypetiom naszych bohater\u00f3w, bo powa\u017cny zwi\u0105zek wcale nie oznacza, \u017ce ich \u017cycie sta\u0142o si\u0119 nagle u\u0142o\u017cone i monotonne. Roztrzepanie Oh Ha Ni na pewno nie pozwoli si\u0119 nudzi\u0107 Baek Seung Jo.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/playful-kiss-special-header.jpg",
+      "genre": [
+        "m\u0142odzie\u017cowy",
+        "komedia romantyczna,",
+        "dramat"
+      ],
+      "year": "2010",
+      "episodes": [
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/koreanska/plus-nine-boys/",
       "title": "Plus Nine Boys",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/03/PlusNineBoyskat.jpg",
@@ -64996,7 +65146,15 @@
           "episode_ID": "5383115"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/51e64b1c-b579-4ec2-a33c-a00f1108667a"
+          ],
+          "episode": "16",
+          "episode_ID": "5383116"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -74923,6 +75081,48 @@
           ],
           "episode": "32",
           "episode_ID": "3140332"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/undercover-high-school/",
+      "title": "Undercover High School",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/UndercoverHigschoolkat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/UndercoverHigschoolkat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Undercover High School",
+      "title_ID": "121675",
+      "fanart": "",
+      "plot": "Jung Hae Seong to najlepszy agent terenowy w Narodowej S\u0142u\u017cbie Wywiadowczej. Niestety, po powa\u017cnej wpadce podczas jednej z misji jego praca w agencji wisi na w\u0142osku. Aby m\u00f3c zachowa\u0107 swoje stanowisko, zostaje wyznaczony do kolejnego zadania - trzeba odnale\u017a\u0107 zaginione sztabki z\u0142ota kr\u00f3la Gojonga. Nie by\u0142oby w tym nic trudnego, gdyby nie to, \u017ce musi ukry\u0107 swoj\u0105 to\u017csamo\u015b\u0107 i dzia\u0142a\u0107 pod przykrywk\u0105 jako ucze\u0144 presti\u017cowego Liceum Byeongmoon. Tam poznaje nauczycielk\u0119 historii, Oh Su A, kt\u00f3ra marzy, by dosta\u0107 umow\u0119 o prac\u0119 na ca\u0142y etat. By tak si\u0119 sta\u0142o, kobieta wykonuje wszystkie polecenia dyrektora i bierze na siebie dodatkowe zadania. Mimo to nie traci pozytywnego nastawienia i radosnej osobowo\u015bci. Gdy do jej klasy trafia nowy ucze\u0144, zaczyna dostrzega\u0107 w nim podobie\u0144stwo do swojej pierwszej mi\u0142o\u015bci z dzieci\u0144stwa.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/UndercoverHighschhoheader.jpg",
+      "genre": [
+        "akcja",
+        "thriller",
+        "komedia",
+        "romans"
+      ],
+      "year": "2025",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d5d97a8e-9689-4eb0-9e5c-b713c05207d6"
+          ],
+          "episode": "1",
+          "episode_ID": "1216751"
+        },
+        {
+          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "2",
+          "episode_ID": "1216752"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -90923,296 +91123,6 @@
       ]
     },
     {
-      "link": "https://www.dramaqueen.pl/drama/pozostale/general-and-i/",
-      "title": "General and I",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/03/generalandikat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2019/03/generalandikat.jpg",
-      "type": "drama",
-      "tvshowtitle": "General and I",
-      "title_ID": "28939",
-      "fanart": "",
-      "plot": "Bai Ping Ting \u017cyje w m\u0119skim \u015bwiecie i jest s\u0142u\u017ck\u0105 na dworze Jing An. Przez ca\u0142e \u017cycie usi\u0142owano wpoi\u0107 jej zasad\u0119, \u017ce cnot\u0105 kobiety jest ignorancja. Jako \u017ce Bai Ping Ting wiedzie \u017cycie lepsze od niejednej zamo\u017cnej kobiety, a w dodatku jest niezwykle inteligentna, nigdy nie \u017cy\u0142a w zgodzie w wpajan\u0105 jej zasad\u0105. Kobieta jest genialnym strategiem wojennym. Jej inteligencja i pi\u0119kno wabi\u0105 niepokonanego genera\u0142a \u2013 Chu Bei Jie'a, kt\u00f3ry to zakochuje si\u0119 w niej od pierwszego wejrzenia. M\u0119\u017cczyzna nie wie, \u017ce Bai Ping Ting jest strategiem, s\u0142u\u017c\u0105cym ksi\u0119ciu He Xia. Po pewnym czasie mi\u0142o\u015b\u0107 zostaje wystawiona na pr\u00f3b\u0119, gdy\u017c cztery pa\u0144stwa: Jin, Yan, Liang i Bai Lan prowadz\u0105 wojn\u0119, a Bai Ping Ting jest strategiem jego wroga. Przeznaczeniem tej dw\u00f3jki nie jest mi\u0142o\u015b\u0107, a zabicie siebie nawzajem. Czy pomimo przeciwno\u015bci losu, a tak\u017ce skrywanych sekret\u00f3w uczucie pomi\u0119dzy genera\u0142em a s\u0142u\u017ck\u0105 przetrwa?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2018/07/generalheader.png",
-      "genre": [
-        "historyczna",
-        "romans",
-        "melodramat",
-        "akcja",
-        "ekranizacja manhwy",
-        "kostiumowy"
-      ],
-      "year": "2017",
-      "episodes": [
-        {
-          "ep_title": "Odcinek 1",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f679c020-b885-441b-9e5c-2c6a0e41f034"
-          ],
-          "episode": "1",
-          "episode_ID": "289391"
-        },
-        {
-          "ep_title": "Odcinek 2",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e6c3a317-9e99-4a01-a7ab-88f2043f4cea"
-          ],
-          "episode": "2",
-          "episode_ID": "289392"
-        },
-        {
-          "ep_title": "Odcinek 3",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/23a0c653-4c3c-40d6-8682-7fd04572f836"
-          ],
-          "episode": "3",
-          "episode_ID": "289393"
-        },
-        {
-          "ep_title": "Odcinek 4",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fa3cd414-ce99-4eb7-a24c-835333573ce2"
-          ],
-          "episode": "4",
-          "episode_ID": "289394"
-        },
-        {
-          "ep_title": "Odcinek 5",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ed8d85e6-a25f-4516-8164-cb595e394c2c"
-          ],
-          "episode": "5",
-          "episode_ID": "289395"
-        },
-        {
-          "ep_title": "Odcinek 6",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fc9ebc73-7483-4dfe-b39d-a3c20dc0a94d"
-          ],
-          "episode": "6",
-          "episode_ID": "289396"
-        },
-        {
-          "ep_title": "Odcinek 7",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d82c62bb-da39-4882-8364-8f2e07b7a46a"
-          ],
-          "episode": "7",
-          "episode_ID": "289397"
-        },
-        {
-          "ep_title": "Odcinek 8",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/864d8868-8b7e-4ba4-80b3-083ef1014180"
-          ],
-          "episode": "8",
-          "episode_ID": "289398"
-        },
-        {
-          "ep_title": "Odcinek 9",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cf923f32-582f-4a83-98fd-2a8419e76a89"
-          ],
-          "episode": "9",
-          "episode_ID": "289399"
-        },
-        {
-          "ep_title": "Odcinek 10",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6210f6ed-7e17-40b0-a0ac-20c17bcd2b0e"
-          ],
-          "episode": "10",
-          "episode_ID": "2893910"
-        },
-        {
-          "ep_title": "Odcinek 11",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/53a4ee2d-a387-453f-92f7-84ae6674d6f0"
-          ],
-          "episode": "11",
-          "episode_ID": "2893911"
-        },
-        {
-          "ep_title": "Odcinek 12",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6a172faf-c168-4813-910a-8b4b29dbc0d6"
-          ],
-          "episode": "12",
-          "episode_ID": "2893912"
-        },
-        {
-          "ep_title": "Odcinek 13",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ddd85239-5bf9-457b-9a4e-8d9f45206150"
-          ],
-          "episode": "13",
-          "episode_ID": "2893913"
-        },
-        {
-          "ep_title": "Odcinek 14",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f604133a-6535-4601-9ccd-7993334cb525"
-          ],
-          "episode": "14",
-          "episode_ID": "2893914"
-        },
-        {
-          "ep_title": "Odcinek 15",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/08f491c7-fb53-481c-af4c-9a66d77e0770"
-          ],
-          "episode": "15",
-          "episode_ID": "2893915"
-        },
-        {
-          "ep_title": "Odcinek 16",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5395a21e-836e-4eb4-ba15-2a91ad2a2d07"
-          ],
-          "episode": "16",
-          "episode_ID": "2893916"
-        },
-        {
-          "ep_title": "Odcinek 17",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/344c691d-cd43-4d33-a5bd-1a3b0cd4c757"
-          ],
-          "episode": "17",
-          "episode_ID": "2893917"
-        },
-        {
-          "ep_title": "Odcinek 18",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/688d0cc6-1722-4d1b-9572-2157430a4f45"
-          ],
-          "episode": "18",
-          "episode_ID": "2893918"
-        },
-        {
-          "ep_title": "Odcinek 19",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1131403a-d07c-4ad9-a29b-b4dc7f964068"
-          ],
-          "episode": "19",
-          "episode_ID": "2893919"
-        },
-        {
-          "ep_title": "Odcinek 20",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fa55665c-27a6-4300-8195-5efe570213a8"
-          ],
-          "episode": "20",
-          "episode_ID": "2893920"
-        },
-        {
-          "ep_title": "Odcinek 21",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/dbbf5f0f-7eea-4c9f-a2f4-15aeceb71e66"
-          ],
-          "episode": "21",
-          "episode_ID": "2893921"
-        },
-        {
-          "ep_title": "Odcinek 22",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fdb1cdf0-662f-493d-a10f-60d106b88f81"
-          ],
-          "episode": "22",
-          "episode_ID": "2893922"
-        },
-        {
-          "ep_title": "Odcinek 23",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3e1467ab-6b20-43f5-a59f-c78ad7b7ed6d"
-          ],
-          "episode": "23",
-          "episode_ID": "2893923"
-        },
-        {
-          "ep_title": "Odcinek 24",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2e6c342a-716c-4134-9a79-062dca202ee5"
-          ],
-          "episode": "24",
-          "episode_ID": "2893924"
-        },
-        {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
-        }
-      ]
-    },
-    {
       "link": "https://www.dramaqueen.pl/drama/pozostale/gto-in-taiwan/",
       "title": "GTO in Taiwan",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/05/gtogt.jpg",
@@ -95915,6 +95825,74 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/pozostale/my-piggy-boss/",
+      "title": "My Piggy Boss",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/MyPiggyBoskat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/MyPiggyBoskat.jpg",
+      "type": "drama",
+      "tvshowtitle": "My Piggy Boss",
+      "title_ID": "121519",
+      "fanart": "",
+      "plot": "Pewnego dnia Yang Xiaozhu zostaje zbesztana przez swojego surowego szefa, Zhu Xiaoyanga. Zdenerwowana, udaje si\u0119 do \u0142azienki, gdzie niespodziewanie znajduje urocz\u0105 \u015bwink\u0119 i postanawia j\u0105 przygarn\u0105\u0107. Jednak gdy nast\u0119pnego ranka budzi si\u0119 w swoim \u0142\u00f3\u017cku, zamiast \u015bwinki zastaje\u2026 nagiego prezesa swojej firmy! Wkr\u00f3tce odkrywa, \u017ce Zhu Xiaoyang ka\u017cdego wieczoru po zachodzie s\u0142o\u0144ca zamienia si\u0119 w prosiaczka, a jedynym sposobem na zdj\u0119cie tajemniczej kl\u0105twy jest poca\u0142unek prawdziwej mi\u0142o\u015bci. Ale czy mi\u0119dzy nimi naprawd\u0119 mo\u017ce narodzi\u0107 si\u0119 uczucie?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/02/MyPiggyBossheader.jpg",
+      "genre": [
+        "romans",
+        "komedia,",
+        "fantasy",
+        "web drama"
+      ],
+      "year": "2024",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/235dc838-1196-4647-82ff-183366e97cef"
+          ],
+          "episode": "1",
+          "episode_ID": "1215191"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/abb6c8e1-248a-4f2f-977e-a7d6edc9fc91"
+          ],
+          "episode": "2",
+          "episode_ID": "1215192"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/684c136f-56ee-4e70-9d21-a000e6744eee"
+          ],
+          "episode": "3",
+          "episode_ID": "1215193"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cef46ae1-1811-4d84-b5d4-76c4a1821e9c"
+          ],
+          "episode": "4",
+          "episode_ID": "1215194"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/pozostale/not-me/",
       "title": "Not Me",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2021/12/notme_kat.jpg",
@@ -97126,6 +97104,52 @@
           ],
           "episode": "3",
           "episode_ID": "1150653"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/drama/pozostale/spare-me-your-mercy/",
+      "title": "Spare Me Your Mercy",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/01/sparemeyourmercy.kat_.png",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/01/sparemeyourmercy.kat_.png",
+      "type": "drama",
+      "tvshowtitle": "Spare Me Your Mercy",
+      "title_ID": "121279",
+      "fanart": "",
+      "plot": "Kapitan policji Wasan wraca do rodzinnej miejscowo\u015bci, aby zaj\u0105\u0107 si\u0119 umieraj\u0105c\u0105 matk\u0105. Na miejscu zastaje alarmuj\u0105c\u0105 liczb\u0119 zgon\u00f3w zwi\u0105zanych z terminalnymi pacjentami oraz ich enigmatycznego lekarza medycyny paliatywnej - Kana. Rozpoczyna si\u0119 \u015bledztwo, kt\u00f3re szybko przeradza si\u0119 dla Wasana w osobist\u0105 walk\u0119. Staje przed realiami bolesnej \u015bmierci bez nadziei na wyleczenie i moralnym dylematem o s\u0142uszno\u015bci eutanazji. Zacie\u015bniaj\u0105ca si\u0119 relacja mi\u0119dzy nim a doktorem Kanem dodaje sprawom kolejny, intryguj\u0105cy wymiar z\u0142o\u017cono\u015bci, zacieraj\u0105cy granice mi\u0119dzy mi\u0142o\u015bci\u0105, powinno\u015bci\u0105 a brutalnymi realiami \u015bmierci. Obaj b\u0119d\u0105 musieli w ich obliczu dokona\u0107 wybor\u00f3w. Tylko czy b\u0119d\u0105 w stanie z nimi \u017cy\u0107?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/01/spare-me-your-mercy-.header.png",
+      "genre": [
+        "dramat",
+        "romans",
+        "LGBT+,",
+        "tajemnice"
+      ],
+      "year": "2024",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6957e873-3d3c-4973-9754-bbfbc5882b1c"
+          ],
+          "episode": "1",
+          "episode_ID": "1212791"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b6dd5cad-82a8-4e42-8f93-bed6e870ed92"
+          ],
+          "episode": "2",
+          "episode_ID": "1212792"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -100835,10 +100859,14 @@
           "episode_ID": "10164610"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "11",
+          "episode_ID": "10164611"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -112326,7 +112354,7 @@
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
-      "gen_count": "124"
+      "gen_count": "125"
     },
     "kostiumowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kostiumowy/",
@@ -112358,7 +112386,7 @@
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "115"
+      "gen_count": "116"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
@@ -112422,7 +112450,7 @@
     },
     "Szkolny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/szkolny/",
-      "gen_count": "117"
+      "gen_count": "118"
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
