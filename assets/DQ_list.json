@@ -10407,25 +10407,29 @@
           "episode_ID": "1216632"
         },
         {
-          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ccc33964-b33c-45c3-b23e-4d4e862b297f"
+          ],
           "episode": "3",
           "episode_ID": "1216633"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8bbd59e8-957c-49fe-8c90-190c4037fcef"
+          ],
           "episode": "4",
           "episode_ID": "1216634"
         },
         {
-          "ep_title": "Odcinek 5<strong>Premiera w Korei: 07.03.2025</strong>",
-          "players": [],
-          "links": [],
-          "episode": "5",
-          "episode_ID": "1216635"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -75223,18 +75227,18 @@
           "episode_ID": "1216753"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/44bc8787-709b-4914-a0d5-5ce5c2a1a678"
+          ],
           "episode": "4",
           "episode_ID": "1216754"
         },
         {
-          "ep_title": "Odcinek 5<strong>Premiera w Korei: 07.03.2025</strong>",
-          "players": [],
-          "links": [],
-          "episode": "5",
-          "episode_ID": "1216755"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
