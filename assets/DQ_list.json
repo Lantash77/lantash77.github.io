@@ -10440,9 +10440,13 @@
           "episode_ID": "1216635"
         },
         {
-          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e6fec925-567e-426f-b75e-5eebb0492f61"
+          ],
           "episode": "6",
           "episode_ID": "1216636"
         },
@@ -22643,6 +22647,9 @@
           "episode_ID": "1204799"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -34276,6 +34283,17 @@
           ],
           "episode": "2",
           "episode_ID": "1145192"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/670da59f-aa76-461d-9c22-438e0fb22026"
+          ],
+          "episode": "3",
+          "episode_ID": "1145193"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -52332,7 +52350,15 @@
           "episode_ID": "11484523"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 24",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fa81676a-dd20-4225-850a-1a4f829358b6"
+          ],
+          "episode": "24",
+          "episode_ID": "11484524"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -75296,7 +75322,7 @@
           "episode_ID": "1216755"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
