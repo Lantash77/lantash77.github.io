@@ -10451,14 +10451,17 @@
           "episode_ID": "1216636"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 8<strong>Premiera w Korei: 15.03.2025</strong>",
+          "ep_title": "Odcinek 9<strong>Premiera w Korei: 21.03.2025</strong>",
           "players": [],
           "links": [],
-          "episode": "8",
-          "episode_ID": "1216638"
+          "episode": "9",
+          "episode_ID": "1216639"
         }
       ]
     },
@@ -22647,7 +22650,11 @@
           "episode_ID": "1204799"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "10",
+          "episode_ID": "12047910"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -75322,7 +75329,15 @@
           "episode_ID": "1216755"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/182e235f-179d-4ca0-b8e2-53f70e5a218d"
+          ],
+          "episode": "6",
+          "episode_ID": "1216756"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -102190,9 +102205,13 @@
           "episode_ID": "10782630"
         },
         {
-          "ep_title": "Odcinek 31<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 31",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2604035d-6bb0-4604-bdbd-3d54e626ad29"
+          ],
           "episode": "31",
           "episode_ID": "10782631"
         },
