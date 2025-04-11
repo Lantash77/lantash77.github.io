@@ -3258,9 +3258,13 @@
           "episode_ID": "1020037"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b27de4f5-2405-442e-a8a5-eafbb413d4a3"
+          ],
           "episode": "8",
           "episode_ID": "1020038"
         },
@@ -10565,14 +10569,22 @@
           "episode_ID": "12166312"
         },
         {
-          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/05ac4b1d-c866-4062-a918-ba47e7d27cef"
+          ],
           "episode": "13",
           "episode_ID": "12166313"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 14<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "14",
+          "episode_ID": "12166314"
         },
         {
           "ep_title": "Odcinek 15<strong>Premiera w Korei: 11.04.2025</strong>",
