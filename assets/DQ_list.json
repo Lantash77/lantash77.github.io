@@ -3291,9 +3291,13 @@
           "episode_ID": "10200310"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b0368ff1-562b-483c-9304-71b729dad7ae"
+          ],
           "episode": "11",
           "episode_ID": "10200311"
         },
@@ -6828,6 +6832,17 @@
           ],
           "episode": "6",
           "episode_ID": "1181626"
+        },
+        {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f32d9062-6cf1-4fab-afad-934e6b1fc495"
+          ],
+          "episode": "7",
+          "episode_ID": "1181627"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -29506,9 +29521,13 @@
           "episode_ID": "1229181"
         },
         {
-          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/19644e90-99fc-4d96-8bc4-ea45342f38ca"
+          ],
           "episode": "2",
           "episode_ID": "1229182"
         },
@@ -29518,6 +29537,9 @@
           "links": [],
           "episode": "3",
           "episode_ID": "1229183"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -60446,9 +60468,13 @@
       "year": "2015",
       "episodes": [
         {
-          "ep_title": "Odcinek 1<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f1ee00d3-261a-4656-aef1-f3e742e27612"
+          ],
           "episode": "1",
           "episode_ID": "1228521"
         },
@@ -66053,9 +66079,13 @@
           "episode_ID": "1228023"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d6c5665c-fe1a-42e2-86f7-24237339df3e"
+          ],
           "episode": "4",
           "episode_ID": "1228024"
         },
@@ -102291,6 +102321,17 @@
           "episode_ID": "10164612"
         },
         {
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d95e6d3e-bc55-4473-b6d9-ee3f44ea73cf"
+          ],
+          "episode": "13",
+          "episode_ID": "10164613"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -113746,7 +113787,7 @@
   "genres": {
     "Adaptacja Komiksu": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/adaptacja-komiksu/",
-      "gen_count": "41"
+      "gen_count": "42"
     },
     "Adaptacja Powie\u015bci": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/adaptacja-powiesci/",
@@ -113754,7 +113795,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "180"
+      "gen_count": "181"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -113794,7 +113835,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "336"
+      "gen_count": "337"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -113894,7 +113935,7 @@
     },
     "Szkolny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/szkolny/",
-      "gen_count": "118"
+      "gen_count": "119"
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
@@ -113906,7 +113947,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "206"
+      "gen_count": "207"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
