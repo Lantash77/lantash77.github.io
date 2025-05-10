@@ -24757,9 +24757,13 @@
           "episode_ID": "12242714"
         },
         {
-          "ep_title": "Odcinek 15<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/85a7fc2f-6839-402b-be04-34ebbd3fd77b"
+          ],
           "episode": "15",
           "episode_ID": "12242715"
         },
@@ -40039,7 +40043,15 @@
           "episode_ID": "1170929"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ccfa6eea-45d0-4f9f-8884-53fe8fb236f6"
+          ],
+          "episode": "10",
+          "episode_ID": "11709210"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -50263,6 +50275,12 @@
           ],
           "episode": "10",
           "episode_ID": "11602410"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -63067,6 +63085,9 @@
           "episode_ID": "1228541"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -66050,7 +66071,15 @@
           "episode_ID": "5383119"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 20 - FINA\u0141",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/170be39d-92d9-4dd1-bd67-8abdd0d7a478"
+          ],
+          "episode": "20",
+          "episode_ID": "5383120"
         }
       ]
     },
@@ -66125,7 +66154,11 @@
           "episode_ID": "1228025"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "6",
+          "episode_ID": "1228026"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
