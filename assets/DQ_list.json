@@ -25883,18 +25883,25 @@
           "episode_ID": "1233551"
         },
         {
-          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/86af972d-1095-48f7-8f65-2397a29bcb95"
+          ],
           "episode": "2",
           "episode_ID": "1233552"
         },
         {
-          "ep_title": "Odcinek 3<strong> Premiera w Korei: 07.06.2025 </strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 4<strong> Premiera w Korei: 08.06.2025 </strong>",
           "players": [],
           "links": [],
-          "episode": "3",
-          "episode_ID": "1233553"
+          "episode": "4",
+          "episode_ID": "1233554"
         }
       ]
     },
@@ -63787,7 +63794,31 @@
       ]
     },
     {
-      "error": "<Response [404]>"
+      "link": "https://www.dramaqueen.pl/drama/koreanska/tastefully-yours/",
+      "title": "Tastefully Yours",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/05/tastefully-yours-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/05/tastefully-yours-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "Tastefully Yours",
+      "title_ID": "123569",
+      "fanart": "",
+      "plot": "Historia o dw\u00f3jce zupe\u0142nie r\u00f3\u017cnych ludzi, kt\u00f3rych \u0142\u0105czy jedno \u2013 smak. On \u2013 spadkobierca rodzinnego holdingu gastronomicznego, kt\u00f3ry zarz\u0105dza ekskluzywnymi restauracjami w Seulu, cho\u0107 sam nie przywi\u0105zuje wagi do smaku. Ona \u2013 pe\u0142na pasji szefowa kuchni, zakochana w dobrym jedzeniu, prowadzi kameraln\u0105, jednoosobow\u0105 restauracj\u0119 na uboczu. Los sprawia, \u017ce ich kulinarne \u015bcie\u017cki si\u0119 przecinaj\u0105, a mi\u0119dzy nimi rodzi si\u0119 wyj\u0105tkowa relacja, kt\u00f3ra zmienia nie tylko ich spojrzenie na jedzenie, ale i na \u017cycie.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/05/tastefully-yours-header.jpg",
+      "genre": [
+        "romans",
+        "dramat,",
+        "komedia,",
+        "kulinarny"
+      ],
+      "year": "2025",
+      "episodes": [
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
     },
     {
       "link": "https://www.dramaqueen.pl/drama/koreanska/taxi-driver/",
@@ -66812,9 +66843,13 @@
           "episode_ID": "1228027"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/80f2e1de-09af-4bce-a0fd-e3eca2cf2885"
+          ],
           "episode": "8",
           "episode_ID": "1228028"
         },
@@ -98223,9 +98258,13 @@
           "episode_ID": "12151910"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/78a1c18c-439e-4697-a558-70b4356fb696"
+          ],
           "episode": "11",
           "episode_ID": "12151911"
         },
@@ -99529,6 +99568,12 @@
           ],
           "episode": "5",
           "episode_ID": "1212795"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -114850,7 +114895,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "436"
+      "gen_count": "437"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -114874,7 +114919,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "339"
+      "gen_count": "340"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -114890,7 +114935,7 @@
     },
     "Kulinarny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kulinarny/",
-      "gen_count": "16"
+      "gen_count": "17"
     },
     "LGBT+": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/lgbt/",
@@ -114950,7 +114995,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "574"
+      "gen_count": "575"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
