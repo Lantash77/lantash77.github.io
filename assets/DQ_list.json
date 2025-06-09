@@ -13101,9 +13101,13 @@
           "episode_ID": "1230152"
         },
         {
-          "ep_title": "Odcinek 3<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/90c4dba5-cce6-4aa2-8f47-87edb4545dce"
+          ],
           "episode": "3",
           "episode_ID": "1230153"
         },
@@ -25894,14 +25898,17 @@
           "episode_ID": "1233552"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 4<strong> Premiera w Korei: 08.06.2025 </strong>",
+          "ep_title": "Odcinek 5<strong> Premiera w Korei: 14.06.2025 </strong>",
           "players": [],
           "links": [],
-          "episode": "4",
-          "episode_ID": "1233554"
+          "episode": "5",
+          "episode_ID": "1233555"
         }
       ]
     },
@@ -54698,7 +54705,7 @@
           "episode_ID": "1219866"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -63714,9 +63721,13 @@
           "episode_ID": "1228543"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c8746a34-b4ac-4125-83e2-4231eda9baec"
+          ],
           "episode": "4",
           "episode_ID": "1228544"
         },
@@ -63812,6 +63823,13 @@
       ],
       "year": "2025",
       "episodes": [
+        {
+          "ep_title": "Odcinek 1<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "1",
+          "episode_ID": "1235691"
+        },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
@@ -92098,9 +92116,13 @@
           "episode_ID": "1201946"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f381ca68-8054-44af-b181-7762f4e9775b"
+          ],
           "episode": "7",
           "episode_ID": "1201947"
         },
@@ -99573,10 +99595,10 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -102564,6 +102586,13 @@
           "episode_ID": "10885311"
         },
         {
+          "ep_title": "Odcinek 12<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "10885312"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -103392,6 +103421,9 @@
           ],
           "episode": "13",
           "episode_ID": "10164613"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
