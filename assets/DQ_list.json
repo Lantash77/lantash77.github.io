@@ -25912,11 +25912,14 @@
           "episode_ID": "1233554"
         },
         {
-          "ep_title": "Odcinek 5<strong> Premiera w Korei: 14.06.2025 </strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 6<strong> Premiera w Korei: 15.06.2025 </strong>",
           "players": [],
           "links": [],
-          "episode": "5",
-          "episode_ID": "1233555"
+          "episode": "6",
+          "episode_ID": "1233556"
         }
       ]
     },
