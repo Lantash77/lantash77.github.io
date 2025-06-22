@@ -13112,6 +13112,9 @@
           "episode_ID": "1230153"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -17119,9 +17122,13 @@
           "episode_ID": "11389810"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0be4251f-ad3b-420c-b521-6ca22ec72b76"
+          ],
           "episode": "11",
           "episode_ID": "11389811"
         },
@@ -17133,6 +17140,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -25960,18 +25970,17 @@
           "episode_ID": "1233555"
         },
         {
-          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "6",
-          "episode_ID": "1233556"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 7<strong> Premiera w Korei: 21.06.2025 </strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 8<strong> Premiera w Korei: 22.06.2025 </strong>",
           "players": [],
           "links": [],
-          "episode": "7",
-          "episode_ID": "1233557"
+          "episode": "8",
+          "episode_ID": "1233558"
         }
       ]
     },
@@ -52316,31 +52325,7 @@
       ]
     },
     {
-      "link": "https://www.dramaqueen.pl/drama/koreanska/one-high-school-heroes/",
-      "title": "One: High School Heroes",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/05/OneHighSchoolHerokat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/05/OneHighSchoolHerokat.jpg",
-      "type": "drama",
-      "tvshowtitle": "One: High School Heroes",
-      "title_ID": "123523",
-      "fanart": "",
-      "plot": "Wzorowy ucze\u0144 Kim Eui Gyeom do\u015bwiadcza przemocy domowej oraz prze\u015bladowa\u0144 ze strony szkolnych koleg\u00f3w, co zmusza go do podj\u0119cia prze\u0142omowej decyzji. Wraz z Kang Yun Gim zak\u0142ada grup\u0119 \u201eHigh School Heroes\u201d, kt\u00f3ra w imieniu ofiar przeciwstawia si\u0119 sprawcom przemocy szkolnej.",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/05/OneHighSchoolHeroheader.jpg",
-      "genre": [
-        "akcja",
-        "dramat,",
-        "m\u0142odzie\u017cowa"
-      ],
-      "year": "2025",
-      "episodes": [
-        {
-          "ep_title": "Odcinek 1<strong>Premiera w Korei: 30.05.2025</strong>",
-          "players": [],
-          "links": [],
-          "episode": "1",
-          "episode_ID": "1235231"
-        }
-      ]
+      "error": "<Response [404]>"
     },
     {
       "link": "https://www.dramaqueen.pl/drama/koreanska/our-beloved-summer/",
@@ -55231,7 +55216,7 @@
           "episode_ID": "1193645"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -100539,6 +100524,9 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -115179,7 +115167,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "184"
+      "gen_count": "183"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -115195,7 +115183,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "437"
+      "gen_count": "436"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -115255,7 +115243,7 @@
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "117"
+      "gen_count": "116"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
@@ -115319,7 +115307,7 @@
     },
     "Szkolny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/szkolny/",
-      "gen_count": "121"
+      "gen_count": "120"
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
