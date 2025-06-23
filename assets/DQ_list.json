@@ -25970,17 +25970,32 @@
           "episode_ID": "1233555"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/06387fdc-878c-4c6f-9f90-9eabb5d94121"
+          ],
+          "episode": "6",
+          "episode_ID": "1233556"
+        },
+        {
+          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "1233557"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 8<strong> Premiera w Korei: 22.06.2025 </strong>",
+          "ep_title": "Odcinek 9<strong> Premiera w Korei: 28.06.2025 </strong>",
           "players": [],
           "links": [],
-          "episode": "8",
-          "episode_ID": "1233558"
+          "episode": "9",
+          "episode_ID": "1233559"
         }
       ]
     },
@@ -52957,7 +52972,15 @@
           "episode_ID": "1231111"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d7d6622e-0ca9-4bd0-8fc3-fac765f0c35a"
+          ],
+          "episode": "2",
+          "episode_ID": "1231112"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -63827,10 +63850,26 @@
           "episode_ID": "1228545"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4d54d209-efbb-45f3-9b8d-b02ddaac991d"
+          ],
+          "episode": "6",
+          "episode_ID": "1228546"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7  - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0f250f42-8373-4983-bed8-50b303a4e198"
+          ],
+          "episode": "7",
+          "episode_ID": "1228547"
         }
       ]
     },
@@ -63950,6 +63989,9 @@
           ],
           "episode": "3",
           "episode_ID": "1235693"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -92311,9 +92353,13 @@
           "episode_ID": "1201948"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/11eec919-7f99-4949-a460-d6b3db0e6544"
+          ],
           "episode": "9",
           "episode_ID": "1201949"
         },
@@ -100854,14 +100900,20 @@
           "episode_ID": "1231646"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 7<strong>Premiera: 14.06.2025</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 9<strong>Emisja: 28.06.2025</strong>",
           "players": [],
           "links": [],
-          "episode": "8",
-          "episode_ID": "1231648"
+          "episode": "10",
+          "episode_ID": "12316410"
         }
       ]
     },
@@ -103680,6 +103732,9 @@
           ],
           "episode": "14",
           "episode_ID": "10164614"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
