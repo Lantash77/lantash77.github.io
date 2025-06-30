@@ -26016,7 +26016,15 @@
           "episode_ID": "1233557"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2a75e403-8102-4839-80d3-d360944f4b74"
+          ],
+          "episode": "8",
+          "episode_ID": "1233558"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
