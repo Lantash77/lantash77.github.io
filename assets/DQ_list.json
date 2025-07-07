@@ -17185,7 +17185,15 @@
           "episode_ID": "11389815"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2b0b7de5-e3b1-44ad-8c6d-ee4dc71d69fd"
+          ],
+          "episode": "16",
+          "episode_ID": "11389816"
         }
       ]
     },
@@ -26068,14 +26076,21 @@
           "episode_ID": "12335510"
         },
         {
+          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "11",
+          "episode_ID": "12335511"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 12<strong> Premiera w Korei: 06.07.2025 </strong>",
+          "ep_title": "Odcinek 13<strong> Premiera w Korei: 12.07.2025 </strong>",
           "players": [],
           "links": [],
-          "episode": "12",
-          "episode_ID": "12335512"
+          "episode": "13",
+          "episode_ID": "12335513"
         }
       ]
     },
@@ -53061,6 +53076,12 @@
           ],
           "episode": "2",
           "episode_ID": "1231112"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
