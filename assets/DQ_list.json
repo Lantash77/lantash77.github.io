@@ -26076,14 +26076,14 @@
           "episode_ID": "12335510"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "11",
-          "episode_ID": "12335511"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 12<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "12335512"
         },
         {
           "ep_title": "Odcinek 13<strong> Premiera w Korei: 12.07.2025 </strong>",
@@ -61231,7 +61231,11 @@
           "episode_ID": "1228524"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "5",
+          "episode_ID": "1228525"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -100750,16 +100754,24 @@
           "episode_ID": "1203413"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d1a127d5-971d-4132-88f1-31447fa326cc"
+          ],
           "episode": "4",
           "episode_ID": "1203414"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c2d7b7a9-7558-4722-8d65-334126ba6080"
+          ],
           "episode": "5",
           "episode_ID": "1203415"
         },
@@ -101102,7 +101114,7 @@
           "episode_ID": "1231647"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -101113,6 +101125,41 @@
           "links": [],
           "episode": "10",
           "episode_ID": "12316410"
+        },
+        {
+          "ep_title": "Odcinek 10<strong>Emisja: 05.07.2025</strong>",
+          "players": [],
+          "links": [],
+          "episode": "11",
+          "episode_ID": "12316411"
+        },
+        {
+          "ep_title": "Odcinek 11<strong>Emisja: 12.07.2025</strong>",
+          "players": [],
+          "links": [],
+          "episode": "12",
+          "episode_ID": "12316412"
+        },
+        {
+          "ep_title": "Odcinek 12<strong>Emisja: 19.07.2025</strong>",
+          "players": [],
+          "links": [],
+          "episode": "13",
+          "episode_ID": "12316413"
+        },
+        {
+          "ep_title": "Odcinek 13<strong>Emisja: 26.07.2025</strong>",
+          "players": [],
+          "links": [],
+          "episode": "14",
+          "episode_ID": "12316414"
+        },
+        {
+          "ep_title": "Odcinek 14 \u2013 FINA\u0141<strong>Emisja: 02.08.2025</strong>",
+          "players": [],
+          "links": [],
+          "episode": "15",
+          "episode_ID": "12316415"
         }
       ]
     },
