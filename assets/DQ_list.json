@@ -26087,18 +26087,32 @@
           "episode_ID": "12335511"
         },
         {
-          "ep_title": "Odcinek 12<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/36b3e406-32c9-4f61-88e2-1e1afebda9c7"
+          ],
           "episode": "12",
           "episode_ID": "12335512"
         },
         {
-          "ep_title": "Odcinek 13<strong> Premiera w Korei: 12.07.2025 </strong>",
+          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
           "players": [],
           "links": [],
           "episode": "13",
           "episode_ID": "12335513"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 15<strong> Premiera w Korei: 19.07.2025 </strong>",
+          "players": [],
+          "links": [],
+          "episode": "15",
+          "episode_ID": "12335515"
         }
       ]
     },
@@ -56608,9 +56622,13 @@
           "episode_ID": "9287616"
         },
         {
-          "ep_title": "Odcinek 17<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 17",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f9b7d49d-6634-4b0a-a9b5-fcc342f3f9c1"
+          ],
           "episode": "17",
           "episode_ID": "9287617"
         },
@@ -68064,6 +68082,17 @@
           ],
           "episode": "6",
           "episode_ID": "1230256"
+        },
+        {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7bdf0146-8266-465a-ba3c-157229c94a3b"
+          ],
+          "episode": "7",
+          "episode_ID": "1230257"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -101155,7 +101184,15 @@
           "episode_ID": "1231647"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f8033e35-a485-4cdd-b7bf-7a9ec9cb521c"
+          ],
+          "episode": "8",
+          "episode_ID": "1231648"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -107014,7 +107051,36 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/film/koreanski/hit-and-run-squad/",
+      "title": "Hit and Run Squad",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/09/Hit-and-Run-Squad-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/09/Hit-and-Run-Squad-ikonka.jpg",
+      "type": "movie",
+      "title_ID": "89345",
+      "fanart": "",
+      "plot": "W wyniku nieudanego \u015bledztwa sier\u017cant Eun Si Yeon zostaje przeniesiona z Wydzia\u0142u Spraw Wewn\u0119trznych do Wydzia\u0142u Ucieczek z Miejsc Wypadk\u00f3w Zachodniej Dzielnicy Transportu. Nieoficjalnie jest tam, by zdoby\u0107 dow\u00f3d na przyjmowanie \u0142ap\u00f3wek przez wysokich urz\u0119dnik\u00f3w policji. Jej nowym partnerem zostaje ekscentryczny oficer Suh Min Jae. W przesz\u0142o\u015bci nale\u017ca\u0142 do gangu, w kt\u00f3rym zajmowa\u0142 si\u0119 szmuglowaniem narkotyk\u00f3w. Dzi\u0119ki pomocy ojca wyszed\u0142 na prost\u0105 i zosta\u0142 policjantem. W wyniku pewnych zdarze\u0144 okazuje si\u0119, \u017ce \u015bledztwa prowadzone przez Eun Si Yeon i Suh Min Jae'a s\u0105 ze sob\u0105 powi\u0105zane.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/09/hit-and-run-Squad-header.jpg",
+      "genre": [
+        "akcja",
+        "policyjny",
+        "tajemnice"
+      ],
+      "year": "2019",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/aaf95a4d-352e-4620-b0f8-fefc2dfe3c9e"
+          ],
+          "episode": "1",
+          "episode_ID": "893451"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/homme-fatale/",
       "title": "Homme Fatale",
