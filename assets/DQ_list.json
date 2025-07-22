@@ -13123,7 +13123,11 @@
           "episode_ID": "1230154"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 5<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "5",
+          "episode_ID": "1230155"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -26115,14 +26119,14 @@
           "episode_ID": "12335514"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
-        },
-        {
-          "ep_title": "Odcinek 16 - Fina\u0142<strong> Premiera w Korei: 20.07.2025 </strong>",
+          "ep_title": "Odcinek 15<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
           "players": [],
           "links": [],
-          "episode": "16",
-          "episode_ID": "12335516"
+          "episode": "15",
+          "episode_ID": "12335515"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
