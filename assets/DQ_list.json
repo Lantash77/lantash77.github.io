@@ -13123,9 +13123,13 @@
           "episode_ID": "1230154"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2f3ac822-4119-4d85-8ad9-c74e48e5ef20"
+          ],
           "episode": "5",
           "episode_ID": "1230155"
         },
@@ -26105,17 +26109,29 @@
           "episode_ID": "12335512"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e616de3e-6a18-4d9e-965e-e1e6cd8cef26"
+          ],
+          "episode": "13",
+          "episode_ID": "12335513"
+        },
+        {
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/252e87a1-f1ba-4a26-96ea-612955f23952"
+          ],
+          "episode": "14",
+          "episode_ID": "12335514"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
-        },
-        {
-          "ep_title": "Odcinek 15<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "15",
-          "episode_ID": "12335515"
         },
         {
           "ep_title": "Odcinek 16 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
@@ -56643,7 +56659,11 @@
           "episode_ID": "9287617"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 18<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "18",
+          "episode_ID": "9287618"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
