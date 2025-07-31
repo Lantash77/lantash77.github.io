@@ -13134,6 +13134,9 @@
           "episode_ID": "1230155"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -53601,6 +53604,9 @@
           "episode_ID": "11484525"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -64265,7 +64271,15 @@
           "episode_ID": "1235697"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ee7773fc-a429-4317-9033-3035d91dc0a3"
+          ],
+          "episode": "8",
+          "episode_ID": "1235698"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
