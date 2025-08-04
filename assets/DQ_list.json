@@ -53141,9 +53141,13 @@
           "episode_ID": "1231112"
         },
         {
-          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1836af0a-e92a-421b-a3d1-193b879a62e5"
+          ],
           "episode": "3",
           "episode_ID": "1231113"
         },
@@ -53619,7 +53623,15 @@
           "episode_ID": "11484526"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 27",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/60456b6b-b6cc-4d14-b0b4-b32420e40699"
+          ],
+          "episode": "27",
+          "episode_ID": "11484527"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
