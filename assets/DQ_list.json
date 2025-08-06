@@ -64320,7 +64320,15 @@
           "episode_ID": "1235699"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/68f12121-2647-4609-b405-93d2a2369d05"
+          ],
+          "episode": "10",
+          "episode_ID": "12356910"
         }
       ]
     },
