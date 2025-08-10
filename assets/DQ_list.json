@@ -13134,9 +13134,13 @@
           "episode_ID": "1230155"
         },
         {
-          "ep_title": "Odcinek 6<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e0836c59-4747-4983-ae8d-2c64a230bc04"
+          ],
           "episode": "6",
           "episode_ID": "1230156"
         },
@@ -56725,9 +56729,13 @@
           "episode_ID": "9287618"
         },
         {
-          "ep_title": "Odcinek 19<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 19",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ac11147f-e9d9-4a97-b95a-aa57cf2d468c "
+          ],
           "episode": "19",
           "episode_ID": "9287619"
         },
