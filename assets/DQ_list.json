@@ -68290,6 +68290,17 @@
           "episode_ID": "1230259"
         },
         {
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bbf66c96-d78b-48c0-92ae-e354c0f97a81"
+          ],
+          "episode": "10",
+          "episode_ID": "12302510"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -114062,7 +114073,37 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/film/japonski/tokyo-slaves/",
+      "title": "Tokyo Slaves",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/02/tokyo-slaves-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/02/tokyo-slaves-ikonka.jpg",
+      "type": "movie",
+      "title_ID": "5731",
+      "fanart": "",
+      "plot": "23 os\u00f3b bierze udzia\u0142 w grze psychologicznej, w kt\u00f3rej zak\u0142adaj\u0105 specjalne urz\u0105dzenie nazywane \u201cSCM\u201d (jest ono wykorzystywane do zamiany innych graczy w niewolnik\u00f3w). Eia Arakawa to dziewczyna z zimn\u0105 osobowo\u015bci\u0105. Interesuje si\u0119 romansami i nic nie bierze na powa\u017cnie. Natomiast Yuuga Oota jest elokwentnym, inteligentnym m\u0142odzie\u0144cem, kt\u00f3ry stopniowo popada w ob\u0142\u0119d, gdy zostaje wch\u0142oni\u0119ty w mrok gry. Toczy si\u0119 ostra gra o prze\u017cycie dla w\u0142asnych cel\u00f3w.</p>\n<p>",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/02/tokyo-slaves-header.jpg",
+      "genre": [
+        "suspense",
+        "psychologiczny",
+        "thriller",
+        "tajemnice\u00a0"
+      ],
+      "year": "2014",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8f6d1879-928d-4c95-b443-63d19869de26"
+          ],
+          "episode": "1",
+          "episode_ID": "57311"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/film/japonski/tomorrow-i-will-date-with-yesterdays-you/",
       "title": "Tomorrow I Will Date With Yesterday's You",
@@ -115770,7 +115811,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "184"
+      "gen_count": "185"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -115798,7 +115839,7 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "230"
+      "gen_count": "231"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
@@ -115874,7 +115915,7 @@
     },
     "Przygodowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/przygodowy/",
-      "gen_count": "26"
+      "gen_count": "27"
     },
     "Psychologiczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/psychologiczny/",
