@@ -53645,7 +53645,15 @@
           "episode_ID": "11484527"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 28",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f449fc90-2ec4-4092-88f8-303e59b4589e"
+          ],
+          "episode": "28",
+          "episode_ID": "11484528"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -61400,6 +61408,9 @@
           ],
           "episode": "6",
           "episode_ID": "1228526"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -103315,7 +103326,15 @@
           "episode_ID": "886739"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/08d34aa5-dba0-4bb0-8d41-3759a92c7425"
+          ],
+          "episode": "10",
+          "episode_ID": "8867310"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -105476,6 +105495,9 @@
           ],
           "episode": "34",
           "episode_ID": "10782634"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
