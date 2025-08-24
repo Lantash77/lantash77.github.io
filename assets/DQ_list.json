@@ -56779,9 +56779,13 @@
           "episode_ID": "9287619"
         },
         {
-          "ep_title": "Odcinek 20 - Fina\u0142<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 20 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7b0b23d5-b888-44f0-9b39-b4ad11869d1b "
+          ],
           "episode": "20",
           "episode_ID": "9287620"
         }
@@ -115939,7 +115943,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "340"
+      "gen_count": "341"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -115951,7 +115955,7 @@
     },
     "Krymina\u0142": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kryminal/",
-      "gen_count": "106"
+      "gen_count": "108"
     },
     "Kulinarny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kulinarny/",
@@ -116007,7 +116011,7 @@
     },
     "Psychologiczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/psychologiczny/",
-      "gen_count": "67"
+      "gen_count": "68"
     },
     "Rodzinny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/rodzinny/",
@@ -116051,7 +116055,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "212"
+      "gen_count": "213"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
