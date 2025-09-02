@@ -13243,6 +13243,9 @@
           "episode_ID": "1230157"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -15965,7 +15968,11 @@
           "episode_ID": "9723112"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "13",
+          "episode_ID": "9723113"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -55670,7 +55677,7 @@
       "tvshowtitle": "Queen Mantis",
       "title_ID": "124871",
       "fanart": "",
-      "plot": "Jung I Sin to seryjna morderczyni o pseudonimie Modliszka. 20 lat temu brutalnie zamordowa\u0142a 5 m\u0119\u017cczyzn. Jej syn Cha Su Yeol, kt\u00f3ry przez ca\u0142e \u017cycie j\u0105 nienawidzi\u0142, zosta\u0142 policjantem. Pewnego dnia dochodzi do morderstwa. Okazuje si\u0119, \u017ce dokona\u0142 go na\u015bladowca Modliszki. Aby z\u0142apa\u0107 sprawc\u0119, Cha Su Yeol musi prosi\u0107 o pomoc swoj\u0105 matk\u0119.",
+      "plot": "Jung I Sin to seryjna morderczyni o pseudonimie Modliszka. 20 lat temu brutalnie zamordowa\u0142a 5 os\u00f3b. Jej syn Cha Su Yeol, kt\u00f3ry przez ca\u0142e \u017cycie j\u0105 nienawidzi\u0142, zosta\u0142 policjantem. Pewnego dnia dochodzi do morderstwa. Okazuje si\u0119, \u017ce dokona\u0142 go na\u015bladowca Modliszki. Aby z\u0142apa\u0107 sprawc\u0119, Cha Su Yeol musi prosi\u0107 o pomoc swoj\u0105 matk\u0119.",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/08/QueenMantisHeader.jpg",
       "genre": [
         "thriller",
@@ -61966,7 +61973,11 @@
           "episode_ID": "1228527"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "8",
+          "episode_ID": "1228528"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -77540,14 +77551,21 @@
           "episode_ID": "1247552"
         },
         {
+          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "3",
+          "episode_ID": "1247553"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 4<strong>Premiera w Korei: 31.08.2025</strong>",
+          "ep_title": "Odcinek 5<strong>Premiera w Korei: 06.09.2025 </strong>",
           "players": [],
           "links": [],
-          "episode": "4",
-          "episode_ID": "1247554"
+          "episode": "5",
+          "episode_ID": "1247555"
         }
       ]
     },
