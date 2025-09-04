@@ -15972,9 +15972,13 @@
           "episode_ID": "9723112"
         },
         {
-          "ep_title": "Odcinek 13<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8a758b2b-a2b4-4e18-8cad-79a619e82453"
+          ],
           "episode": "13",
           "episode_ID": "9723113"
         },
@@ -68244,6 +68248,17 @@
           "episode_ID": "1244021"
         },
         {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/285072be-b021-494b-be52-6fb9490bd5a6"
+          ],
+          "episode": "2",
+          "episode_ID": "1244022"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -93754,7 +93769,15 @@
           "episode_ID": "12019410"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b4264143-2af2-49cb-920a-8a7744f2922a"
+          ],
+          "episode": "11",
+          "episode_ID": "12019411"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
