@@ -55722,11 +55722,14 @@
       "year": "2025",
       "episodes": [
         {
-          "ep_title": "Odcinek 1<strong>Premiera w Korei: 05.09.2025</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 2<strong>Premiera w Korei: 06.09.2025</strong>",
           "players": [],
           "links": [],
-          "episode": "1",
-          "episode_ID": "1248711"
+          "episode": "2",
+          "episode_ID": "1248712"
         }
       ]
     },
@@ -77612,7 +77615,7 @@
           "episode_ID": "1247553"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 5<strong>Premiera w Korei: 06.09.2025 </strong>",
