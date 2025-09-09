@@ -55736,10 +55736,18 @@
       "year": "2025",
       "episodes": [
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3e3b9342-9697-470b-b41b-de6397cf1ad9"
+          ],
+          "episode": "1",
+          "episode_ID": "1248711"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 3<strong>Premiera w Korei: 12.09.2025</strong>",
