@@ -55781,10 +55781,18 @@
           "episode_ID": "1248712"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b2c1974f-c46b-4953-927b-783846768f88"
+          ],
+          "episode": "3",
+          "episode_ID": "1248713"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 5<strong>Premiera w Korei: 19.09.2025</strong>",
@@ -68340,7 +68348,15 @@
           "episode_ID": "1244022"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/115d63b2-febb-4f2b-a1a2-9cbceadfebf9"
+          ],
+          "episode": "3",
+          "episode_ID": "1244023"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -69218,7 +69234,15 @@
           "episode_ID": "12302512"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bdf0f703-05ea-4b49-8d7f-aa9e1271214c"
+          ],
+          "episode": "13",
+          "episode_ID": "12302513"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -77723,14 +77747,10 @@
           "episode_ID": "1247555"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 7<strong>Premiera w Korei: 13.09.2025</strong>",
-          "players": [],
-          "links": [],
-          "episode": "7",
-          "episode_ID": "1247557"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 8 - Fina\u0142 <strong>Premiera w Korei: 14.09.2025</strong>",
