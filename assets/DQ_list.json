@@ -14584,21 +14584,32 @@
           "episode_ID": "1248761"
         },
         {
-          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6d25e0e9-ce54-42d4-9e11-f3747b024776"
+          ],
           "episode": "2",
           "episode_ID": "1248762"
+        },
+        {
+          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "3",
+          "episode_ID": "1248763"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 4<strong>Premiera w Korei: 14.09.2025</strong>",
+          "ep_title": "Odcinek 5<strong>Premiera w Korei: 20.09.2025</strong>",
           "players": [],
           "links": [],
-          "episode": "4",
-          "episode_ID": "1248764"
+          "episode": "5",
+          "episode_ID": "1248765"
         }
       ]
     },
@@ -117031,7 +117042,7 @@
     },
     "Krymina\u0142": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kryminal/",
-      "gen_count": "108"
+      "gen_count": "109"
     },
     "Kulinarny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kulinarny/",
@@ -117115,7 +117126,7 @@
     },
     "Suspense": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/suspense/",
-      "gen_count": "71"
+      "gen_count": "72"
     },
     "Szkolny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/szkolny/",
@@ -117131,7 +117142,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "212"
+      "gen_count": "213"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
