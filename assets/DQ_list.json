@@ -55822,11 +55822,14 @@
           "episode_ID": "1248714"
         },
         {
-          "ep_title": "Odcinek 5<strong>Premiera w Korei: 19.09.2025</strong>",
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 6<strong>Premiera w Korei: 20.09.2025</strong>",
           "players": [],
           "links": [],
-          "episode": "5",
-          "episode_ID": "1248715"
+          "episode": "6",
+          "episode_ID": "1248716"
         }
       ]
     },
@@ -105481,6 +105484,17 @@
           ],
           "episode": "15",
           "episode_ID": "10164615"
+        },
+        {
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a92048b7-f9b6-4d67-8456-c9342f91df0e"
+          ],
+          "episode": "16",
+          "episode_ID": "10164616"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
