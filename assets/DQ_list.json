@@ -53746,9 +53746,13 @@
           "episode_ID": "1231116"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fa28b7f0-05f1-4f0d-a4a3-9a1d0b327aff"
+          ],
           "episode": "7",
           "episode_ID": "1231117"
         },
@@ -55826,18 +55830,18 @@
           "episode_ID": "1248714"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/da2330c9-6455-428b-9602-41eb6c644c7a"
+          ],
           "episode": "5",
           "episode_ID": "1248715"
         },
         {
-          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "6",
-          "episode_ID": "1248716"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 7<strong>Premiera w Korei: 26.09.2025</strong>",
@@ -77735,7 +77739,7 @@
       ]
     },
     {
-      "link": "https://www.dramaqueen.pl/drama/koreanska/twelve/",
+      "link": "https://www.dramaqueen.pl/drama/koreanska/twelve-2/",
       "title": "Twelve",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/08/TwelveKat.jpg",
       "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/08/TwelveKat.jpg",
@@ -77815,14 +77819,14 @@
           "episode_ID": "1247556"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
-        },
-        {
-          "ep_title": "Odcinek 8 - Fina\u0142 <img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
           "players": [],
           "links": [],
-          "episode": "8",
-          "episode_ID": "1247558"
+          "episode": "7",
+          "episode_ID": "1247557"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
