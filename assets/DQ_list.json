@@ -55841,7 +55841,15 @@
           "episode_ID": "1248715"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/24ca3769-cd06-4395-8370-fbc4b753b8c0"
+          ],
+          "episode": "6",
+          "episode_ID": "1248716"
         },
         {
           "ep_title": "Odcinek 7<strong>Premiera w Korei: 26.09.2025</strong>",
