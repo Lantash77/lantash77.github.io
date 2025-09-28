@@ -55852,14 +55852,14 @@
           "episode_ID": "1248716"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
-        },
-        {
-          "ep_title": "Odcinek 8 - Fina\u0142<strong>Premiera w Korei: 27.09.2025</strong>",
+          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
           "players": [],
           "links": [],
-          "episode": "8",
-          "episode_ID": "1248718"
+          "episode": "7",
+          "episode_ID": "1248717"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -77845,9 +77845,13 @@
           "episode_ID": "1247556"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6f999bda-6b83-4ecc-b1a1-458f8ed79f78"
+          ],
           "episode": "7",
           "episode_ID": "1247557"
         },
@@ -114666,38 +114670,7 @@
         }
       ]
     },
-    {
-      "link": "https://www.dramaqueen.pl/film/japonski/real/",
-      "title": "REAL",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/03/real-ikonka.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/03/real-ikonka.jpg",
-      "type": "movie",
-      "title_ID": "593",
-      "fanart": "",
-      "plot": "Rzeczywisto\u015b\u0107 czy u\u0142uda? A mo\u017ce pozory? Koichi i Atsumi przyja\u017ani\u0105 si\u0119 od dzieci\u0144stwa. Jaki\u015b rok temu Atsumi pr\u00f3bowa\u0142a pope\u0142ni\u0107 samob\u00f3jstwo i wpad\u0142a w stan \u015bpi\u0105czki. Koichi, chc\u0105c odkry\u0107 motywy Atsumi, postanawia wej\u015b\u0107 do jej umys\u0142u za pomoc\u0105 pewnego medycznego urz\u0105dzenia. Kiedy do tego dochodzi, dziewczyna prosi Koichiego, \u017ceby znalaz\u0142 rysunek plezjozaura, kt\u00f3ry narysowa\u0142a dla niego w dzieci\u0144stwie. Rysunek jest kluczem do rozszyfrowania wspomnie\u0144 prze\u017cytych w dzieci\u0144stwie.",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/03/real-header.jpg",
-      "genre": [
-        "<em>psychologiczny</em>",
-        "dramat",
-        "romans",
-        "science-fiction",
-        "fantasy"
-      ],
-      "year": "2013",
-      "episodes": [
-        {
-          "ep_title": "Film",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0de6ab86-07af-47b0-8cc4-65cdeb3e78cd"
-          ],
-          "episode": "1",
-          "episode_ID": "5931"
-        }
-      ]
-    },
+    null,
     {
       "link": "https://www.dramaqueen.pl/film/japonski/relife/",
       "title": "ReLIFE",
