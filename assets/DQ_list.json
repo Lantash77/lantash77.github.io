@@ -13258,6 +13258,9 @@
           "episode_ID": "1230158"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -55863,7 +55866,15 @@
           "episode_ID": "1248717"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 8 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b85e752e-9f97-4868-b8e3-94bbee2ab830"
+          ],
+          "episode": "8",
+          "episode_ID": "1248718"
         }
       ]
     },
@@ -92956,6 +92967,17 @@
           "episode_ID": "1247893"
         },
         {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cedba2bc-a0ad-4835-9a64-196cb1421244"
+          ],
+          "episode": "4",
+          "episode_ID": "1247894"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
@@ -94046,6 +94068,12 @@
           ],
           "episode": "11",
           "episode_ID": "12019411"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
