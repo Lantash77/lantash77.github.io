@@ -14686,6 +14686,13 @@
           "episode_ID": "1248768"
         },
         {
+          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "9",
+          "episode_ID": "1248769"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -93161,7 +93168,15 @@
           "episode_ID": "1247896"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b4efcee7-0af9-40bc-9633-f0158e36a7aa"
+          ],
+          "episode": "7",
+          "episode_ID": "1247897"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -94114,7 +94129,7 @@
       ]
     },
     {
-      "link": "https://www.dramaqueen.pl/fangs-of-fortune/",
+      "link": "https://www.dramaqueen.pl/drama/pozostale/fangs-of-fortune/",
       "title": "Fangs of Fortune",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/11/fangsoffortunekat.jpg",
       "poster": "https://www.dramaqueen.pl/wp-content/uploads/2024/11/fangsoffortunekat.jpg",
