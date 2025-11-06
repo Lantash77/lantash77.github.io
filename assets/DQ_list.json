@@ -13280,9 +13280,13 @@
           "episode_ID": "1230159"
         },
         {
-          "ep_title": "Odcinek 10<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/875e27d7-7a32-41a6-87c6-e4c90339d30f "
+          ],
           "episode": "10",
           "episode_ID": "12301510"
         },
@@ -50543,6 +50547,62 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/no-mercy/",
+      "title": "No Mercy",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/10/no-mercy-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/10/no-mercy-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "No Mercy",
+      "title_ID": "114511",
+      "fanart": "",
+      "plot": "Han So Min, ma\u0142o znana aktorka, pewnego dnia traci rodzin\u0119 i marzenia w wyniku oszustwa phisingowego, kt\u00f3rego dopu\u015bci\u0142a si\u0119 organizacja przest\u0119pcza Ilseong, kierowana przez Ma Seok Gu. Wykorzystuj\u0105c technologi\u0119 deepfake, Han So Min postanawia zem\u015bci\u0107 si\u0119 i zniszczy\u0107 Ilseong. Pomaga jej w tym detektyw Park Jeong Hun.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/10/no-mercy-header.jpg",
+      "genre": [
+        " krymina\u0142",
+        "thriller",
+        "akcja"
+      ],
+      "year": "2025",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d3174848-cd5a-4471-88c8-c0e3dcb4baf2"
+          ],
+          "episode": "1",
+          "episode_ID": "1145111"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d5444d1b-1a12-48e7-8402-9822f0b5c8c1"
+          ],
+          "episode": "2",
+          "episode_ID": "1145112"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/66622655-1053-4e70-bcb8-32473966987c"
+          ],
+          "episode": "3",
+          "episode_ID": "1145113"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/koreanska/no-way-out-the-roulette/",
       "title": "No Way Out: The Roulette",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/07/no-way-out-na-ikonka.jpg",
@@ -53897,9 +53957,13 @@
           "episode_ID": "12311110"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f8fbcdd7-f48b-4912-813c-244dd42e93a7"
+          ],
           "episode": "11",
           "episode_ID": "12311111"
         },
@@ -79833,6 +79897,87 @@
           ],
           "episode": "2",
           "episode_ID": "28542"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/walking-on-thin-ice/",
+      "title": "Walking on Thin Ice",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/09/WalkingOnThinIceKat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/09/WalkingOnThinIceKat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Walking on Thin Ice",
+      "title_ID": "125219",
+      "fanart": "",
+      "plot": "Lee Gyeong jest nauczycielem sztuki, kt\u00f3ry prowadzi zaj\u0119cia pozalekcyjne w gimnazjum, do kt\u00f3rego ucz\u0119szcza c\u00f3rka Kang Eun Su. To rzadki przypadek m\u0142odego m\u0119\u017cczyzny, kt\u00f3ry w dzisiejszych czasach wydaje si\u0119 idealny pod ka\u017cdym wzgl\u0119dem \u2013 od wygl\u0105du, przez osobowo\u015b\u0107, a\u017c po status materialny. Jednak noc\u0105 prowadzi podw\u00f3jne \u017cycie jako diler narkotyk\u00f3w, zaopatruj\u0105cy dzieci z presti\u017cowych rodzin w jednym z najs\u0142ynniejszych klub\u00f3w w Gangnam. W wyniku nieoczekiwanego zdarzenia Lee Gyeong zostaje partnerem Kang Eun Su i razem wpl\u0105tuj\u0105 si\u0119 w niebezpieczn\u0105 gr\u0119.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/09/WalkingOnThinIceHeader.jpg",
+      "genre": [
+        "thriller",
+        "krymina\u0142",
+        "suspense"
+      ],
+      "year": "2025",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7002a866-319e-452a-a1cb-78e999746b75"
+          ],
+          "episode": "1",
+          "episode_ID": "1252191"
+        },
+        {
+          "ep_title": "Odcinek 2 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a654ea37-f09c-4d5d-895d-8a842cca2486"
+          ],
+          "episode": "2",
+          "episode_ID": "1252192"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b76bc813-e714-41d9-8eea-12b31f67fcd1"
+          ],
+          "episode": "3",
+          "episode_ID": "1252193"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bcde0a87-6df0-4fe2-b700-870c7271f33d "
+          ],
+          "episode": "4",
+          "episode_ID": "1252194"
+        },
+        {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c80f27eb-3e51-4608-b8ce-ea32d25eda2b "
+          ],
+          "episode": "5",
+          "episode_ID": "1252195"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
