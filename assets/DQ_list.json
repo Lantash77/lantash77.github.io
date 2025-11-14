@@ -50630,6 +50630,13 @@
           "episode_ID": "1145114"
         },
         {
+          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "5",
+          "episode_ID": "1145115"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -54000,9 +54007,13 @@
           "episode_ID": "12311111"
         },
         {
-          "ep_title": "Odcinek 12 - FINA\u0141<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 12 - FINA\u0141",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9b1b9ac6-86f9-4b52-91e8-2c4ad9231ed7"
+          ],
           "episode": "12",
           "episode_ID": "12311112"
         }
@@ -68840,9 +68851,13 @@
           "episode_ID": "1108369"
         },
         {
-          "ep_title": "Odcinek 10 <img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 10 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ace39e55-f4f2-4abc-b4b5-101110791c1a"
+          ],
           "episode": "10",
           "episode_ID": "11083610"
         },
@@ -80039,9 +80054,13 @@
           "episode_ID": "1252196"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9ef09171-80bc-45b1-8a1c-864941a2cf37"
+          ],
           "episode": "7",
           "episode_ID": "1252197"
         },
@@ -94515,9 +94534,13 @@
           "episode_ID": "12019413"
         },
         {
-          "ep_title": "Odcinek 14<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 14",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ff4300ef-b808-4840-afc5-2c43427b27fe"
+          ],
           "episode": "14",
           "episode_ID": "12019414"
         },
@@ -117561,7 +117584,7 @@
     },
     "Adaptacja Powie\u015bci": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/adaptacja-powiesci/",
-      "gen_count": "55"
+      "gen_count": "56"
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
@@ -117617,7 +117640,7 @@
     },
     "Krymina\u0142": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kryminal/",
-      "gen_count": "111"
+      "gen_count": "112"
     },
     "Kulinarny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kulinarny/",
@@ -117633,7 +117656,7 @@
     },
     "Melodramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/melodramat/",
-      "gen_count": "118"
+      "gen_count": "119"
     },
     "Muzyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/muzyczny/",
@@ -117681,7 +117704,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "577"
+      "gen_count": "578"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -117717,7 +117740,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "216"
+      "gen_count": "217"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
