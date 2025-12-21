@@ -68989,9 +68989,13 @@
           "episode_ID": "11083610"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/27bbbb94-45bf-4179-9ee7-d41207c4ba6c"
+          ],
           "episode": "11",
           "episode_ID": "11083611"
         },
@@ -80243,7 +80247,7 @@
           "episode_ID": "12521911"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -93631,9 +93635,13 @@
           "episode_ID": "12478910"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1db40024-4339-4ad7-8fd3-c5b015f07359"
+          ],
           "episode": "11",
           "episode_ID": "12478911"
         },
@@ -105469,7 +105477,24 @@
           "episode_ID": "10885314"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 15<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "15",
+          "episode_ID": "10885315"
+        },
+        {
+          "ep_title": "Odcinek 16<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "16",
+          "episode_ID": "10885316"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -117889,7 +117914,7 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "231"
+      "gen_count": "232"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
@@ -117901,7 +117926,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "343"
+      "gen_count": "344"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -117977,7 +118002,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "579"
+      "gen_count": "580"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -118005,7 +118030,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "234"
+      "gen_count": "235"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
