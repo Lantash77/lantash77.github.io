@@ -13324,7 +13324,15 @@
           "episode_ID": "12301512"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 13",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/15404733-f748-4535-906a-45c6ad02a4e1"
+          ],
+          "episode": "13",
+          "episode_ID": "12301513"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -93662,7 +93670,15 @@
           "episode_ID": "12478911"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 12",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d445f337-7a5a-4b27-a66d-cef0d6c9f055"
+          ],
+          "episode": "12",
+          "episode_ID": "12478912"
         },
         {
           "ep_title": "Odcinek 13<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
@@ -105506,21 +105522,40 @@
           "episode_ID": "10885314"
         },
         {
-          "ep_title": "Odcinek 15<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/99187f5d-9636-4cc0-aee5-02c916922ac5"
+          ],
           "episode": "15",
           "episode_ID": "10885315"
         },
         {
-          "ep_title": "Odcinek 16<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4f0706f8-87c3-4aeb-953f-a84feb5a00f3"
+          ],
           "episode": "16",
           "episode_ID": "10885316"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 17<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "17",
+          "episode_ID": "10885317"
+        },
+        {
+          "ep_title": "Odcinek 18<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "18",
+          "episode_ID": "10885318"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -117911,7 +117946,7 @@
     },
     "Adaptacja Powie\u015bci": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/adaptacja-powiesci/",
-      "gen_count": "56"
+      "gen_count": "57"
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
@@ -117931,7 +117966,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "440"
+      "gen_count": "441"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -117947,7 +117982,7 @@
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
-      "gen_count": "83"
+      "gen_count": "84"
     },
     "Horror": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/horror/",
@@ -118031,7 +118066,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "580"
+      "gen_count": "581"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
@@ -118075,7 +118110,7 @@
     },
     "Wojenny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/wojenny/",
-      "gen_count": "9"
+      "gen_count": "10"
     },
     "Zwierz\u0119ta": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/zwierzeta/",
