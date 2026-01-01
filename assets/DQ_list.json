@@ -1008,7 +1008,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|//iframe.mediadelivery.net/embed/43012/a13bb11d-fcd0-4dd1-b555-10f213e091ff"
+            "dqplayer|ttps://iframe.mediadelivery.net/embed/43012/a13bb11d-fcd0-4dd1-b555-10f213e091ff"
           ],
           "episode": "8",
           "episode_ID": "1162648"
@@ -56563,7 +56563,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6e56b852-bac7-4751-ac38-b2f786c46e35"
+            "dqplayer| https://iframe.mediadelivery.net/embed/43012/6e56b852-bac7-4751-ac38-b2f786c46e35"
           ],
           "episode": "6",
           "episode_ID": "1193646"
@@ -58424,7 +58424,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/471ff0ac-75a9-489f-8644-d5e302852303"
+            "dqplayer| https://iframe.mediadelivery.net/embed/43012/471ff0ac-75a9-489f-8644-d5e302852303"
           ],
           "episode": "1",
           "episode_ID": "741281"
@@ -76762,7 +76762,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d2c1b7fa-f273-4c19-a960-9b155e6a588a"
+            "dqplayer| https://iframe.mediadelivery.net/embed/43012/d2c1b7fa-f273-4c19-a960-9b155e6a588a"
           ],
           "episode": "4",
           "episode_ID": "1015384"
@@ -76784,7 +76784,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8c9e6f27-a9b9-4d9a-9967-18b9594d5c3f"
+            "dqplayer| https://iframe.mediadelivery.net/embed/43012/8c9e6f27-a9b9-4d9a-9967-18b9594d5c3f"
           ],
           "episode": "6",
           "episode_ID": "1015386"
@@ -97650,7 +97650,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/885ae9d0-94de-4477-a787-15b0d538eefb"
+            "dqplayer| https://iframe.mediadelivery.net/embed/43012/885ae9d0-94de-4477-a787-15b0d538eefb"
           ],
           "episode": "1",
           "episode_ID": "880701"
@@ -106465,7 +106465,15 @@
           "episode_ID": "10164617"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 18",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/72bb2e1e-babf-4605-9424-7abaed1a0512"
+          ],
+          "episode": "18",
+          "episode_ID": "10164618"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -117985,11 +117993,11 @@
     },
     "Adaptacja Powie\u015bci": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/adaptacja-powiesci/",
-      "gen_count": "58"
+      "gen_count": "59"
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "189"
+      "gen_count": "190"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -118017,7 +118025,7 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "232"
+      "gen_count": "233"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
@@ -118093,7 +118101,7 @@
     },
     "Przygodowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/przygodowy/",
-      "gen_count": "27"
+      "gen_count": "28"
     },
     "Psychologiczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/psychologiczny/",
