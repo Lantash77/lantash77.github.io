@@ -93692,11 +93692,7 @@
           "episode_ID": "12478912"
         },
         {
-          "ep_title": "Odcinek 13<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
-          "episode": "13",
-          "episode_ID": "12478913"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 14<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
@@ -95201,6 +95197,9 @@
           ],
           "episode": "27",
           "episode_ID": "11070627"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -117997,7 +117996,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "190"
+      "gen_count": "191"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -118025,7 +118024,7 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "233"
+      "gen_count": "234"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
@@ -118033,15 +118032,15 @@
     },
     "Horror": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/horror/",
-      "gen_count": "64"
+      "gen_count": "65"
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "345"
+      "gen_count": "347"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
-      "gen_count": "125"
+      "gen_count": "126"
     },
     "kostiumowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/kostiumowy/",
@@ -118073,7 +118072,7 @@
     },
     "M\u0142odzie\u017cowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/mlodziezowy/",
-      "gen_count": "118"
+      "gen_count": "119"
     },
     "Obyczajowy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/obyczajowy/",
@@ -118113,11 +118112,11 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "582"
+      "gen_count": "584"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
-      "gen_count": "34"
+      "gen_count": "35"
     },
     "Sensacyjny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/sensacyjny/",
@@ -118125,7 +118124,7 @@
     },
     "Special Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/special-drama/",
-      "gen_count": "26"
+      "gen_count": "27"
     },
     "Sport": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/sport/",
@@ -118141,7 +118140,7 @@
     },
     "Tajemnice": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/tajemnice/",
-      "gen_count": "236"
+      "gen_count": "237"
     },
     "Taneczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/taneczny/",
@@ -118149,11 +118148,11 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "221"
+      "gen_count": "222"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
-      "gen_count": "87"
+      "gen_count": "88"
     },
     "Wojenny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/wojenny/",
