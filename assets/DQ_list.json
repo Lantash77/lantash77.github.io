@@ -8444,6 +8444,13 @@
           "episode_ID": "1237306"
         },
         {
+          "ep_title": "Odcinek 7<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "1237307"
+        },
+        {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
@@ -94878,6 +94885,13 @@
           "episode_ID": "12019417"
         },
         {
+          "ep_title": "Odcinek 18<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "18",
+          "episode_ID": "12019418"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -95199,7 +95213,15 @@
           "episode_ID": "11070627"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 28",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/87bfe65f-e05f-496a-9fb5-f9d2d20e9e8d"
+          ],
+          "episode": "28",
+          "episode_ID": "11070628"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -105591,6 +105613,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -117996,7 +118021,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "191"
+      "gen_count": "192"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -118112,7 +118137,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "584"
+      "gen_count": "585"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
