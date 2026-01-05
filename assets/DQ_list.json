@@ -1008,7 +1008,7 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|ttps://iframe.mediadelivery.net/embed/43012/a13bb11d-fcd0-4dd1-b555-10f213e091ff"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a13bb11d-fcd0-4dd1-b555-10f213e091ff"
           ],
           "episode": "8",
           "episode_ID": "1162648"
@@ -8444,9 +8444,13 @@
           "episode_ID": "1237306"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/7c16de73-73b1-401d-b1a2-521a3f4b3581"
+          ],
           "episode": "7",
           "episode_ID": "1237307"
         },
@@ -13343,6 +13347,9 @@
           ],
           "episode": "13",
           "episode_ID": "12301513"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -94893,9 +94900,13 @@
           "episode_ID": "12019417"
         },
         {
-          "ep_title": "Odcinek 18<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 18",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c000e421-5621-41aa-bc86-3a123d9ca3f3"
+          ],
           "episode": "18",
           "episode_ID": "12019418"
         },
@@ -105606,9 +105617,13 @@
           "episode_ID": "10885316"
         },
         {
-          "ep_title": "Odcinek 17<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 17",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9d696779-7061-4778-859b-1422cc4dfa5e"
+          ],
           "episode": "17",
           "episode_ID": "10885317"
         },
