@@ -8475,6 +8475,9 @@
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -93748,11 +93751,7 @@
           "episode_ID": "12478913"
         },
         {
-          "ep_title": "Odcinek 14<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
-          "episode": "14",
-          "episode_ID": "12478914"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 15<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
@@ -105673,7 +105672,11 @@
           "episode_ID": "10885319"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 20<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "20",
+          "episode_ID": "10885320"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -118118,11 +118121,11 @@
     },
     "Fantasy": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/fantasy/",
-      "gen_count": "234"
+      "gen_count": "235"
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
-      "gen_count": "84"
+      "gen_count": "85"
     },
     "Horror": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/horror/",
@@ -118130,7 +118133,7 @@
     },
     "Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia/",
-      "gen_count": "347"
+      "gen_count": "348"
     },
     "Komedia Romantyczna": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/komedia-romantyczna/",
@@ -118206,7 +118209,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "586"
+      "gen_count": "587"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
