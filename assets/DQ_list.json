@@ -8455,16 +8455,24 @@
           "episode_ID": "1237307"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f6879e5d-589c-4cc5-9eeb-713cc385970b"
+          ],
           "episode": "8",
           "episode_ID": "1237308"
         },
         {
-          "ep_title": "Odcinek 9<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b28602c0-2386-459e-bb1e-1c649e5e7c91"
+          ],
           "episode": "9",
           "episode_ID": "1237309"
         },
@@ -105676,9 +105684,13 @@
           "episode_ID": "10885317"
         },
         {
-          "ep_title": "Odcinek 18<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 18",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/48be0733-1311-4333-9d7b-8b09b106775d"
+          ],
           "episode": "18",
           "episode_ID": "10885318"
         },
