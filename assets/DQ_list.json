@@ -35987,6 +35987,17 @@
           "episode_ID": "1145196"
         },
         {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/086fe993-1be2-4636-bb8e-3ea8c246cc07"
+          ],
+          "episode": "7",
+          "episode_ID": "1145197"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -93781,7 +93792,15 @@
           "episode_ID": "12478914"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4ff94ee9-8475-420b-abb1-34e6be841257"
+          ],
+          "episode": "15",
+          "episode_ID": "12478915"
         },
         {
           "ep_title": "Odcinek 16<img decoding=\"async\" class=\"alignnone size-full wp-image-43540\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" />",
@@ -107790,6 +107809,9 @@
           ],
           "episode": "37",
           "episode_ID": "10782637"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
