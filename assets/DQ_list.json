@@ -93842,9 +93842,13 @@
           "episode_ID": "12478915"
         },
         {
-          "ep_title": "Odcinek 16<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 16",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/623b2c62-ced8-42af-b4c4-f54ec451259b"
+          ],
           "episode": "16",
           "episode_ID": "12478916"
         },
