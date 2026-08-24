@@ -1332,9 +1332,6 @@
       ]
     },
     {
-      "error": "<Response [404]>"
-    },
-    {
       "link": "https://www.dramaqueen.pl/drama/koreanska/a-business-proposal/",
       "title": "A Business Proposal",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2022/02/A-Business-Proposal-ikonka.jpg",
@@ -16869,6 +16866,17 @@
           "episode_ID": "1257685"
         },
         {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2b1fdd21-abe5-4e47-bb91-7fbe493336ff"
+          ],
+          "episode": "6",
+          "episode_ID": "1257686"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -24672,23 +24680,21 @@
       ]
     },
     {
-      "link": "https://www.dramaqueen.pl/drama/koreanska/first-love-again/",
+      "link": "https://www.dramaqueen.pl/drama/koreanska/filing-for-love/",
       "title": "Filing for Love",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/04/FilingForLovekat.jpg",
       "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/04/FilingForLovekat.jpg",
       "type": "drama",
       "tvshowtitle": "Filing for Love",
-      "title_ID": "101492",
+      "title_ID": "128086",
       "fanart": "",
-      "plot": "<strong>Aktorzy idole: </strong>W dramie gra piosenkarka Jung Hyun Ji.",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2022/03/first-love-again-header.jpg",
+      "plot": "W pot\u0119\u017cnym konglomeracie Grupy Haemu rz\u0105dz\u0105 pieni\u0105dze, wp\u0142ywy i sekrety. Na ich tropie stoi Joo In A, najm\u0142odsza dyrektorka w historii firmy i bezlitosna szefowa dzia\u0142u audytu. Perfekcjonistka do granic mo\u017cliwo\u015bci, nie uznaje kompromis\u00f3w, a ka\u017cdy, kto trafi na jej celownik, mo\u017ce po\u017cegna\u0107 si\u0119 z karier\u0105. W pracy jest jak huragan: zimna, precyzyjna i nie do zatrzymania. Po drugiej stronie barykady stoi No Ki Joon, kiedy\u015b gwiazda elitarnego zespo\u0142u audytu, dzi\u015b zdegradowany do dzia\u0142u, kt\u00f3ry zajmuje si\u0119 najbrudniejszymi skandalami firmy. A wszystko przez In A. To w\u0142a\u015bnie ona bez mrugni\u0119cia okiem zniszczy\u0142a jego idealnie pouk\u0142adane \u017cycie zawodowe. Teraz Ki Joon tonie w drobnych aferach i absurdalnych \u015bledztwach, marz\u0105c, by si\u0119 odegra\u0107. Kiedy dostaje anonimowy donos o rzekomym romansie In A, widzi w tym idealn\u0105 okazj\u0119 do zemsty. Zaczyna \u015bledztwo pe\u0142ne dwuznacznych sytuacji, napi\u0119cia i biurowych gierek, ale im g\u0142\u0119biej wchodzi w jej \u015bwiat, tym bardziej wszystko wymyka si\u0119 spod kontroli. Bo kiedy w gr\u0119 wchodz\u0105 emocje, nawet najlepiej zaplanowana zemsta potrafi si\u0119 rozsypa\u0107.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/04/FilingFor-Loveheader.jpg",
       "genre": [
-        "LGBT+",
-        "web drama",
-        "romans",
-        "fantasy"
+        "komedia",
+        "romans"
       ],
-      "year": "2022",
+      "year": "2026",
       "episodes": [
         {
           "ep_title": "Odcinek 1",
@@ -24696,10 +24702,10 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/99f8f2da-b2dc-4847-b140-bd379fce4359"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/951db699-46ed-4ff6-9c71-c0361a57a62c"
           ],
           "episode": "1",
-          "episode_ID": "1014921"
+          "episode_ID": "1280861"
         },
         {
           "ep_title": "Odcinek 2",
@@ -24707,10 +24713,10 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a835e2a0-7651-4bff-81f5-8fa2fe89d746"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ede1c04b-a2f4-4acb-809e-2146303931b6"
           ],
           "episode": "2",
-          "episode_ID": "1014922"
+          "episode_ID": "1280862"
         },
         {
           "ep_title": "Odcinek 3",
@@ -24718,10 +24724,10 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0cd7b521-18e0-4557-80a6-f66f33bccf49"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8406d5d1-42cb-47ea-a791-ef3f1cadd8de"
           ],
           "episode": "3",
-          "episode_ID": "1014923"
+          "episode_ID": "1280863"
         },
         {
           "ep_title": "Odcinek 4",
@@ -24729,10 +24735,10 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9ada42a4-f8d2-4bca-90e7-e04e126c686f"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1a61ef46-6c3c-40f6-94f3-041bf510bb69"
           ],
           "episode": "4",
-          "episode_ID": "1014924"
+          "episode_ID": "1280864"
         },
         {
           "ep_title": "Odcinek 5",
@@ -24740,10 +24746,10 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/83c5e1e7-07bd-488d-bd10-b01d83c65cda"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ceb73777-6a97-4cba-be0a-fa04b8812bc3"
           ],
           "episode": "5",
-          "episode_ID": "1014925"
+          "episode_ID": "1280865"
         },
         {
           "ep_title": "Odcinek 6",
@@ -24751,10 +24757,13 @@
             "DQ-Player"
           ],
           "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bfe41b34-10ab-4c39-9ff6-94b034c72b2e"
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0c6fc6e7-286a-48aa-a119-b658f07526a4"
           ],
           "episode": "6",
-          "episode_ID": "1014926"
+          "episode_ID": "1280866"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -25096,14 +25105,10 @@
           "episode_ID": "1293113"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 5<strong>Premiera w Korei: 21.08.2026 r.</strong>",
-          "players": [],
-          "links": [],
-          "episode": "5",
-          "episode_ID": "1293115"
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -29187,6 +29192,17 @@
           "episode_ID": "1267013"
         },
         {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0cf26c54-6ace-40c5-9937-e47e1e5129b6"
+          ],
+          "episode": "4",
+          "episode_ID": "1267014"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -30693,11 +30709,7 @@
           "episode_ID": "1292845"
         },
         {
-          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "6",
-          "episode_ID": "1292846"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
@@ -47620,204 +47632,7 @@
         }
       ]
     },
-    {
-      "link": "https://www.dramaqueen.pl/drama/koreanska/my-country/",
-      "title": "My Country",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/04/MyCountrykat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/04/MyCountrykat.jpg",
-      "type": "drama",
-      "tvshowtitle": "My Country",
-      "title_ID": "69600",
-      "fanart": "",
-      "plot": "Dw\u00f3ch przyjaci\u00f3\u0142 skierowa\u0142o swoje miecze przeciwko sobie w wyniku r\u00f3\u017cnicy zda\u0144 na temat swojego kraju. Seo Hwi jest wojownikiem. Jego ojciec, Seo Geom, jest znanym dow\u00f3dc\u0105. Gdy w gr\u0119 wchodzi niesprawiedliwo\u015b\u0107, Seo Hwi nie idzie na kompromisy. Nam Sun Ho jest inteligentnym i utalentowanym m\u0142odym cz\u0142owiekiem. Z racji tego, \u017ce jego matka urodzi\u0142a si\u0119 w ni\u017cszej klasie, nie ma on poparcia w\u015br\u00f3d innych. Ch\u0142opak postanawia zdawa\u0107 egzamin ze s\u0142u\u017cby wojskowej. Rywalizuje przy tym ze swoim przyjacielem. Niestety, z powodu nieporozumienia wchodzi w konflikt z Seo Hwim. Jak potocz\u0105 si\u0119 losy dw\u00f3jki przyjaci\u00f3\u0142?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2019/10/MyCountryheader.jpg",
-      "genre": [
-        "historyczna",
-        "akcja",
-        "romans",
-        "dramat",
-        "kostiumowy"
-      ],
-      "year": "2019",
-      "episodes": [
-        {
-          "ep_title": "Odcinek 1",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/495905ab-ec7a-4287-804f-6741553d3604"
-          ],
-          "episode": "1",
-          "episode_ID": "696001"
-        },
-        {
-          "ep_title": "Odcinek 2",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e2dd75c8-4adb-494c-bd51-20550f90371f"
-          ],
-          "episode": "2",
-          "episode_ID": "696002"
-        },
-        {
-          "ep_title": "Odcinek 3",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ae7f1fe5-e57d-414a-8bd8-009110e0bd19"
-          ],
-          "episode": "3",
-          "episode_ID": "696003"
-        },
-        {
-          "ep_title": "Odcinek 4",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f10b696a-6512-4611-8d60-a904e23b5510"
-          ],
-          "episode": "4",
-          "episode_ID": "696004"
-        },
-        {
-          "ep_title": "Odcinek 5",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9fbf9edb-7f5b-4294-96a5-ecb8ac9ff921"
-          ],
-          "episode": "5",
-          "episode_ID": "696005"
-        },
-        {
-          "ep_title": "Odcinek 6",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/32e2255a-f996-45d9-8b61-e397466a7be4"
-          ],
-          "episode": "6",
-          "episode_ID": "696006"
-        },
-        {
-          "ep_title": "Odcinek 7",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/be262732-9e4a-4782-bc2a-5ab29d7c126c"
-          ],
-          "episode": "7",
-          "episode_ID": "696007"
-        },
-        {
-          "ep_title": "Odcinek 8",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2de1ddd9-a018-4935-a722-fc66d819d1fe"
-          ],
-          "episode": "8",
-          "episode_ID": "696008"
-        },
-        {
-          "ep_title": "Odcinek 9",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/69fb131c-058e-497e-9f30-1556a8efa3d6"
-          ],
-          "episode": "9",
-          "episode_ID": "696009"
-        },
-        {
-          "ep_title": "Odcinek 10",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a559ee1a-0aaa-4960-a93d-896a4f07db73"
-          ],
-          "episode": "10",
-          "episode_ID": "6960010"
-        },
-        {
-          "ep_title": "Odcinek 11",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/88466b16-9791-4b5f-a6b3-cef1cbe4e38e"
-          ],
-          "episode": "11",
-          "episode_ID": "6960011"
-        },
-        {
-          "ep_title": "Odcinek 12",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/abad20bf-2c5e-4fa1-9494-df86a1bc2907"
-          ],
-          "episode": "12",
-          "episode_ID": "6960012"
-        },
-        {
-          "ep_title": "Odcinek 13",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d03d883b-588f-4576-b7a4-5159bd30420e"
-          ],
-          "episode": "13",
-          "episode_ID": "6960013"
-        },
-        {
-          "ep_title": "Odcinek 14",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f092a44a-4742-443f-8ac7-dcc7738309a6"
-          ],
-          "episode": "14",
-          "episode_ID": "6960014"
-        },
-        {
-          "ep_title": "Odcinek 15",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/782785f7-b6b1-4479-a242-a4fdcdf4da9e"
-          ],
-          "episode": "15",
-          "episode_ID": "6960015"
-        },
-        {
-          "ep_title": "Odcinek 16 - Fina\u0142",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/dceeedb1-cf11-4400-83dc-ea34667d954f"
-          ],
-          "episode": "16",
-          "episode_ID": "6960016"
-        }
-      ]
-    },
+    null,
     {
       "link": "https://www.dramaqueen.pl/drama/koreanska/my-fellow-citizens/",
       "title": "My Fellow Citizens",
@@ -63222,7 +63037,15 @@
           "episode_ID": "12285222"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 23",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d7300caa-ed61-4708-abec-80cbf50c9f9a"
+          ],
+          "episode": "23",
+          "episode_ID": "12285223"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -67745,6 +67568,36 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/the-affair-was-just-the-beginning/",
+      "title": "The Affair Was Just the Beginning",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/08/The-Affair-Was-Just-the-Beginning-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/08/The-Affair-Was-Just-the-Beginning-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "The Affair Was Just the Beginning",
+      "title_ID": "129746",
+      "fanart": "",
+      "plot": "Gyeong Hui to influencerka i w\u0142a\u015bcicielka firmy uwielbiana za wykreowanie w mediach spo\u0142eczno\u015bciowych idealnego wizerunku swojej rodziny. Pewnego dnia, po us\u0142yszeniu plotek, \u017ce jej m\u0105\u017c, aktor Jae Hong, ma romans, postanawia go \u015bledzi\u0107. Na swoje nieszcz\u0119\u015bcie odkrywa, \u017ce m\u0105\u017c pr\u00f3buje w\u0142a\u015bnie pozby\u0107 si\u0119 zw\u0142ok osoby, kt\u00f3r\u0105 rzekomo zabi\u0142a ich c\u00f3rka. By zatuszowa\u0107 wypadek i chroni\u0107 karier\u0119 oraz rodzin\u0119, zakopuj\u0105 cia\u0142o w ogrodzie swojej rezydencji. Jednak tej samej nocy otrzymuj\u0105 anonimow\u0105 wiadomo\u015b\u0107, \u017ce kto\u015b wszystko nagra\u0142. Od teraz musz\u0105 zacz\u0105\u0107 porusza\u0107 si\u0119 w sieci szanta\u017cu i oszustw, pr\u00f3buj\u0105c uporz\u0105dkowa\u0107 swoje \u017cycie.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/08/The-Affair-Was-Just-the-Beginning-header.jpg",
+      "genre": [
+        "thriller",
+        "dramat,",
+        "krymina\u0142"
+      ],
+      "year": "2026",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "1",
+          "episode_ID": "1297461"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/koreanska/the-best-ending/",
       "title": "The Best Ending",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/11/2YLTx.jpg",
@@ -71284,16 +71137,24 @@
           "episode_ID": "12899710"
         },
         {
-          "ep_title": "Odcinek 11<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/722e50ae-f9fa-4acb-8c98-57236cbc3b91"
+          ],
           "episode": "11",
           "episode_ID": "12899711"
         },
         {
-          "ep_title": "Odcinek 12 - Fina\u0142<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 12 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/43fd4ac8-9ada-42e5-9ff8-1993a8f87dcf"
+          ],
           "episode": "12",
           "episode_ID": "12899712"
         }
@@ -95672,6 +95533,9 @@
           "episode_ID": "12478930"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -96866,9 +96730,13 @@
           "episode_ID": "12019425"
         },
         {
-          "ep_title": "Odcinek 26<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 26",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1afddd90-2ae0-4a64-a325-6fc41dfa0f10"
+          ],
           "episode": "26",
           "episode_ID": "12019426"
         },
@@ -108644,7 +108512,15 @@
           "episode_ID": "10885326"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 27",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/25738a1f-5111-4efe-8894-85706505f390"
+          ],
+          "episode": "27",
+          "episode_ID": "10885327"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -117243,36 +117119,7 @@
         }
       ]
     },
-    {
-      "link": "https://www.dramaqueen.pl/film/koreanski/wonderful-radio/",
-      "title": "Wonderful Radio",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/wonderfulRadiokat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/wonderfulRadiokat.jpg",
-      "type": "movie",
-      "title_ID": "7804",
-      "fanart": "",
-      "plot": "Jin A jest by\u0142\u0105 cz\u0142onkini\u0105 zespo\u0142u Purple, kt\u00f3ry za czas\u00f3w swojego istnienia by\u0142 bardzo popularny. Obecnie kobieta prowadzi audycj\u0119 radiow\u0105, kt\u00f3ra nazywa si\u0119 &#8222;Wonderful Radio\", jednak\u017ce program nie cieszy si\u0119 popularno\u015bci\u0105. Jin A stworzy\u0142a i produkowa\u0142a ten program od pocz\u0105tku, jednak pewnego dnia ma j\u0105 zast\u0105pi\u0107 Lee Jae Ik. Kobieta nie mo\u017ce si\u0119 pogodzi\u0107 z tym faktem. Czy Jin A ocali sw\u00f3j program, a mo\u017ce b\u0119dzie w stanie stan\u0105\u0107 jeszcze na wielkiej scenie i za\u015bpiewa\u0107?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/WonderfulRadioheader.jpg",
-      "genre": [
-        "muzyczny",
-        "romans",
-        "dramat"
-      ],
-      "year": "2012",
-      "episodes": [
-        {
-          "ep_title": "Film",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bdb7defe-ba95-4577-817b-42500fc3ce10"
-          ],
-          "episode": "1",
-          "episode_ID": "78041"
-        }
-      ]
-    },
+    null,
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/yongsoon/",
       "title": "Yongsoon",
