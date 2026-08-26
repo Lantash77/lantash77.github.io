@@ -12313,7 +12313,137 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/chief-detective-1958/",
+      "title": "Chief Detective 1958",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/04/chiefdetectivekat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2024/04/chiefdetectivekat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Chief Detective 1958",
+      "title_ID": "116594",
+      "fanart": "",
+      "plot": "Detektyw Park Young Han z Hwangcheon specjalizuje si\u0119 w zatrzymywaniu drobnych z\u0142odziei. Wraz zespo\u0142em trzech wyj\u0105tkowych koleg\u00f3w z komisariatu policji Jongnam w Seulu zaczyna walk\u0119 z korupcj\u0105 na szczytach w\u0142adzy, a jednocze\u015bnie pozostaje detektywem, dla kt\u00f3rego zwykli obywatele i ich sprawy s\u0105 najwa\u017cniejsze.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2024/04/chiefdetectiveheader.jpg",
+      "genre": [
+        "akcja",
+        "thriller",
+        "komedia",
+        "tajemnice"
+      ],
+      "year": "2024",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ac1eae49-361d-4a34-8f37-d374631a9558"
+          ],
+          "episode": "1",
+          "episode_ID": "1165941"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fb2d0413-93a2-45f6-a892-1c6d54df9a3c"
+          ],
+          "episode": "2",
+          "episode_ID": "1165942"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c3001da8-4bea-40d7-8f48-2209ab1c1b2e"
+          ],
+          "episode": "3",
+          "episode_ID": "1165943"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/353e88f5-e60c-460a-b496-035250d40d33"
+          ],
+          "episode": "4",
+          "episode_ID": "1165944"
+        },
+        {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fe6deb5d-a7b2-4540-801e-6245f0aad0f0"
+          ],
+          "episode": "5",
+          "episode_ID": "1165945"
+        },
+        {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0a7e6f19-4eac-4813-8080-7ad069278af7"
+          ],
+          "episode": "6",
+          "episode_ID": "1165946"
+        },
+        {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/04683a00-d3d8-4454-96ec-f4998d278f7d"
+          ],
+          "episode": "7",
+          "episode_ID": "1165947"
+        },
+        {
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/859e6c1e-1678-41e6-8a7b-68f01fd931f9"
+          ],
+          "episode": "8",
+          "episode_ID": "1165948"
+        },
+        {
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6c339736-40a4-4a26-9fcb-57cbe49f8bb3"
+          ],
+          "episode": "9",
+          "episode_ID": "1165949"
+        },
+        {
+          "ep_title": "Odcinek 10 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9cb6e24f-b22e-45fb-8410-28f952141ba5"
+          ],
+          "episode": "10",
+          "episode_ID": "11659410"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/drama/koreanska/chip-in/",
       "title": "Chip-In",
@@ -24975,7 +25105,15 @@
           "episode_ID": "1293113"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bc86113e-654c-4dd7-9cc8-88f6d803b561?"
+          ],
+          "episode": "4",
+          "episode_ID": "1293114"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -30579,14 +30717,14 @@
           "episode_ID": "1292845"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
-        },
-        {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
           "players": [],
           "links": [],
-          "episode": "7",
-          "episode_ID": "1292847"
+          "episode": "6",
+          "episode_ID": "1292846"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -77535,7 +77673,84 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/time-between-dog-and-wolf/",
+      "title": "Time Between Dog and Wolf",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/01/time-between-dog-and-wolf-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/01/time-between-dog-and-wolf-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "Time Between Dog and Wolf",
+      "title_ID": "126721",
+      "fanart": "",
+      "plot": "Lee Soo Hyun jako dziecko jest \u015bwiadkiem brutalnej \u015bmierci swojej matki z r\u0105k tajlandzkiej mafii. Osierocony zostaje adoptowany przez agenta Narodowej S\u0142u\u017cby Wywiadu i dorasta wraz z jego synem. Lata p\u00f3\u017aniej sam zostaje agentem, jednak trauma z przesz\u0142o\u015bci wci\u0105\u017c go prze\u015bladuje.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/01/time-between-dog-and-wolf-header.jpg",
+      "genre": [
+        "akcja",
+        "romans",
+        "dramat"
+      ],
+      "year": "2007",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5339aab1-f82e-4144-a13e-566ed23c94be"
+          ],
+          "episode": "1",
+          "episode_ID": "1267211"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/46e8df22-a768-4561-8905-526a9b71c80c"
+          ],
+          "episode": "2",
+          "episode_ID": "1267212"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d9f62795-3285-4222-8cb6-a295dd02ed61"
+          ],
+          "episode": "3",
+          "episode_ID": "1267213"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ffa25bfe-e23b-49fc-803d-1f133b0c3857"
+          ],
+          "episode": "4",
+          "episode_ID": "1267214"
+        },
+        {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/642360cb-3fe8-4c51-9021-9876dd0f82f1"
+          ],
+          "episode": "5",
+          "episode_ID": "1267215"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/drama/koreanska/to-be-continued/",
       "title": "To Be Continued",
@@ -114201,7 +114416,36 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/film/koreanski/my-paparotti/",
+      "title": "My Paparotti",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/02/myPaparottiKat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/02/myPaparottiKat.jpg",
+      "type": "movie",
+      "title_ID": "50705",
+      "fanart": "",
+      "plot": "127 min.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/02/myPaparottiheader.jpg",
+      "genre": [
+        "muzyczny",
+        "szkolny",
+        "dramat"
+      ],
+      "year": "2013",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9b7ef115-bb8b-4732-99c9-e20f81313546"
+          ],
+          "episode": "1",
+          "episode_ID": "507051"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/my-perfect-roommate/",
       "title": "My Perfect Roommate",
