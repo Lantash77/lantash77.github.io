@@ -62780,7 +62780,15 @@
           "episode_ID": "1022078"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2308cdf5-38ad-45cd-bd2d-6742eda0b7fa?"
+          ],
+          "episode": "9",
+          "episode_ID": "1022079"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -119357,37 +119365,7 @@
         }
       ]
     },
-    {
-      "link": "https://www.dramaqueen.pl/film/japonski/no-longer-human/",
-      "title": "No Longer Human",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/nolongerhuman_kat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/nolongerhuman_kat.jpg",
-      "type": "movie",
-      "title_ID": "85057",
-      "fanart": "",
-      "plot": "Osamu Dazai, znany japo\u0144ski powie\u015bciopisarz, mieszka w Tokio wraz z \u017con\u0105 Michiko oraz ich dzie\u0107mi. M\u0119\u017cczyzna nie stroni od alkoholu oraz kobiet, przy czym stale szuka nowych dozna\u0144, kt\u00f3re maj\u0105 pom\u00f3c mu w napisaniu powie\u015bci okre\u015blanej mianem prawdziwego dzie\u0142a sztuki. Niezdolno\u015b\u0107 do \u017cycia ma\u0142\u017ce\u0144skiego i fascynacja \u015bmierci\u0105 nieuchronnie prowadz\u0105 go do samozniszczenia. Czy dzi\u0119ki romansom z kobietami, kt\u00f3re spotka na swej drodze, Dazai stworzy upragnione dzie\u0142o sztuki?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/nolongerhuman_head.jpg",
-      "genre": [
-        "dramat,",
-        "biograficzny",
-        "psychologiczny",
-        "okruchy \u017cycia"
-      ],
-      "year": "2019",
-      "episodes": [
-        {
-          "ep_title": "Film",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ade5662a-dffd-465f-b245-c22e8a160821"
-          ],
-          "episode": "1",
-          "episode_ID": "850571"
-        }
-      ]
-    },
+    null,
     {
       "link": "https://www.dramaqueen.pl/film/japonski/omoi-omoware-furi-furare/",
       "title": "Omoi, Omoware, Furi, Furare",
