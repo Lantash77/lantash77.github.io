@@ -30728,9 +30728,13 @@
           "episode_ID": "1292846"
         },
         {
-          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/abb836b6-2fa4-4f25-bee4-ec487224d41a"
+          ],
           "episode": "7",
           "episode_ID": "1292847"
         },
@@ -67807,11 +67811,14 @@
       "year": "2026",
       "episodes": [
         {
-          "ep_title": "Odcinek 1<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
           "players": [],
           "links": [],
-          "episode": "1",
-          "episode_ID": "1297461"
+          "episode": "2",
+          "episode_ID": "1297462"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -95754,9 +95761,13 @@
           "episode_ID": "12478930"
         },
         {
-          "ep_title": "Odcinek 31<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 31",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/8bd18030-8585-42c8-840e-56d0cdffe917"
+          ],
           "episode": "31",
           "episode_ID": "12478931"
         },
@@ -119365,7 +119376,37 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/film/japonski/no-longer-human/",
+      "title": "No Longer Human",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/nolongerhuman_kat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/nolongerhuman_kat.jpg",
+      "type": "movie",
+      "title_ID": "85057",
+      "fanart": "",
+      "plot": "Osamu Dazai, znany japo\u0144ski powie\u015bciopisarz, mieszka w Tokio wraz z \u017con\u0105 Michiko oraz ich dzie\u0107mi. M\u0119\u017cczyzna nie stroni od alkoholu oraz kobiet, przy czym stale szuka nowych dozna\u0144, kt\u00f3re maj\u0105 pom\u00f3c mu w napisaniu powie\u015bci okre\u015blanej mianem prawdziwego dzie\u0142a sztuki. Niezdolno\u015b\u0107 do \u017cycia ma\u0142\u017ce\u0144skiego i fascynacja \u015bmierci\u0105 nieuchronnie prowadz\u0105 go do samozniszczenia. Czy dzi\u0119ki romansom z kobietami, kt\u00f3re spotka na swej drodze, Dazai stworzy upragnione dzie\u0142o sztuki?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/nolongerhuman_head.jpg",
+      "genre": [
+        "dramat,",
+        "biograficzny",
+        "psychologiczny",
+        "okruchy \u017cycia"
+      ],
+      "year": "2019",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ade5662a-dffd-465f-b245-c22e8a160821"
+          ],
+          "episode": "1",
+          "episode_ID": "850571"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/film/japonski/omoi-omoware-furi-furare/",
       "title": "Omoi, Omoware, Furi, Furare",
