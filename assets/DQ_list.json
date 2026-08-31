@@ -67824,11 +67824,7 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "Odcinek 3<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "3",
-          "episode_ID": "1297463"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -121410,34 +121406,7 @@
         }
       ]
     },
-    {
-      "link": "https://www.dramaqueen.pl/film/pozostale/hello-stranger/",
-      "title": "Hello Stranger",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/07/hellostrangerkat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2019/07/hellostrangerkat.jpg",
-      "type": "movie",
-      "title_ID": "8939",
-      "fanart": "",
-      "plot": "Podczas festiwalu Songkran w Tajlandii, m\u0119\u017cczyzna przy\u0142\u0105cza si\u0119 do wycieczki, zmierzaj\u0105cej do Korei. Niestety m\u0119\u017cczyzna gubi si\u0119 i od\u0142\u0105cza od swojej grupy. W\u0142a\u015bnie w taki spos\u00f3b zostaje uwi\u0119ziony w obcym kraju. To jego pierwszy wyjazd za granic\u0119 i znaj\u0105c jedynie podstawy j\u0119zyka angielskiego, zaczepia Tajk\u0119. Kiedy dziewczyna zrywa przez telefon ze swoim ch\u0142opakiem, kt\u00f3ry ma obsesj\u0119 na punkcie kontroli, postanawia uda\u0107 si\u0119 na wie\u015b. Dziewczyna zabiera ze sob\u0105 nowo poznanego ch\u0142opaka i ruszaj\u0105 na wesele przyjaci\u00f3\u0142ki dziewczyny. Postanawiaj\u0105 nie zdradza\u0107 swoich imion, tylko pos\u0142ugiwa\u0107 si\u0119 pseudonimami. Jak sko\u0144czy si\u0119 ich wsp\u00f3lna podr\u00f3\u017c?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2019/07/hellostrangerheader.jpg",
-      "genre": [
-        "komedia romantyczna"
-      ],
-      "year": "2010",
-      "episodes": [
-        {
-          "ep_title": "Film",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c14e31a0-9d30-45b1-a405-3e4008de7c87"
-          ],
-          "episode": "1",
-          "episode_ID": "89391"
-        }
-      ]
-    },
+    null,
     {
       "link": "https://www.dramaqueen.pl/film/pozostale/how-long-will-i-love-u/",
       "title": "How Long Will I Love U",
@@ -122647,7 +122616,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "443"
+      "gen_count": "444"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -122695,7 +122664,7 @@
     },
     "Medyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/medyczny/",
-      "gen_count": "23"
+      "gen_count": "24"
     },
     "Melodramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/melodramat/",
@@ -122747,7 +122716,7 @@
     },
     "Romans": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/romans/",
-      "gen_count": "592"
+      "gen_count": "593"
     },
     "Science-Fiction": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/science-fiction/",
