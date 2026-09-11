@@ -67862,11 +67862,7 @@
           "episode_ID": "1297463"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "4",
-          "episode_ID": "1297464"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
@@ -67874,6 +67870,13 @@
           "links": [],
           "episode": "5",
           "episode_ID": "1297465"
+        },
+        {
+          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "6",
+          "episode_ID": "1297466"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -113594,36 +113597,7 @@
         }
       ]
     },
-    {
-      "link": "https://www.dramaqueen.pl/film/koreanski/king-and-the-clown/",
-      "title": "King and the Clown",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/KingAndTheClownkat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/KingAndTheClownkat.jpg",
-      "type": "movie",
-      "title_ID": "28576",
-      "fanart": "",
-      "plot": "Pewny siebie Jang Seng i cichy Gong Gil, dw\u00f3ch ulicznych artyst\u00f3w z pa\u0144stwa Joseon, udaje si\u0119 do stolicy kraju. Na miejscu do\u0142\u0105czaj\u0105 do grupy artystycznej i wsp\u00f3lnie tworz\u0105 coraz to \u015bmielsze wyst\u0119py, pe\u0142ne spro\u015bnego humoru i przebieranek. Zostaj\u0105 jednak przy\u0142apani na wy\u015bmiewaniu samego kr\u00f3la i aresztowani. Dostaj\u0105 ostatni\u0105 szans\u0119 uratowania si\u0119 przed \u015bmierci\u0105 \u2013 musz\u0105 roz\u015bmieszy\u0107 w\u0142adc\u0119. Kiedy arty\u015bci trac\u0105 ju\u017c nadziej\u0119, kr\u00f3l, rozbawiony ich wyst\u0119pem, oferuje im lokum w swoim pa\u0142acu. Wkr\u00f3tce okazuje si\u0119, \u017ce w\u0142adca pa\u0144stwa Joseon jest zainteresowany nie tylko talentem grupy, ale sam\u0105 osob\u0105 Gong Gila.",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/KingAndTheClownheader.jpg",
-      "genre": [
-        "historyczny",
-        "szkolny",
-        "LGBT+"
-      ],
-      "year": "2005",
-      "episodes": [
-        {
-          "ep_title": "Film",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/e741f562-3cfb-43c7-bcbf-bc83c108920c"
-          ],
-          "episode": "1",
-          "episode_ID": "285761"
-        }
-      ]
-    },
+    null,
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/like-for-likes/",
       "title": "Like for Likes",
