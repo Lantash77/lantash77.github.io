@@ -30768,6 +30768,13 @@
           "episode_ID": "1292848"
         },
         {
+          "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "9",
+          "episode_ID": "1292849"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -67884,21 +67891,33 @@
           "episode_ID": "1297463"
         },
         {
-          "ep_title": "Odcinek 4<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cc0c6904-c6cb-4249-9a61-5a4aa855be87"
+          ],
           "episode": "4",
           "episode_ID": "1297464"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/62191108-d0ec-4603-86b4-0c17db488cf7"
+          ],
           "episode": "5",
           "episode_ID": "1297465"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "6",
+          "episode_ID": "1297466"
         },
         {
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
@@ -69579,7 +69598,160 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/the-first-night-with-the-duke/",
+      "title": "The First Night with the Duke",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2025/06/the-first-night-with-the-duke-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2025/06/the-first-night-with-the-duke-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "The First Night with the Duke",
+      "title_ID": "123715",
+      "fanart": "",
+      "plot": "Zwyczajna studentka niespodziewanie budzi si\u0119 w \u015bwiecie swojego ulubionego romansu historycznego. Teraz \u017cyje jako jedna z pobocznych postaci \u2014 Cha Seon Chaek, c\u00f3rka arystokratycznej rodziny, marz\u0105ca o spokojnym \u017cyciu. Jednak los szykuje dla niej zupe\u0142nie inny scenariusz. Gdy na jej drodze staje tajemniczy Lee Beon, ch\u0142odny, ale fascynuj\u0105cy arystokrata z kr\u00f3lewskim pochodzeniem, wszystko zaczyna si\u0119 komplikowa\u0107. Pojawienie si\u0119 Cha Seon Chaek zak\u0142\u00f3ca znany jej przebieg opowie\u015bci. Cho\u0107 pr\u00f3buje zbli\u017cy\u0107 do siebie g\u0142\u00f3wnych bohater\u00f3w, fabu\u0142a coraz bardziej wymyka si\u0119 spod kontroli.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2025/06/the-first-night-with-the-duke-header.jpg",
+      "genre": [
+        "romans",
+        "fantasy",
+        "komedia",
+        "historyczny",
+        "adaptacja powie\u015bci"
+      ],
+      "year": "2025",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/734d7dfb-6653-4aab-a007-feb5f897cbb9"
+          ],
+          "episode": "1",
+          "episode_ID": "1237151"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a8b28b87-7b89-4ea1-a98e-2929f8ac45b1"
+          ],
+          "episode": "2",
+          "episode_ID": "1237152"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fbfae4d9-4748-46fc-851b-1b119a13c532"
+          ],
+          "episode": "3",
+          "episode_ID": "1237153"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/c440bdbe-05bc-41f4-a740-14f0b7942160"
+          ],
+          "episode": "4",
+          "episode_ID": "1237154"
+        },
+        {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0682aa24-925b-497e-a1dd-648f9dc7977e"
+          ],
+          "episode": "5",
+          "episode_ID": "1237155"
+        },
+        {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/192c630d-1dbc-4818-9ac8-7bd1665e2d9c"
+          ],
+          "episode": "6",
+          "episode_ID": "1237156"
+        },
+        {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/fce0d689-0669-4984-927f-476ed0a51491"
+          ],
+          "episode": "7",
+          "episode_ID": "1237157"
+        },
+        {
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cb394f00-d357-4379-b51c-a8023ed05411"
+          ],
+          "episode": "8",
+          "episode_ID": "1237158"
+        },
+        {
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6fc100b4-7880-4680-8206-68403e33915e"
+          ],
+          "episode": "9",
+          "episode_ID": "1237159"
+        },
+        {
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/32e4dcd8-9b37-4cf2-9093-a911130c2850"
+          ],
+          "episode": "10",
+          "episode_ID": "12371510"
+        },
+        {
+          "ep_title": "Odcinek 11",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d5c310d5-3221-44e2-a573-7f2b02a5148f"
+          ],
+          "episode": "11",
+          "episode_ID": "12371511"
+        },
+        {
+          "ep_title": "Odcinek 12 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6478b619-f96e-4243-9c77-2b6d2c3aebdd"
+          ],
+          "episode": "12",
+          "episode_ID": "12371512"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/drama/koreanska/the-first-responders/",
       "title": "The First Responders",
@@ -111021,36 +111193,7 @@
         }
       ]
     },
-    {
-      "link": "https://www.dramaqueen.pl/film/koreanski/a-korean-in-paris/",
-      "title": "A Korean in Paris",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/05/koreaninparisgat.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2019/05/koreaninparisgat.jpg",
-      "type": "movie",
-      "title_ID": "40127",
-      "fanart": "",
-      "plot": "Sang Ho jest bezdomnym, kt\u00f3ry ka\u017cdego dnia przeszukuje zau\u0142ki Pary\u017ca, aby znale\u017a\u0107",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2018/05/koreanparisheader.jpg",
-      "genre": [
-        " tajemnice",
-        "dramat",
-        "rodzinny"
-      ],
-      "year": "2016",
-      "episodes": [
-        {
-          "ep_title": "Film",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6a2763b8-3b83-4f3b-a8cc-1ff7d80c1381"
-          ],
-          "episode": "1",
-          "episode_ID": "401271"
-        }
-      ]
-    },
+    null,
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/a-man-and-a-woman/",
       "title": "A Man and a Woman",
@@ -120852,7 +120995,35 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/film/pozostale/art-idol/",
+      "title": "Art Idol",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/07/artidolkat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2019/07/artidolkat.jpg",
+      "type": "movie",
+      "title_ID": "1109",
+      "fanart": "",
+      "plot": "Art to osiemnastoletni ch\u0142opak, kt\u00f3ry wr\u0119cz marzy o s\u0142awie. Nie jest jednak pewny, czy posiada wystarczaj\u0105cy talent, \u017ceby m\u00f3c osi\u0105gn\u0105\u0107 sw\u00f3j cel. Z kolei Foon jest m\u0142od\u0105 dziewczyn\u0105, kt\u00f3ra twardo st\u0105pa po ziemi i dobrze wie, czego chce. W\u0142a\u015bnie to czyni j\u0105 ca\u0142kowitym przeciwie\u0144stwem Arta. Dziewczyna darzy Arta uczuciem. Czy ch\u0142opak to zauwa\u017cy i zdo\u0142a spe\u0142ni\u0107 swoje marzenia?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2019/07/artidolheader.jpg",
+      "genre": [
+        "komedia",
+        "romans"
+      ],
+      "year": "2012",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a2385aed-f065-4c29-9cd3-67158b651a86"
+          ],
+          "episode": "1",
+          "episode_ID": "11091"
+        }
+      ]
+    },
     {
       "error": "<Response [404]>"
     },
