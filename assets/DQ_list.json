@@ -30761,11 +30761,7 @@
           "episode_ID": "1292847"
         },
         {
-          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
-          "players": [],
-          "links": [],
-          "episode": "8",
-          "episode_ID": "1292848"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "Odcinek 9<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
@@ -40384,7 +40380,19 @@
           "episode_ID": "1243133"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -111193,7 +111201,36 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/film/koreanski/a-korean-in-paris/",
+      "title": "A Korean in Paris",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/05/koreaninparisgat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2019/05/koreaninparisgat.jpg",
+      "type": "movie",
+      "title_ID": "40127",
+      "fanart": "",
+      "plot": "Sang Ho jest bezdomnym, kt\u00f3ry ka\u017cdego dnia przeszukuje zau\u0142ki Pary\u017ca, aby znale\u017a\u0107",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2018/05/koreanparisheader.jpg",
+      "genre": [
+        " tajemnice",
+        "dramat",
+        "rodzinny"
+      ],
+      "year": "2016",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/6a2763b8-3b83-4f3b-a8cc-1ff7d80c1381"
+          ],
+          "episode": "1",
+          "episode_ID": "401271"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/a-man-and-a-woman/",
       "title": "A Man and a Woman",
