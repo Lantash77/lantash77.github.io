@@ -67902,7 +67902,8 @@
       "genre": [
         "thriller",
         "dramat,",
-        "krymina\u0142"
+        "krymina\u0142",
+        "czarna komedia"
       ],
       "year": "2026",
       "episodes": [
@@ -121233,7 +121234,37 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/film/pozostale/better-days/",
+      "title": "Better Days",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/05/BetterDaysKat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2020/05/BetterDaysKat.jpg",
+      "type": "movie",
+      "title_ID": "79143",
+      "fanart": "",
+      "plot": "Kiedy nadchodzi czas na chi\u0144skie gaokao, ca\u0142y kraj zatrzymuje si\u0119. Dla prawie 9 milion\u00f3w uczni\u00f3w szk\u00f3\u0142 \u015brednich ten dwudniowy krajowy egzamin wst\u0119pny na studia okre\u015bli, gdzie i czy w og\u00f3le b\u0119d\u0105 mogli kontynuowa\u0107 nauk\u0119. Nierzadko losy ca\u0142ych rodzin zale\u017c\u0105 od jego wyniku.  Podobnie jak wielu innych, Nian koncentruje si\u0119 na przygotowaniach do egzaminu, odcinaj\u0105c si\u0119 od wszystkiego innego. Kiedy jej kole\u017canka z klasy pope\u0142nia samob\u00f3jstwo, staje si\u0119 ona kolejnym celem nieustannego zn\u0119cania si\u0119. Tymczasem los \u0142\u0105czy j\u0105 z drobnym przest\u0119pc\u0105  Beiem, z kt\u00f3rym zawi\u0105zuje pakt.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2020/05/BetterDaysheader.jpg",
+      "genre": [
+        "<em>psychologiczny</em>",
+        "<em>romans</em>",
+        "szkolny",
+        "dramat"
+      ],
+      "year": "2019",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f2a03257-5597-422b-af52-6e9057105981"
+          ],
+          "episode": "1",
+          "episode_ID": "791431"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/film/pozostale/bride-wars/",
       "title": "Bride Wars",
@@ -122819,7 +122850,7 @@
     },
     "Czarna Komedia": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/czarna-komedia/",
-      "gen_count": "5"
+      "gen_count": "6"
     },
     "Detektywistyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/detektywistyczny/",
