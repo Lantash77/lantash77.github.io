@@ -63512,7 +63512,11 @@
           "episode_ID": "12285224"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 25<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "25",
+          "episode_ID": "12285225"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -92574,7 +92578,137 @@
         }
       ]
     },
-    null,
+    {
+      "link": "https://www.dramaqueen.pl/drama/japonska/perfect-girl-evolution/",
+      "title": "Perfect Girl Evolution",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/06/perfectgirlevolutionkat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2019/06/perfectgirlevolutionkat.jpg",
+      "type": "drama",
+      "tvshowtitle": "Perfect Girl Evolution",
+      "title_ID": "450",
+      "fanart": "",
+      "plot": "Takano Kyohei to student, kt\u00f3ry jest przystojny, ale ma te\u017c wredny charakterek i zawsze jest gotowy do walki. Toyama Yukinojo jest tak uroczy, \u017ce cz\u0119sto myli si\u0119 go z dziewczyn\u0105. Oda Takenaga jest wybitnym uczniem zar\u00f3wno je\u015bli chodzi o zaj\u0119cia teoretyczne jak i sport. Mori Ranmaru to wsp\u00f3\u0142lokator tej tr\u00f3jki, kt\u00f3ry uwielbia kobiety. Akceptuj\u0105 oni propozycj\u0119 kobiety wynajmuj\u0105cej im dom \u2013 b\u0119d\u0105 mogli w nim mieszka\u0107 za darmo, je\u015bli zmieni\u0105 jej siostrzenic\u0119 z brzydkiego kacz\u0105tka w prawdziwego \u0142ab\u0119dzia. Jej siostrzenica, Nakahara Sunako jest jednak osob\u0105 odosobnion\u0105, przygn\u0119bion\u0105 i roztaczaj\u0105c\u0105 przera\u017caj\u0105c\u0105 aur\u0119 \u2013 wynika to z jej kompleks\u00f3w na punkcie swojego wygl\u0105du.</p>\n<p>",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2019/06/perfectgirlevolutionheader.jpg",
+      "genre": [
+        "komedia",
+        "romans",
+        "ekranizacja mangi",
+        "dramat"
+      ],
+      "year": "2010",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/9adc53b2-a6d5-49b0-a06a-efc8ea4fa909"
+          ],
+          "episode": "1",
+          "episode_ID": "4501"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/43547c82-0fa4-4a06-9a70-c10b8afc2c33"
+          ],
+          "episode": "2",
+          "episode_ID": "4502"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/cb1d9020-d468-4356-8690-91734eab809e"
+          ],
+          "episode": "3",
+          "episode_ID": "4503"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ec3a3cd2-5f32-4fe1-bf8e-68c5b1bd1117"
+          ],
+          "episode": "4",
+          "episode_ID": "4504"
+        },
+        {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/39afb616-410c-4a75-ac3d-7e63c3a806e8"
+          ],
+          "episode": "5",
+          "episode_ID": "4505"
+        },
+        {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/533bc5c4-7610-457b-9034-84832d4664c8"
+          ],
+          "episode": "6",
+          "episode_ID": "4506"
+        },
+        {
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/737e2644-8734-4d63-af01-b5331102d984"
+          ],
+          "episode": "7",
+          "episode_ID": "4507"
+        },
+        {
+          "ep_title": "Odcinek 8",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/1290944f-a683-419e-91e7-cd8b6de81691"
+          ],
+          "episode": "8",
+          "episode_ID": "4508"
+        },
+        {
+          "ep_title": "Odcinek 9",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/4243151d-99f0-4634-823d-14b037150f3a"
+          ],
+          "episode": "9",
+          "episode_ID": "4509"
+        },
+        {
+          "ep_title": "Odcinek 10 - Fina\u0142",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f3480248-a2d3-4c0d-a003-2e03e837b7fa"
+          ],
+          "episode": "10",
+          "episode_ID": "45010"
+        }
+      ]
+    },
     {
       "link": "https://www.dramaqueen.pl/drama/japonska/risky/",
       "title": "Risky",
@@ -122942,7 +123076,7 @@
     },
     "Akcja": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/akcja/",
-      "gen_count": "199"
+      "gen_count": "200"
     },
     "Biograficzny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/biograficzny/",
@@ -122958,7 +123092,7 @@
     },
     "Dramat": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/dramat/",
-      "gen_count": "448"
+      "gen_count": "449"
     },
     "Ekranizacja Mangi/Anime": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/ekranizacja-mangianime/",
@@ -122974,7 +123108,7 @@
     },
     "Historyczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/historyczny/",
-      "gen_count": "90"
+      "gen_count": "91"
     },
     "Horror": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/horror/",
