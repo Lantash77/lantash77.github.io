@@ -29288,6 +29288,17 @@
           "episode_ID": "1267015"
         },
         {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3f3a56a9-847c-4d92-8446-e3afeb01edf3"
+          ],
+          "episode": "6",
+          "episode_ID": "1267016"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -105799,6 +105810,9 @@
           "episode_ID": "1292888"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -123184,7 +123198,7 @@
     },
     "Psychologiczny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/psychologiczny/",
-      "gen_count": "68"
+      "gen_count": "69"
     },
     "Rodzinny": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/rodzinny/",
@@ -123228,7 +123242,7 @@
     },
     "Thriller": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/thriller/",
-      "gen_count": "237"
+      "gen_count": "238"
     },
     "Web Drama": {
       "gen_link": "https://www.dramaqueen.pl/gatunek/web-drama/",
