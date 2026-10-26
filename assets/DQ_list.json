@@ -63523,9 +63523,13 @@
           "episode_ID": "12285224"
         },
         {
-          "ep_title": "Odcinek 25<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 25",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3b3238fb-5e11-4367-82d3-a5f55c80e936"
+          ],
           "episode": "25",
           "episode_ID": "12285225"
         },
@@ -96116,6 +96120,9 @@
           "episode_ID": "12478932"
         },
         {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
@@ -105695,11 +105702,18 @@
           "episode_ID": "12655614"
         },
         {
-          "ep_title": "Odcinek 15<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 15",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/824cdfde-e0b5-4a2d-94f4-4c0704cc6e28"
+          ],
           "episode": "15",
           "episode_ID": "12655615"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
         }
       ]
     },
@@ -113076,37 +113090,7 @@
         }
       ]
     },
-    {
-      "link": "https://www.dramaqueen.pl/film/koreanski/gonjiam-haunted-asylum/",
-      "title": "Gonjiam: Haunted Asylum",
-      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2019/05/gonjiamgt.jpg",
-      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2019/05/gonjiamgt.jpg",
-      "type": "movie",
-      "title_ID": "45855",
-      "fanart": "",
-      "plot": "W 1979 roku w Szpitalu Psychiatrycznym Gonjiam dosz\u0142o do serii samob\u00f3jstw w\u015br\u00f3d pacjent\u00f3w, a po \u00f3wczesnej dyrektorce zagin\u0105\u0142 \u015blad. Pojawiaj\u0105ce si\u0119 pog\u0142oski oraz dziwne historie o opuszczonym szpitalu sprawi\u0142y, \u017ce sta\u0142 si\u0119 on jednym z siedmiu najstraszniejszych miejsc na \u015bwiecie. S\u0142awny vloger wraz z sz\u00f3stk\u0105 \u015bmia\u0142k\u00f3w decyduj\u0105 si\u0119 wej\u015b\u0107 do opuszczonego szpitala, aby do\u015bwiadczy\u0107 nieokie\u0142znanego strachu, jednocze\u015bnie prowadz\u0105c transmisj\u0119 na \u017cywo z wn\u0119trza budynku. Co wyniknie z ich wyprawy, a tak\u017ce co lub kogo spotkaj\u0105 na swojej drodze?",
-      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2018/09/gonjiamheader.jpg",
-      "genre": [
-        "tajemnice",
-        "horror",
-        "thriller",
-        "suspence"
-      ],
-      "year": "2018",
-      "episodes": [
-        {
-          "ep_title": "Film",
-          "players": [
-            "DQ-Player"
-          ],
-          "links": [
-            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ade06f47-0871-4165-bee5-cd7a8cac7029"
-          ],
-          "episode": "1",
-          "episode_ID": "458551"
-        }
-      ]
-    },
+    null,
     {
       "link": "https://www.dramaqueen.pl/film/koreanski/good-friends/",
       "title": "Good Friends",
