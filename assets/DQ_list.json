@@ -41678,9 +41678,13 @@
           "episode_ID": "1287334"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5b79d849-94e9-4d3f-bc02-93846f84137d "
+          ],
           "episode": "5",
           "episode_ID": "1287335"
         },
@@ -74429,6 +74433,42 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/koreanska/the-perfect-lie/",
+      "title": "The Perfect Lie",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/10/The-Perfect-Lie-kat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/10/The-Perfect-Lie-kat.jpg",
+      "type": "drama",
+      "tvshowtitle": "The Perfect Lie",
+      "title_ID": "130502",
+      "fanart": "",
+      "plot": "Min Jun Ho, kardiochirurg, kt\u00f3ry po \u015bmierci \u017cony samotnie wychowuje syna, poznaje Kang Ji Seon, nauczycielk\u0119 ta\u0144ca wsp\u00f3\u0142czesnego z gimnazjum artystycznego. Nast\u0119pnego dnia po pierwszej wsp\u00f3lnej randce, kt\u00f3ra wydawa\u0142a si\u0119 idealna, zostaj\u0105 wci\u0105gni\u0119ci w wir nieoczekiwanych zdarze\u0144, przedstawiaj\u0105c zupe\u0142nie inne fakty. Po\u015br\u00f3d prawdy i k\u0142amstw, ka\u017cde z nich b\u0119dzie musia\u0142o odkry\u0107, komu tak naprawd\u0119 mo\u017ce zaufa\u0107.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/10/The-Perfect-Lie-Header.jpg",
+      "genre": [
+        "thriller",
+        "psychologiczny"
+      ],
+      "year": "2026",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "1",
+          "episode_ID": "1305021"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 3<strong>Premiera w Korei: 06.11.2026 </strong>",
+          "players": [],
+          "links": [],
+          "episode": "3",
+          "episode_ID": "1305023"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/koreanska/the-player/",
       "title": "The Player",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/06/PLAYERkat.jpg",
@@ -91310,7 +91350,77 @@
       ]
     },
     {
-      "link": "https://www.dramaqueen.pl/kimi-no-hana-ni-naru/",
+      "link": "https://www.dramaqueen.pl/drama/japonska/kidnap-game/",
+      "title": "kiDnap GAME",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/10/KidnapGameKat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/10/KidnapGameKat.jpg",
+      "type": "drama",
+      "tvshowtitle": "kiDnap GAME",
+      "title_ID": "130308",
+      "fanart": "",
+      "plot": "W siedmiu azjatyckich miastach dochodzi do tajemniczych porwa\u0144. Rodziny ofiar otrzymuj\u0105 e-maile z zaproszeniem do gry i wiadomo\u015bci\u0105: \u201eJak daleko jeste\u015b w stanie si\u0119 posun\u0105\u0107, by uratowa\u0107 ukochan\u0105 osob\u0119?\u201d. Ka\u017cdy uczestnik gry otrzymuje instrukcje i musi wykona\u0107 przydzielon\u0105 mu misj\u0119. Osoba, kt\u00f3ra wykona j\u0105 jako pierwsza, ocali ukochan\u0105 osob\u0119. Pozosta\u0142e ofiary zgin\u0105. Rozpoczyna si\u0119 walka na \u015bmier\u0107 i \u017cycie.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/10/KidnapGameHeader.jpg",
+      "genre": [
+        "akcja",
+        "thriller",
+        "krymina\u0142"
+      ],
+      "year": "2026",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/a7593473-6dfd-4167-9578-cec8ff47829e"
+          ],
+          "episode": "1",
+          "episode_ID": "1303081"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/da58e44a-4a9e-45a1-b9d6-00e68881ea2a "
+          ],
+          "episode": "2",
+          "episode_ID": "1303082"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/279c2749-e3fc-4d5c-a672-c8da860e3454"
+          ],
+          "episode": "3",
+          "episode_ID": "1303083"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        },
+        {
+          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "5",
+          "episode_ID": "1303085"
+        },
+        {
+          "ep_title": "Odcinek 6<strong>Premiera w Japonii i Korei: 10.11.2026 </strong>",
+          "players": [],
+          "links": [],
+          "episode": "6",
+          "episode_ID": "1303086"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/drama/japonska/kimi-no-hana-ni-naru/",
       "title": "Kimi no Hana ni Naru",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2024/07/Kimi.no_.hana1_.png",
       "poster": "https://www.dramaqueen.pl/wp-content/uploads/2024/07/Kimi.no_.hana1_.png",
@@ -97395,7 +97505,7 @@
           "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         }
       ]
     },
@@ -105749,6 +105859,95 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/drama/pozostale/the-best-thing/",
+      "title": "The Best Thing",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/08/the-best-thing-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/08/the-best-thing-ikonka.jpg",
+      "type": "drama",
+      "tvshowtitle": "The Best Thing",
+      "title_ID": "129915",
+      "fanart": "",
+      "plot": "Shen Xifan jest pracoholiczk\u0105 cierpi\u0105c\u0105 na bezsenno\u015b\u0107 i migren\u0119. Szuka pomocy u doktora tradycyjnej medycyny chi\u0144skiej, He Suye. Z wizyty na wizyt\u0119 ich relacja si\u0119 pog\u0142\u0119bia, szczeg\u00f3lnie gdy dowiaduj\u0105 si\u0119, \u017ce mieszkaj\u0105 w tym samym s\u0105siedztwie. Oboje, zranieni przez mi\u0142o\u015b\u0107, staraj\u0105 si\u0119 otworzy\u0107 swoje serca na nowo.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/08/The-Best-Thing-header.jpg",
+      "genre": [
+        "romans",
+        "dramat,",
+        "medyczny"
+      ],
+      "year": "2025",
+      "episodes": [
+        {
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/2eb9ae78-c0bc-43f2-b3e4-71f55bf6809e"
+          ],
+          "episode": "1",
+          "episode_ID": "1299151"
+        },
+        {
+          "ep_title": "Odcinek 2",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bdbafdbe-da79-4a3d-9ea1-a7c8976b48a9"
+          ],
+          "episode": "2",
+          "episode_ID": "1299152"
+        },
+        {
+          "ep_title": "Odcinek 3",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/d2b331ff-0dc1-489e-927d-ba6263ed4bff"
+          ],
+          "episode": "3",
+          "episode_ID": "1299153"
+        },
+        {
+          "ep_title": "Odcinek 4",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/660d9f15-c77b-4a49-9064-5e737da64c07"
+          ],
+          "episode": "4",
+          "episode_ID": "1299154"
+        },
+        {
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/3a011fef-1c98-4859-a8ec-32f3be0a94d2"
+          ],
+          "episode": "5",
+          "episode_ID": "1299155"
+        },
+        {
+          "ep_title": "Odcinek 6",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/100909c1-1555-438c-833a-a16361f9ceae"
+          ],
+          "episode": "6",
+          "episode_ID": "1299156"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/drama/pozostale/the-crown-princess/",
       "title": "The Crown Princess",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/07/the-crown-princess-ikonka.jpg",
@@ -105855,7 +106054,11 @@
           "episode_ID": "1292888"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 9<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "9",
+          "episode_ID": "1292889"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -114233,6 +114436,29 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/film/koreanski/love-in-the-big-city/",
+      "title": "Love in the Big City",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/LoveINTHeBigCityKat.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/LoveINTHeBigCityKat.jpg",
+      "type": "movie",
+      "title_ID": "129999",
+      "fanart": "",
+      "plot": "Koo Jae Hee ma ci\u0119ty j\u0119zyk i do damy jej daleko. Od pocz\u0105tku wprawia w os\u0142upienie koleg\u00f3w ze studi\u00f3w, a plotki na jej temat nie maj\u0105 ko\u0144ca. Z boku przygl\u0105da si\u0119 temu Heung Soo. Sam robi wszystko, by nie zwraca\u0107 na siebie uwagi. Za wszelk\u0105 cen\u0119 chce ukry\u0107 fakt, \u017ce jest gejem. Pewnej nocy Jae Hee przypadkowo odkrywa jego sekret. Zamiast szykan Heung Soo otrzymuje od niej pomocn\u0105 d\u0142o\u0144.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/LoveINTHeBigCityHeader.jpg",
+      "genre": [
+        "<em>dramat</em>",
+        "<em>adaptacja powie\u015bc</em>i",
+        "LGBT+",
+        "romans"
+      ],
+      "year": "2024",
+      "episodes": [
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/film/koreanski/love-me-not/",
       "title": "Love Me Not",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/lovemenot_kat.jpg",
@@ -115295,6 +115521,36 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/film/koreanski/once-again-1997/",
+      "title": "Once Again 1997",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/OnceAgainhKAt.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/OnceAgainhKAt.jpg",
+      "type": "movie",
+      "title_ID": "130008",
+      "fanart": "",
+      "plot": "Co by\u015b zrobi\u0142, gdyby los da\u0142 ci szans\u0119 powt\u00f3rzy\u0107 swoje \u017cycie?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/OnceAgainhEADER.jpg",
+      "genre": [
+        "fantasy",
+        "szkolny",
+        "komedia"
+      ],
+      "year": "2024",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/0f0e9734-1de7-43ac-840e-dc4ac0963474"
+          ],
+          "episode": "1",
+          "episode_ID": "1300081"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/film/koreanski/one-day/",
       "title": "One Day",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/onedaykat.jpg",
@@ -115896,6 +116152,36 @@
           ],
           "episode": "1",
           "episode_ID": "346201"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/film/koreanski/salmokji-whispering-water/",
+      "title": "Salmokji: Whispering Water",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/Salmokji-Whispering-WaterKAt.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/Salmokji-Whispering-WaterKAt.jpg",
+      "type": "movie",
+      "title_ID": "129997",
+      "fanart": "",
+      "plot": "Na zdj\u0119ciu ze Street View z okolic zbiornika wodnego Salmokji uchwycono niezidentyfikowan\u0105 posta\u0107. By opanowa\u0107 sytuacj\u0119 i uci\u0105\u0107 domys\u0142y, konieczne jest ponowne nakr\u0119cenie uj\u0119cia z tego miejsca. Jednak nikt nie kwapi si\u0119, \u017ceby tam wraca\u0107. Na ochotnika zg\u0142asza si\u0119 Su In i przejmuje dowodzenie nad ekip\u0105 w zast\u0119pstwie swojego szefa, kt\u00f3ry znikn\u0105\u0142 po wizycie w tej okolicy. Nagrywanie komplikuje si\u0119, gdy wszyscy zaczynaj\u0105 do\u015bwiadcza\u0107 niepokoj\u0105cych zjawisk, kt\u00f3rych nie da si\u0119 racjonalnie wyja\u015bni\u0107. Ekipa musi zmierzy\u0107 si\u0119 z obecno\u015bci\u0105 czego\u015b, co nie chce pozosta\u0107 niewidzialne oraz z prawd\u0105, kt\u00f3ra nigdy nie powinna wyj\u015b\u0107 na jaw.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/Salmokji-Whispering-WaterHeader.jpg",
+      "genre": [
+        "horror",
+        "thriller",
+        "tajemnice"
+      ],
+      "year": "2026",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/69eede99-bd45-495c-93bb-6081897ad60a"
+          ],
+          "episode": "1",
+          "episode_ID": "1299971"
         }
       ]
     },
@@ -117326,6 +117612,36 @@
       ]
     },
     {
+      "link": "https://www.dramaqueen.pl/film/koreanski/the-swordsman/",
+      "title": "The Swordsman",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/the-swordsman-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/the-swordsman-ikonka.jpg",
+      "type": "movie",
+      "title_ID": "130458",
+      "fanart": "",
+      "plot": "By\u0142y szermierz Joseon, Tae Yul, \u017cyje w odosobnieniu w g\u00f3rach wraz ze swoj\u0105 c\u00f3rk\u0105, Tae Ok. Pogarszaj\u0105cy si\u0119 wzrok ojca sk\u0142ania dziewczyn\u0119 do wyruszenia w poszukiwaniu lekarstwa. Wkr\u00f3tce Tae Ok zostaje porwana przez handlarza niewolnik\u00f3w. Aby ocali\u0107 c\u00f3rk\u0119, Tae Yul musi ponownie si\u0119gn\u0105\u0107 po miecz i stan\u0105\u0107 do walki nie tylko z przeciwnikami, ale tak\u017ce z w\u0142asn\u0105 przesz\u0142o\u015bci\u0105.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/the-swordsman-header.jpg",
+      "genre": [
+        "akcja",
+        "historyczny",
+        "dramat"
+      ],
+      "year": "2020",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/14065c31-1e34-4f74-b78f-55305bfce21e"
+          ],
+          "episode": "1",
+          "episode_ID": "1304581"
+        }
+      ]
+    },
+    {
       "link": "https://www.dramaqueen.pl/film/koreanski/the-tiger-an-old-hunters-tale/",
       "title": "The Tiger: An Old Hunter's Tale",
       "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2020/08/the-tiger-ikonka.jpg",
@@ -117680,6 +117996,37 @@
           ],
           "episode": "1",
           "episode_ID": "167811"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/film/koreanski/virus/",
+      "title": "Virus",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/virus-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/virus-ikonka.jpg",
+      "type": "movie",
+      "title_ID": "130257",
+      "fanart": "",
+      "plot": "Ok Taek Seon zmaga si\u0119 z brakiem energii i motywacji przez brak kom\u00f3rek mi\u0142osnych. Po chaotycznej randce w ciemno z Nam Su Pilem jej charakter zmienia si\u0119 o 180\u00b0, staje si\u0119 weso\u0142a i romantyczna. Niestety dowiaduje si\u0119, \u017ce jej nag\u0142a przemiana mo\u017ce by\u0107 spowodowana wirusem Toxo, kt\u00f3rego prze\u017cywalno\u015b\u0107 wynosi r\u00f3wne 0%. Poznaje jedyn\u0105 osob\u0119, kt\u00f3ra mo\u017ce j\u0105 uratowa\u0107, doktora Lee Gyuna. Tylko czy w tej znajomo\u015bci b\u0119dzie chodzi\u0142o jedynie o przetrwanie?",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/virus-header.jpg",
+      "genre": [
+        "romans",
+        "tajemnice",
+        "komedia",
+        "science-fiction"
+      ],
+      "year": "2025",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/f9af2f0a-4573-4941-9d73-8ca453dee589"
+          ],
+          "episode": "1",
+          "episode_ID": "1302571"
         }
       ]
     },
@@ -118680,6 +119027,36 @@
           ],
           "episode": "1",
           "episode_ID": "484601"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/film/japonski/faceless/",
+      "title": "Faceless",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/faceless-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/faceless-ikonka.jpg",
+      "type": "movie",
+      "title_ID": "130250",
+      "fanart": "",
+      "plot": "Kaburagi, kt\u00f3ry zosta\u0142 aresztowany i skazany na \u015bmier\u0107 jako podejrzany o ohydne zab\u00f3jstwo, ucieka. Sayaka, Kazuya, Mai oraz Matanuki \u2013 detektyw \u015bcigaj\u0105cy Kaburagiego \u2013 spotykaj\u0105 go, gdy ten kontynuuje swoj\u0105 ucieczk\u0119 po Japonii. Jednak Kaburagi, kt\u00f3rego spotyka ka\u017cda z tych os\u00f3b, jest zupe\u0142nie inny[\u2026]",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/faceless-header.jpg",
+      "genre": [
+        "thriller",
+        "tajemnice",
+        "dramat"
+      ],
+      "year": "2024",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/00263e09-7c83-48a5-8857-c5616601deea?"
+          ],
+          "episode": "1",
+          "episode_ID": "1302501"
         }
       ]
     },
@@ -122210,6 +122587,35 @@
           ],
           "episode": "1",
           "episode_ID": "1158761"
+        }
+      ]
+    },
+    {
+      "link": "https://www.dramaqueen.pl/film/pozostale/mumu/",
+      "title": "Mumu",
+      "thumb": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/mumu-ikonka.jpg",
+      "poster": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/mumu-ikonka.jpg",
+      "type": "movie",
+      "title_ID": "130398",
+      "fanart": "",
+      "plot": "Siedmioletnia Mumu to pe\u0142na rado\u015bci dziewczynka, kt\u00f3ra dorasta w kochanej spo\u0142eczno\u015bci os\u00f3b g\u0142uchych, u boku swojego ojca, Xiao Ma. Ich spokojnie \u017cycie zostaje wywr\u00f3cone do g\u00f3ry nogami, gdy po latach nieobecno\u015bci powraca matka Mumu, kt\u00f3ra pr\u00f3buje wprowadzi\u0107 c\u00f3rk\u0119 w \u015bwiat ludzi s\u0142ysz\u0105cych.",
+      "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/09/mumu-header.jpg",
+      "genre": [
+        "dramat",
+        "rodzinny"
+      ],
+      "year": "2025",
+      "episodes": [
+        {
+          "ep_title": "Film",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/557cd5b9-8d8d-4059-8376-0a92279952b5"
+          ],
+          "episode": "1",
+          "episode_ID": "1303981"
         }
       ]
     },
