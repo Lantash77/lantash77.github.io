@@ -74441,7 +74441,7 @@
       "tvshowtitle": "The Perfect Lie",
       "title_ID": "130502",
       "fanart": "",
-      "plot": "Min Jun Ho, kardiochirurg, kt\u00f3ry po \u015bmierci \u017cony samotnie wychowuje syna, poznaje Kang Ji Seon, nauczycielk\u0119 ta\u0144ca wsp\u00f3\u0142czesnego z gimnazjum artystycznego. Nast\u0119pnego dnia po pierwszej wsp\u00f3lnej randce, kt\u00f3ra wydawa\u0142a si\u0119 idealna, zostaj\u0105 wci\u0105gni\u0119ci w wir nieoczekiwanych zdarze\u0144, przedstawiaj\u0105c zupe\u0142nie inne fakty. Po\u015br\u00f3d prawdy i k\u0142amstw, ka\u017cde z nich b\u0119dzie musia\u0142o odkry\u0107, komu tak naprawd\u0119 mo\u017ce zaufa\u0107.",
+      "plot": "Min Jun Ho, kardiochirurg, kt\u00f3ry po \u015bmierci \u017cony samotnie wychowuje syna, poznaje Kang Ji Seon, nauczycielk\u0119 z gimnazjum. Nast\u0119pnego dnia po pierwszej wsp\u00f3lnej randce, kt\u00f3ra wydawa\u0142a si\u0119 idealna, zostaj\u0105 wci\u0105gni\u0119ci w wir nieoczekiwanych zdarze\u0144, przedstawiaj\u0105c zupe\u0142nie inne fakty. Po\u015br\u00f3d prawdy i k\u0142amstw, ka\u017cde z nich b\u0119dzie musia\u0142o odkry\u0107, komu tak naprawd\u0119 mo\u017ce zaufa\u0107.",
       "banner": "https://www.dramaqueen.pl/wp-content/uploads/2026/10/The-Perfect-Lie-Header.jpg",
       "genre": [
         "thriller",
@@ -74450,14 +74450,18 @@
       "year": "2026",
       "episodes": [
         {
-          "ep_title": "Odcinek 1<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 1",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/b8dc56ca-4f09-455d-9cd1-63d8968ce7ce"
+          ],
           "episode": "1",
           "episode_ID": "1305021"
         },
         {
-          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "ep_title": "Odcinek 2<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
           "players": [],
           "links": [],
           "episode": "2",
@@ -91419,9 +91423,13 @@
           "episode_ID": "1303084"
         },
         {
-          "ep_title": "Odcinek 5<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 5",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/ac4f184f-b9ea-4fef-bf63-343a26cbc7c9"
+          ],
           "episode": "5",
           "episode_ID": "1303085"
         },
@@ -97529,10 +97537,18 @@
           "episode_ID": "12019433"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 34<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "34",
+          "episode_ID": "12019434"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek specjalny<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
+          "players": [],
+          "links": [],
+          "episode": "35",
+          "episode_ID": "12019435"
         }
       ]
     },
