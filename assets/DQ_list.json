@@ -25193,9 +25193,13 @@
           "episode_ID": "1293118"
         },
         {
-          "ep_title": "Odcinek 9 <img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 9 ",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/df8eb73f-b93a-4351-8cef-7a79414dd008"
+          ],
           "episode": "9",
           "episode_ID": "1293119"
         },
@@ -91514,7 +91518,11 @@
           "episode_ID": "1303086"
         },
         {
-          "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
+          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "1303087"
         },
         {
           "ep_title": "Odcinek 8<strong>Premiera w Japonii i Korei: 24.11.2026 </strong>",
@@ -97592,9 +97600,13 @@
           "episode_ID": "12019429"
         },
         {
-          "ep_title": "Odcinek 30<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 30",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/92349293-2119-4dc1-8f23-06704bea9891"
+          ],
           "episode": "30",
           "episode_ID": "12019430"
         },
@@ -106067,6 +106079,13 @@
           ],
           "episode": "6",
           "episode_ID": "1299156"
+        },
+        {
+          "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "7",
+          "episode_ID": "1299157"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
