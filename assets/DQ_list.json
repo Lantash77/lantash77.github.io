@@ -25204,7 +25204,15 @@
           "episode_ID": "1293119"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 10",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/aaa20bf2-da45-4f65-8a4c-7b9cc638b8d6"
+          ],
+          "episode": "10",
+          "episode_ID": "12931110"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -41712,6 +41720,9 @@
           ],
           "episode": "5",
           "episode_ID": "1287335"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
@@ -74541,7 +74552,11 @@
           "episode_ID": "1305025"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 6<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-38171\" />",
+          "players": [],
+          "links": [],
+          "episode": "6",
+          "episode_ID": "1305026"
         },
         {
           "ep_title": "Odcinek 7<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
@@ -74551,11 +74566,18 @@
           "episode_ID": "1305027"
         },
         {
-          "ep_title": "Odcinek 8<strong>Premiera w Korei: 21.11.2026 </strong>",
+          "ep_title": "Odcinek 8<img decoding=\"async\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/07/przet\u0142umaczonyodc.png\" alt=\"\" width=\"193\" height=\"23\" class=\"alignnone size-full wp-image-43540\" />",
           "players": [],
           "links": [],
           "episode": "8",
           "episode_ID": "1305028"
+        },
+        {
+          "ep_title": "Odcinek 9<strong>Premiera w Korei: 27.11.2026 </strong>",
+          "players": [],
+          "links": [],
+          "episode": "9",
+          "episode_ID": "1305029"
         }
       ]
     },
@@ -91525,7 +91547,15 @@
           "episode_ID": "1303086"
         },
         {
-          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
+          "ep_title": "Odcinek 7",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/bf74229c-64d5-47ba-bbf0-1274fecda32d "
+          ],
+          "episode": "7",
+          "episode_ID": "1303087"
         },
         {
           "ep_title": "Odcinek 8<strong>Premiera w Japonii i Korei: 24.11.2026 </strong>",
@@ -97617,9 +97647,13 @@
           "episode_ID": "12019430"
         },
         {
-          "ep_title": "Odcinek 31<img decoding=\"async\" class=\"alignnone size-full wp-image-38171\" src=\"https://www.dramaqueen.pl/wp-content/uploads/2018/04/uploadnowe.jpg\" alt=\"\" width=\"193\" height=\"23\" />",
-          "players": [],
-          "links": [],
+          "ep_title": "Odcinek 31",
+          "players": [
+            "DQ-Player"
+          ],
+          "links": [
+            "dqplayer|https://iframe.mediadelivery.net/embed/43012/5a3df51f-40d1-4df6-9456-837b6f698b16"
+          ],
           "episode": "31",
           "episode_ID": "12019431"
         },
@@ -106218,6 +106252,9 @@
           ],
           "episode": "9",
           "episode_ID": "1292889"
+        },
+        {
+          "ep_title": "[COLOR=red][I]  korekta[/COLOR][/I]"
         },
         {
           "ep_title": "[COLOR=red][I]  w t\u0142umaczeniu[/COLOR][/I]"
